@@ -1,0 +1,72 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Air Ride",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Air Ride",
+                        "Air Ride Checklist"
+                    ]
+                }
+            },
+            {
+                "title": "City Trial",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "City Trial",
+                        "City Trial Checklist"
+                    ]
+                }
+            },
+            {
+                "title": "Top Ride",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Top Ride",
+                        "Top Ride Checklist"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Air Ride",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Air Ride",
+                        "Air Ride Checklist"
+                    ]
+                }
+            },
+            {
+                "title": "City Trial",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "City Trial",
+                        "City Trial Checklist"
+                    ]
+                }
+            },
+            {
+                "title": "Top Ride",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Top Ride",
+                        "Top Ride Checklist"
+                    ]
+                }
+            }
+        ]
+    }
+}

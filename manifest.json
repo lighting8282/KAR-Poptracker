@@ -1,0 +1,22 @@
+{
+    "name": "Kirby Air Ride Archipelago",
+    "game_name": "Kirby Air Ride",
+    "package_version": "0.0.1",
+    "package_uid": "kirby air ride_ap",
+    "author": "builder_script",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}

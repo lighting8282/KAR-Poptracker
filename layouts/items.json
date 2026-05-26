@@ -1,0 +1,652 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "boost_up_perm",
+                        "charge_up_perm",
+                        "defense_up_perm",
+                        "glide_up_perm",
+                        "hp_up_perm"
+                    ],
+                    [
+                        "offense_up_perm",
+                        "top_speed_up_perm",
+                        "turn_up_perm",
+                        "weight_up_perm"
+                    ],
+                    [
+                        "all_up",
+                        "patch_cap_increase",
+                        "update"
+                    ]
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "boost_up_perm",
+                        "charge_up_perm",
+                        "defense_up_perm",
+                        "glide_up_perm",
+                        "hp_up_perm"
+                    ],
+                    [
+                        "offense_up_perm",
+                        "top_speed_up_perm",
+                        "turn_up_perm",
+                        "weight_up_perm"
+                    ],
+                    [
+                        "all_up",
+                        "patch_cap_increase",
+                        "update"
+                    ]
+                ]
+            }
+        ]
+    },
+    "air_ride_settings": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "4, 4",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "air_ride_progression_time_attack",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "Time Attack checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "air_ride_progression_free_run",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "Free Run checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "air_ride_progression_high_effort",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "High Effort checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            }
+        ]
+    },
+    "city_trial_settings": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "4, 4",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_free_run",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "Free Run checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_multiplayer",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "Multiplayer checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_rng",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "RNG checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_bust_vehicles",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "Bust Vehicle checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_high_effort",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "High Effort checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            }
+        ]
+    },
+    "top_ride_settings": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "4, 4",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "top_ride_progression_time_attack",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "Time Attack checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "top_ride_progression_free_run",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "Free Run checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "top_ride_progression_high_effort",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "High Effort checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 3",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "top_ride_progression_multiplayer",
+                        "width": 20,
+                        "height": 20
+                    },
+                    {
+                        "type": "label",
+                        "text": "Multiplayer checks are progression",
+                        "margin": "4, 0"
+                    }
+                ]
+            }
+        ]
+    },
+    "setting_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "4, 4",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "air_ride_progression_time_attack",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "Air Ride: Time Attack checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "air_ride_progression_free_run",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "Air Ride: Free Run checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "air_ride_progression_high_effort",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "Air Ride: High Effort checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_free_run",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "City Trial: Free Run checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_multiplayer",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "City Trial: Multiplayer checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_rng",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "City Trial: RNG checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_bust_vehicles",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "City Trial: Bust Vehicle checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "city_trial_progression_high_effort",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "City Trial: High Effort checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "top_ride_progression_time_attack",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "Top Ride: Time Attack checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "top_ride_progression_free_run",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "Top Ride: Free Run checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "top_ride_progression_high_effort",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "Top Ride: High Effort checks"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 2",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "top_ride_progression_multiplayer",
+                        "width": 24,
+                        "height": 24
+                    },
+                    {
+                        "type": "label",
+                        "text": "Top Ride: Multiplayer checks"
+                    }
+                ]
+            }
+        ]
+    },
+    "stadium_grid_1": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "2, 2",
+        "content": [
+            {
+                "type": "group",
+                "header": "Drag Race",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "2, 2",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 60,
+                    "item_width": 60,
+                    "rows": [
+                        [
+                            "stadium_drag_race_1",
+                            "stadium_drag_race_2",
+                            "stadium_drag_race_3",
+                            "stadium_drag_race_4"
+                        ]
+                    ]
+                },
+                "h_alignment": "left"
+            },
+            {
+                "type": "group",
+                "header": "Destruction Derby",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "2, 2",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 60,
+                    "item_width": 60,
+                    "rows": [
+                        [
+                            "stadium_destruction_derby_1",
+                            "stadium_destruction_derby_2",
+                            "stadium_destruction_derby_3",
+                            "stadium_destruction_derby_4",
+                            "stadium_destruction_derby_5"
+                        ]
+                    ]
+                },
+                "h_alignment": "left"
+            }
+        ],
+        "h_alignment": "left"
+    },
+    "stadium_grid_2": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "2, 2",
+        "content": [
+            {
+                "type": "group",
+                "header": "Kirby Melee",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "2, 2",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 60,
+                    "item_width": 60,
+                    "rows": [
+                        [
+                            "stadium_kirby_melee_1",
+                            "stadium_kirby_melee_2"
+                        ]
+                    ]
+                },
+                "h_alignment": "left"
+            },
+            {
+                "type": "group",
+                "header": "Single Race",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "2, 2",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 60,
+                    "item_width": 60,
+                    "rows": [
+                        [
+                            "stadium_single_race_1",
+                            "stadium_single_race_2",
+                            "stadium_single_race_3",
+                            "stadium_single_race_4",
+                            "stadium_single_race_5",
+                            "stadium_single_race_6",
+                            "stadium_single_race_7",
+                            "stadium_single_race_8",
+                            "stadium_single_race_9"
+                        ]
+                    ]
+                },
+                "h_alignment": "left"
+            },
+            {
+                "type": "group",
+                "header": "Other",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "2, 2",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 60,
+                    "item_width": 60,
+                    "rows": [
+                        [
+                            "stadium_high_jump",
+                            "stadium_target_flight",
+                            "stadium_air_glider",
+                            "stadium_vs_king_dedede"
+                        ]
+                    ]
+                },
+                "h_alignment": "left"
+            }
+        ],
+        "h_alignment": "left"
+    }
+}

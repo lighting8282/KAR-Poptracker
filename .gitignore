@@ -1,0 +1,28 @@
+# Third-party builder tool (separate repo)
+poptracker-pack-builder/
+
+# Game data files (not part of the tracker pack)
+*.h4m
+*.dat
+*.7z
+*.dol
+*.iso
+*.gcm
+*.rvz
+*.tpl
+*.brres
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache (only the cache, keep .py source files)
+__pycache__/
+*.pyc

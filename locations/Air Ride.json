@@ -1,0 +1,4036 @@
+[
+    {
+        "name": "Air Ride",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "High Effort",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 611,
+                        "y": 65,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Race over 100 laps!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 100 laps!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Defeat over 300 of your enemies!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Defeat over 300 of your enemies!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Fill in over 100 Checklist blocks!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Fill in over 100 Checklist blocks!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Race over 300 laps!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 300 laps!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Defeat over 1,000 of your enemies!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Defeat over 1,000 of your enemies!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Glide for more than 30 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Glide for more than 30 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Swallow 200 or more enemies!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow 200 or more enemies!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Glide for more than 1 hour!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Glide for more than 1 hour!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Defeat 100 or more enemies with exhaled stars!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Defeat 100 or more enemies with exhaled stars!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Race over 100 laps!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defeat over 300 of your enemies!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fill in over 100 Checklist blocks!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 300 laps!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defeat over 1,000 of your enemies!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Glide for more than 30 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Swallow 200 or more enemies!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Glide for more than 1 hour!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defeat 100 or more enemies with exhaled stars!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Swallow Challenges",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 609,
+                        "y": 121,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Swallow Sword Knight 3 times and take 1st!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow Sword Knight 3 times and take 1st!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Swallow 5 consecutive garbage enemies and take 1st!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow 5 consecutive garbage enemies and take 1st!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Swallow Wheelie 3 times and take 1st!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow Wheelie 3 times and take 1st!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Swallow Chilly 3 times and take 1st!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow Chilly 3 times and take 1st!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Swallow Plasma Wisp 3 times and take 1st!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow Plasma Wisp 3 times and take 1st!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Swallow Sword Knight 3 times and take 1st!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Swallow 5 consecutive garbage enemies and take 1st!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Swallow Wheelie 3 times and take 1st!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Swallow Chilly 3 times and take 1st!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Swallow Plasma Wisp 3 times and take 1st!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "MAGMA FLOWS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 517,
+                        "y": 140,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Race over 4,800 feet in 2 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 4,800 feet in 2 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:04:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:04:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:01:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:01:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Use all of the Boost Panels and finish in 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use all of the Boost Panels and finish in 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:20:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 02:20:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Use all the volcano rails and finish in 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use all the volcano rails and finish in 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:01:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 02:01:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:20:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:20:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:10:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:10:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Bump into a flaming dragon!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bump into a flaming dragon!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:15:00 on Shadow Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:15:00 on Shadow Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Race over 4,800 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:04:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:01:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use all of the Boost Panels and finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:20:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use all the volcano rails and finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:01:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:20:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:10:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bump into a flaming dragon!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:15:00 on Shadow Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "FANTASY MEADOWS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 104,
+                        "y": 121,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Race over 4,500 feet in 2 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 4,500 feet in 2 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 01:00:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 01:00:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:21:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 00:21:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Race 1 lap without dropping below 20 mph!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race 1 lap without dropping below 20 mph!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish 3 laps in under 01:20:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 3 laps in under 01:20:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 00:23:00 on Wagon Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Do 1 lap under 00:23:00 on Wagon Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 01:05:00 on Slick Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 01:05:00 on Slick Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "Finish 3 laps in under 01:03:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 3 laps in under 01:03:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 01:12:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 01:12:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:24:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 00:24:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Swallow over 20 enemies and take 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow over 20 enemies and take 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Race over 4,500 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 01:00:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:21:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race 1 lap without dropping below 20 mph!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 3 laps in under 01:20:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 00:23:00 on Wagon Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 01:05:00 on Slick Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 3 laps in under 01:03:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 01:12:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:24:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Swallow over 20 enemies and take 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ability Challenges",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 612,
+                        "y": 165,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Sword Challenge: swing sword 10 times and take 1st!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Sword Challenge: swing sword 10 times and take 1st!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish in 1st place while flying through the air!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish in 1st place while flying through the air!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish in 1st place with Wing ability!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish in 1st place with Wing ability!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish in 1st place with Sleep ability!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish in 1st place with Sleep ability!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tornado Challenge: defeat 15 enemies as Tornado Kirby!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Tornado Challenge: defeat 15 enemies as Tornado Kirby!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish in 1st place with Fire ability!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish in 1st place with Fire ability!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish in 1st place with Needle ability!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish in 1st place with Needle ability!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Sword Challenge: swing sword 10 times and take 1st!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish in 1st place while flying through the air!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish in 1st place with Wing ability!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish in 1st place with Sleep ability!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tornado Challenge: defeat 15 enemies as Tornado Kirby!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish in 1st place with Fire ability!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish in 1st place with Needle ability!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "General",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 612,
+                        "y": 199,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Hit 20 or more rivals with your Quick Spin!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Hit 20 or more rivals with your Quick Spin!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Race all of the standard Air Ride courses!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race all of the standard Air Ride courses!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Start the final lap in 4th place and move to 1st to win!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Start the final lap in 4th place and move to 1st to win!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In any mode other than Free Run, reach the goal 3 times!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In any mode other than Free Run, reach the goal 3 times!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cross the finish line while spinning and take 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Cross the finish line while spinning and take 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, drop from the cliffs 3 times!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, drop from the cliffs 3 times!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Defeat 10 or more enemies using the Quick Spin!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Defeat 10 or more enemies using the Quick Spin!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Make your lap times last two digits the same!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Make your lap times last two digits the same!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish in 1st place while taking damage!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 280
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish in 1st place while taking damage!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Hit 20 or more rivals with your Quick Spin!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race all of the standard Air Ride courses!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Start the final lap in 4th place and move to 1st to win!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In any mode other than Free Run, reach the goal 3 times!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cross the finish line while spinning and take 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, drop from the cliffs 3 times!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defeat 10 or more enemies using the Quick Spin!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Make your lap times last two digits the same!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish in 1st place while taking damage!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "CELESTIAL VALLEY",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 217,
+                        "y": 121,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Finish 2 laps in under 01:56:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 01:56:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Use the Copy Chance Wheel on top of the tree!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use the Copy Chance Wheel on top of the tree!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Race over 6,000 feet in 2 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 6,000 feet in 2 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:20:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:20:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 02:58:00 on Jet Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 02:58:00 on Jet Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:20:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 02:20:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 02:56:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 02:56:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:10:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:10:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Over one race, ride on both the left and right bridge railings!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Over one race, ride on both the left and right bridge railings!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:57:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 00:57:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Finish 2 laps in under 01:56:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use the Copy Chance Wheel on top of the tree!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 6,000 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:20:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 02:58:00 on Jet Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:20:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 02:56:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:10:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Over one race, ride on both the left and right bridge railings!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:57:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "BEANSTALK PARK",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 153,
+                        "y": 240,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Finish 2 laps in under 01:56:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 01:56:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 00:58:00 on Winged Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Do 1 lap under 00:58:00 on Winged Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:18:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 02:18:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:10:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:10:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "Race over 3 laps without riding the Ferris wheel!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 3 laps without riding the Ferris wheel!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:00:00 on Rocket Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:00:00 on Rocket Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "Race over 5,500 feet in 2 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 5,500 feet in 2 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 02:55:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 02:55:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:07:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:07:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Swallow over 20 enemies and take 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow over 20 enemies and take 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:58:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 00:58:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Finish 2 laps in under 01:56:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 00:58:00 on Winged Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:18:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:10:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 3 laps without riding the Ferris wheel!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:00:00 on Rocket Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 5,500 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 02:55:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:07:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Swallow over 20 enemies and take 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:58:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "SKY SANDS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 333,
+                        "y": 137,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "TA: Finish in under 02:40:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 02:40:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "Enter the quicksand 3 times and finish in 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Enter the quicksand 3 times and finish in 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 02:40:00 on Wagon Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 168,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 02:40:00 on Wagon Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 01:45:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 01:45:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:05:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:05:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Race over 4,000 feet in 2 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 4,000 feet in 2 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:53:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 00:53:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Open the trapdoor exactly 3 times and finish in 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Open the trapdoor exactly 3 times and finish in 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:05:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 02:05:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:10:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:10:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Break all of the coral and finish in 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Break all of the coral and finish in 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "TA: Finish in under 02:40:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Enter the quicksand 3 times and finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 02:40:00 on Wagon Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 01:45:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:05:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 4,000 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:53:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Open the trapdoor exactly 3 times and finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:05:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:10:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Break all of the coral and finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "MACHINE PASSAGE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 243,
+                        "y": 257,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "TA: Finish in under 02:48:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 02:48:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "Race over 4,500 feet in 2 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 4,500 feet in 2 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 01:48:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 01:48:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:05:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:05:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Finish in 1st place without touching the walls even once!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish in 1st place without touching the walls even once!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:10:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 02:10:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:56:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 00:56:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 02:50:00 on Rex Wheelie!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 02:50:00 on Rex Wheelie!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:10:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:10:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 00:57:00 on Swerve Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Do 1 lap under 00:57:00 on Swerve Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Shoot 3 characters out of the cannon at one time!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Shoot 3 characters out of the cannon at one time!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "TA: Finish in under 02:48:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 4,500 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 01:48:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:05:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish in 1st place without touching the walls even once!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:10:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:56:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 02:50:00 on Rex Wheelie!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:10:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 00:57:00 on Swerve Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shoot 3 characters out of the cannon at one time!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "FROZEN HILLSIDE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 426,
+                        "y": 137,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "FR: Finish 1 lap in under 01:10:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:10:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Race 2 laps in under 02:20:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 131
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race 2 laps in under 02:20:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:14:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 198,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:14:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:58:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 00:58:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:10:00 on Turbo Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:10:00 on Turbo Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 01:56:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 01:56:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 02:50:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 228,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 02:50:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:10:00 on Formula Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 221
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Do 1 lap under 01:10:00 on Formula Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Split at least 20 ice platforms and finish in 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Split at least 20 ice platforms and finish in 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Race over 5,300 feet in 2 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 5,300 feet in 2 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "FR: Finish 1 lap in under 01:10:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race 2 laps in under 02:20:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:14:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 00:58:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:10:00 on Turbo Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 01:56:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 02:50:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:10:00 on Formula Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Split at least 20 ice platforms and finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 5,300 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "CHECKER KNIGHTS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Air Ride",
+                        "x": 317,
+                        "y": 229,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "FR: Finish 1 lap in under 01:35:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 407,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:35:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Break at least 2 walls and finish in 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 288,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Break at least 2 walls and finish in 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 04:30:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 04:30:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:20:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 437,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Finish 1 lap in under 01:20:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Swallow over 20 enemies and finish in 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 318,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Swallow over 20 enemies and finish in 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:40:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 348,
+                                "y": 161
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 02:40:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 04:00:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 191
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 04:00:00!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:25:00 on Rocket Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 467,
+                                "y": 250
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "FR: Do 1 lap under 01:25:00 on Rocket Star!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_free_run"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ]
+                    },
+                    {
+                        "name": "Race over 5,500 feet in 2 minutes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 71
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 5,500 feet in 2 minutes!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Finish 2 laps in under 03:05:00!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 377,
+                                "y": 101
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Finish 2 laps in under 03:05:00!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Use spin panels 7 times or more and take 1st place!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 258,
+                                "y": 311
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use spin panels 7 times or more and take 1st place!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TA: Finish in under 03:55:00 on Warpstar!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Air Ride Checklist",
+                                "x": 497,
+                                "y": 341
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "TA: Finish in under 03:55:00 on Warpstar!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "air_ride_progression_time_attack"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "FR: Finish 1 lap in under 01:35:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Break at least 2 walls and finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 04:30:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Finish 1 lap in under 01:20:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Swallow over 20 enemies and finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 02:40:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 04:00:00!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FR: Do 1 lap under 01:25:00 on Rocket Star!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_free_run"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 5,500 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Finish 2 laps in under 03:05:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use spin panels 7 times or more and take 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TA: Finish in under 03:55:00 on Warpstar!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "air_ride_progression_time_attack"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

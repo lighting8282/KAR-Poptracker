@@ -1,0 +1,5 @@
+Tracker:AddLocations("locations/Air Ride.json")
+Tracker:AddLocations("locations/City Trial.json")
+Tracker:AddLocations("locations/Stadium.json")
+Tracker:AddLocations("locations/Top Ride.json")
+Tracker:AddLocations("locations/Overworld.json")
