@@ -543,8 +543,7 @@
                             "stadium_drag_race_4"
                         ]
                     ]
-                },
-                "h_alignment": "left"
+                }
             },
             {
                 "type": "group",
@@ -566,11 +565,9 @@
                             "stadium_destruction_derby_5"
                         ]
                     ]
-                },
-                "h_alignment": "left"
+                }
             }
-        ],
-        "h_alignment": "left"
+        ]
     },
     "stadium_grid_2": {
         "type": "array",
@@ -594,8 +591,7 @@
                             "stadium_kirby_melee_2"
                         ]
                     ]
-                },
-                "h_alignment": "left"
+                }
             },
             {
                 "type": "group",
@@ -621,8 +617,7 @@
                             "stadium_single_race_9"
                         ]
                     ]
-                },
-                "h_alignment": "left"
+                }
             },
             {
                 "type": "group",
@@ -643,10 +638,8 @@
                             "stadium_vs_king_dedede"
                         ]
                     ]
-                },
-                "h_alignment": "left"
+                }
             }
-        ],
-        "h_alignment": "left"
+        ]
     }
 }
