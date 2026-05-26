@@ -1,0 +1,598 @@
+[
+    {
+        "name": "stadium_destruction_derby_3",
+        "type": "toggle",
+        "img": "images/items/stadium_destruction_derby_3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_destruction_derby_3"
+    },
+    {
+        "name": "charge_up_perm",
+        "type": "toggle",
+        "img": "images/items/charge_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "charge_up_perm"
+    },
+    {
+        "name": "stadium_single_race_4",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_4.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_4"
+    },
+    {
+        "name": "defense_up_perm",
+        "type": "toggle",
+        "img": "images/items/defense_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "defense_up_perm"
+    },
+    {
+        "name": "stadium_single_race_7",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_7.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_7"
+    },
+    {
+        "name": "defense_up",
+        "type": "toggle",
+        "img": "images/items/defense_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "defense_up"
+    },
+    {
+        "name": "weight_up",
+        "type": "toggle",
+        "img": "images/items/weight_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weight_up"
+    },
+    {
+        "name": "charge_down",
+        "type": "toggle",
+        "img": "images/items/charge_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "charge_down"
+    },
+    {
+        "name": "stadium_drag_race_1",
+        "type": "toggle",
+        "img": "images/items/stadium_drag_race_1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_drag_race_1"
+    },
+    {
+        "name": "all_down",
+        "type": "toggle",
+        "img": "images/items/all_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "all_down"
+    },
+    {
+        "name": "glide_down",
+        "type": "toggle",
+        "img": "images/items/glide_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glide_down"
+    },
+    {
+        "name": "stadium_drag_race_2",
+        "type": "toggle",
+        "img": "images/items/stadium_drag_race_2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_drag_race_2"
+    },
+    {
+        "name": "turn_up_perm",
+        "type": "toggle",
+        "img": "images/items/turn_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "turn_up_perm"
+    },
+    {
+        "name": "stadium_air_glider",
+        "type": "toggle",
+        "img": "images/items/stadium_air_glider.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_air_glider"
+    },
+    {
+        "name": "stadium_kirby_melee_2",
+        "type": "toggle",
+        "img": "images/items/stadium_kirby_melee_2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_kirby_melee_2"
+    },
+    {
+        "name": "stadium_vs_king_dedede",
+        "type": "toggle",
+        "img": "images/items/stadium_vs_king_dedede.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_vs_king_dedede"
+    },
+    {
+        "name": "checkbox_filler_top",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_top.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "checkbox_filler_top"
+    },
+    {
+        "name": "turn_down",
+        "type": "toggle",
+        "img": "images/items/turn_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "turn_down"
+    },
+    {
+        "name": "weight_up_perm",
+        "type": "toggle",
+        "img": "images/items/weight_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weight_up_perm"
+    },
+    {
+        "name": "top_speed_up_perm",
+        "type": "toggle",
+        "img": "images/items/top_speed_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "top_speed_up_perm"
+    },
+    {
+        "name": "checkbox_filler_city",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_city.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "checkbox_filler_city"
+    },
+    {
+        "name": "all_up",
+        "type": "toggle",
+        "img": "images/items/all_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "all_up"
+    },
+    {
+        "name": "offense_up_perm",
+        "type": "toggle",
+        "img": "images/items/offense_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "offense_up_perm"
+    },
+    {
+        "name": "glide_up",
+        "type": "toggle",
+        "img": "images/items/glide_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glide_up"
+    },
+    {
+        "name": "defense_down",
+        "type": "toggle",
+        "img": "images/items/defense_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "defense_down"
+    },
+    {
+        "name": "turn_up",
+        "type": "toggle",
+        "img": "images/items/turn_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "turn_up"
+    },
+    {
+        "name": "hp_up_perm",
+        "type": "toggle",
+        "img": "images/items/hp_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hp_up_perm"
+    },
+    {
+        "name": "stadium_drag_race_4",
+        "type": "toggle",
+        "img": "images/items/stadium_drag_race_4.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_drag_race_4"
+    },
+    {
+        "name": "stadium_single_race_1",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_1"
+    },
+    {
+        "name": "patch_cap_increase",
+        "type": "toggle",
+        "img": "images/items/patch_cap_increase.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "patch_cap_increase"
+    },
+    {
+        "name": "boost_up_perm",
+        "type": "toggle",
+        "img": "images/items/boost_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boost_up_perm"
+    },
+    {
+        "name": "full_heal",
+        "type": "toggle",
+        "img": "images/items/full_heal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "full_heal"
+    },
+    {
+        "name": "offense_down",
+        "type": "toggle",
+        "img": "images/items/offense_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "offense_down"
+    },
+    {
+        "name": "stadium_destruction_derby_2",
+        "type": "toggle",
+        "img": "images/items/stadium_destruction_derby_2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_destruction_derby_2"
+    },
+    {
+        "name": "hp_up",
+        "type": "toggle",
+        "img": "images/items/hp_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hp_up"
+    },
+    {
+        "name": "stadium_target_flight",
+        "type": "toggle",
+        "img": "images/items/stadium_target_flight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_target_flight"
+    },
+    {
+        "name": "stadium_destruction_derby_1",
+        "type": "toggle",
+        "img": "images/items/stadium_destruction_derby_1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_destruction_derby_1"
+    },
+    {
+        "name": "charge_up",
+        "type": "toggle",
+        "img": "images/items/charge_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "charge_up"
+    },
+    {
+        "name": "filler",
+        "type": "toggle",
+        "img": "images/items/filler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "filler"
+    },
+    {
+        "name": "stadium_single_race_2",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_2"
+    },
+    {
+        "name": "stadium_single_race_6",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_6.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_6"
+    },
+    {
+        "name": "one_hp",
+        "type": "toggle",
+        "img": "images/items/one_hp.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "one_hp"
+    },
+    {
+        "name": "boost_down",
+        "type": "toggle",
+        "img": "images/items/boost_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boost_down"
+    },
+    {
+        "name": "stadium_single_race_9",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_9.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_9"
+    },
+    {
+        "name": "boost_up",
+        "type": "toggle",
+        "img": "images/items/boost_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boost_up"
+    },
+    {
+        "name": "stadium_single_race_3",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_3"
+    },
+    {
+        "name": "stadium_drag_race_3",
+        "type": "toggle",
+        "img": "images/items/stadium_drag_race_3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_drag_race_3"
+    },
+    {
+        "name": "top_speed_down",
+        "type": "toggle",
+        "img": "images/items/top_speed_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "top_speed_down"
+    },
+    {
+        "name": "weight_down",
+        "type": "toggle",
+        "img": "images/items/weight_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weight_down"
+    },
+    {
+        "name": "stadium_destruction_derby_5",
+        "type": "toggle",
+        "img": "images/items/stadium_destruction_derby_5.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_destruction_derby_5"
+    },
+    {
+        "name": "glide_up_perm",
+        "type": "toggle",
+        "img": "images/items/glide_up_perm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glide_up_perm"
+    },
+    {
+        "name": "stadium_single_race_8",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_8.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_8"
+    },
+    {
+        "name": "offense_up",
+        "type": "toggle",
+        "img": "images/items/offense_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "offense_up"
+    },
+    {
+        "name": "top_speed_up",
+        "type": "toggle",
+        "img": "images/items/top_speed_up.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "top_speed_up"
+    },
+    {
+        "name": "stadium_single_race_5",
+        "type": "toggle",
+        "img": "images/items/stadium_single_race_5.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_single_race_5"
+    },
+    {
+        "name": "checkbox_filler_air",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_air.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "checkbox_filler_air"
+    },
+    {
+        "name": "stadium_destruction_derby_4",
+        "type": "toggle",
+        "img": "images/items/stadium_destruction_derby_4.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_destruction_derby_4"
+    },
+    {
+        "name": "stadium_high_jump",
+        "type": "toggle",
+        "img": "images/items/stadium_high_jump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_high_jump"
+    },
+    {
+        "name": "stadium_kirby_melee_1",
+        "type": "toggle",
+        "img": "images/items/stadium_kirby_melee_1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stadium_kirby_melee_1"
+    },
+    {
+        "name": "hp_down",
+        "type": "toggle",
+        "img": "images/items/hp_down.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hp_down"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    },
+    {
+        "name": "air_ride_progression_time_attack",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_air.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "air_ride_progression_time_attack",
+        "img_inactive": "images/items/checkbox_filler_air.png"
+    },
+    {
+        "name": "air_ride_progression_free_run",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_air.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "air_ride_progression_free_run",
+        "img_inactive": "images/items/checkbox_filler_air.png"
+    },
+    {
+        "name": "air_ride_progression_high_effort",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_air.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "air_ride_progression_high_effort",
+        "img_inactive": "images/items/checkbox_filler_air.png"
+    },
+    {
+        "name": "city_trial_progression_free_run",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_city.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "city_trial_progression_free_run",
+        "img_inactive": "images/items/checkbox_filler_city.png"
+    },
+    {
+        "name": "city_trial_progression_multiplayer",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_city.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "city_trial_progression_multiplayer",
+        "img_inactive": "images/items/checkbox_filler_city.png"
+    },
+    {
+        "name": "city_trial_progression_rng",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_city.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "city_trial_progression_rng",
+        "img_inactive": "images/items/checkbox_filler_city.png"
+    },
+    {
+        "name": "city_trial_progression_bust_vehicles",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_city.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "city_trial_progression_bust_vehicles",
+        "img_inactive": "images/items/checkbox_filler_city.png"
+    },
+    {
+        "name": "city_trial_progression_high_effort",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_city.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "city_trial_progression_high_effort",
+        "img_inactive": "images/items/checkbox_filler_city.png"
+    },
+    {
+        "name": "top_ride_progression_time_attack",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_top.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "top_ride_progression_time_attack",
+        "img_inactive": "images/items/checkbox_filler_top.png"
+    },
+    {
+        "name": "top_ride_progression_free_run",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_top.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "top_ride_progression_free_run",
+        "img_inactive": "images/items/checkbox_filler_top.png"
+    },
+    {
+        "name": "top_ride_progression_high_effort",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_top.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "top_ride_progression_high_effort",
+        "img_inactive": "images/items/checkbox_filler_top.png"
+    },
+    {
+        "name": "top_ride_progression_multiplayer",
+        "type": "toggle",
+        "img": "images/items/checkbox_filler_top.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "top_ride_progression_multiplayer",
+        "img_inactive": "images/items/checkbox_filler_top.png"
+    }
+]

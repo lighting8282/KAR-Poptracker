@@ -1,0 +1,2315 @@
+[
+    {
+        "name": "City Trial",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Milestones",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 1321,
+                        "y": 99,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "race over 60 miles!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 198,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "race over 60 miles!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pick up a total of over 1000 items!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 288,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "pick up a total of over 1000 items!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "break more than 1000 boxes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 408,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "break more than 1000 boxes!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Get 10 items within the first 20 seconds of the match!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 168,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Get 10 items within the first 20 seconds of the match!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Race over 200 miles!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 198,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Race over 200 miles!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Pick up a total of over 3000 items!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 318,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Pick up a total of over 3000 items!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Do damage to a rival within the first 10 seconds of a match!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 198,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Do damage to a rival within the first 10 seconds of a match!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pick up a total of over 100 items!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 228,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Pick up a total of over 100 items!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Have all players simultaneously get off of their machines!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 228,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Have all players simultaneously get off of their machines!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_multiplayer"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_multiplayer"
+                        ]
+                    },
+                    {
+                        "name": "Enter a race with 3 CPU Players and do damage to all of them in the city!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 348,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Enter a race with 3 CPU Players and do damage to all of them in the city!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pick up a total of over 500 items!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 258,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "pick up a total of over 500 items!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "break more than 500 boxes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 378,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "break more than 500 boxes!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Fill in over 100 Checklist blocks!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 168,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Fill in over 100 Checklist blocks!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    },
+                    {
+                        "name": "Let time run out while all players are off of their machines!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 258,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Let time run out while all players are off of their machines!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_multiplayer"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_multiplayer"
+                        ]
+                    },
+                    {
+                        "name": "In one game, get 50 or more items!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 378,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, get 50 or more items!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "race over 60 miles!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "pick up a total of over 1000 items!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "break more than 1000 boxes!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get 10 items within the first 20 seconds of the match!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Race over 200 miles!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pick up a total of over 3000 items!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Do damage to a rival within the first 10 seconds of a match!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pick up a total of over 100 items!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Have all players simultaneously get off of their machines!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_multiplayer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Enter a race with 3 CPU Players and do damage to all of them in the city!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "pick up a total of over 500 items!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "break more than 500 boxes!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fill in over 100 Checklist blocks!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Let time run out while all players are off of their machines!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_multiplayer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, get 50 or more items!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Events",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 1424,
+                        "y": 189,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Do some damage to Dyna Blade!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 168,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Do some damage to Dyna Blade!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Steal over 8 items from Tac by yourself!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 288,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Steal over 8 items from Tac by yourself!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Use Fireworks to KO rivals 10 times or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 168,
+                                "y": 322
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use Fireworks to KO rivals 10 times or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Get trampled by Dyna Blade!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 198,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Get trampled by Dyna Blade!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "The meteor attacks the city 3 or more times!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 318,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "The meteor attacks the city 3 or more times!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Break 5 or more of the huge pillars that appear!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 228,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Break 5 or more of the huge pillars that appear!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Get the Bomb ability from the Copy Chance Wheel!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 467,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Get the Bomb ability from the Copy Chance Wheel!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_rng"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ]
+                    },
+                    {
+                        "name": "Break a huge pillar within 40 seconds of the time it appears!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 258,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Break a huge pillar within 40 seconds of the time it appears!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Get the Sleep ability from the Copy Chance Wheel!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 498,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Get the Sleep ability from the Copy Chance Wheel!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_rng"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Do some damage to Dyna Blade!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Steal over 8 items from Tac by yourself!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use Fireworks to KO rivals 10 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get trampled by Dyna Blade!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "The meteor attacks the city 3 or more times!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Break 5 or more of the huge pillars that appear!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get the Bomb ability from the Copy Chance Wheel!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Break a huge pillar within 40 seconds of the time it appears!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get the Sleep ability from the Copy Chance Wheel!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Castle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 2263,
+                        "y": 2401,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Go into the castle chamber when it opens!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 408,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Go into the castle chamber when it opens!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Make your way to the garden in the sky!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 228,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Make your way to the garden in the sky!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Go into the castle chamber when it opens!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Make your way to the garden in the sky!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Volcano",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 2258,
+                        "y": 424,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Open up all the holes around the base of the volcano!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 168,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Open up all the holes around the base of the volcano!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "During one game, go into the hole in the high plains 3 times or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 288,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "During one game, go into the hole in the high plains 3 times or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "During one game, break all of the volcano rocks and high plains rocks!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 318,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "During one game, break all of the volcano rocks and high plains rocks!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Use the grind rail to break into the crater!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 348,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use the grind rail to break into the crater!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Open up all the holes around the base of the volcano!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "During one game, go into the hole in the high plains 3 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "During one game, break all of the volcano rocks and high plains rocks!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use the grind rail to break into the crater!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 769,
+                        "y": 709,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Destroy all of the dilapidated houses!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 408,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Destroy all of the dilapidated houses!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Let time run out while all players are on the rails!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 288,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Let time run out while all players are on the rails!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_multiplayer"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_multiplayer"
+                        ]
+                    },
+                    {
+                        "name": "In one race, eat 3 or more Hot Dogs!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 378,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one race, eat 3 or more Hot Dogs!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_rng"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ]
+                    },
+                    {
+                        "name": "During one game, fly through the rings in the sky 5 times or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 438,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "During one game, fly through the rings in the sky 5 times or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Let the waterwheel carry you 10 times or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 198,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Let the waterwheel carry you 10 times or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, eat 2 or more maxim tomatoes!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 198,
+                                "y": 322
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, eat 2 or more maxim tomatoes!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_rng"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ]
+                    },
+                    {
+                        "name": "Use up one of the restoration areas!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 348,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use up one of the restoration areas!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bust the star pole!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 467,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bust the star pole!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, drink 3 or more energy drinks!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 228,
+                                "y": 322
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, drink 3 or more energy drinks!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_rng"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ]
+                    },
+                    {
+                        "name": "Bust the star pole 10 times or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 498,
+                                "y": 179
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bust the star pole 10 times or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jump on top of the building 10 times or more using the super jump ramp!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 378,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Jump on top of the building 10 times or more using the super jump ramp!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one race, eat 3 or more plates of sushi!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 498,
+                                "y": 322
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one race, eat 3 or more plates of sushi!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_rng"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Destroy all of the dilapidated houses!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Let time run out while all players are on the rails!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_multiplayer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one race, eat 3 or more Hot Dogs!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "During one game, fly through the rings in the sky 5 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Let the waterwheel carry you 10 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, eat 2 or more maxim tomatoes!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use up one of the restoration areas!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bust the star pole!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, drink 3 or more energy drinks!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bust the star pole 10 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Jump on top of the building 10 times or more using the super jump ramp!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one race, eat 3 or more plates of sushi!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_rng"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Patches",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 1196,
+                        "y": 2108,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "In one game, get over 10 Boost Patches!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 408,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, get over 10 Boost Patches!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, get 10 or more Turn Patches!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 168,
+                                "y": 286
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, get 10 or more Turn Patches!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, get 10 or more Weight Patches!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 288,
+                                "y": 286
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, get 10 or more Weight Patches!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, get 10 or more Glide Patches!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 408,
+                                "y": 286
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, get 10 or more Glide Patches!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Get 30 or more Glide Patches!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 438,
+                                "y": 286
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Get 30 or more Glide Patches!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, get 10 or more Top Speed Patches!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 467,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, get 10 or more Top Speed Patches!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, get 10 or more Charge Patches!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 228,
+                                "y": 286
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, get 10 or more Charge Patches!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one game, get 10 or more Defense Patches!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 348,
+                                "y": 286
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one game, get 10 or more Defense Patches!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "In one game, get over 10 Boost Patches!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, get 10 or more Turn Patches!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, get 10 or more Weight Patches!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, get 10 or more Glide Patches!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get 30 or more Glide Patches!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, get 10 or more Top Speed Patches!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, get 10 or more Charge Patches!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one game, get 10 or more Defense Patches!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Machine Busting",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 186,
+                        "y": 1151,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "In the city, bust Wheelie Bike while riding on Warpstar!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 288,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In the city, bust Wheelie Bike while riding on Warpstar!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In the city, bust Slick Star while riding on Formula Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 408,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In the city, bust Slick Star while riding on Formula Star!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Break a CPUs machine 5 times or more in the city!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 318,
+                                "y": 251
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Break a CPUs machine 5 times or more in the city!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In the city, bust Swerve Star while riding on Wheelie Bike!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 318,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In the city, bust Swerve Star while riding on Wheelie Bike!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In the city, bust Rocket Star while riding on Slick Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 438,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In the city, bust Rocket Star while riding on Slick Star!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Use Sensor Bombs to KO rivals 3 times or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 467,
+                                "y": 286
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use Sensor Bombs to KO rivals 3 times or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In the city, bust Warpstar while riding on Swerve Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 348,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In the city, bust Warpstar while riding on Swerve Star!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In the city, bust Turbo Star while riding on Rocket Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 467,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In the city, bust Turbo Star while riding on Rocket Star!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Use Gold Spikes to KO rivals 3 times or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 498,
+                                "y": 286
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Use Gold Spikes to KO rivals 3 times or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In the city, bust Wheelie Scooter while riding Compact Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 258,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In the city, bust Wheelie Scooter while riding Compact Star!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In the city, bust Formula Star while riding on Turbo Star!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 378,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In the city, bust Formula Star while riding on Turbo Star!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "In the city, bust Wheelie Bike while riding on Warpstar!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In the city, bust Slick Star while riding on Formula Star!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Break a CPUs machine 5 times or more in the city!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In the city, bust Swerve Star while riding on Wheelie Bike!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In the city, bust Rocket Star while riding on Slick Star!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use Sensor Bombs to KO rivals 3 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In the city, bust Warpstar while riding on Swerve Star!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In the city, bust Turbo Star while riding on Rocket Star!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use Gold Spikes to KO rivals 3 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In the city, bust Wheelie Scooter while riding Compact Star!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In the city, bust Formula Star while riding on Turbo Star!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "city_trial_progression_bust_vehicles"
+                ]
+            },
+            {
+                "name": "Free Run",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 1866,
+                        "y": 991,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Drive for a total of 10 minutes or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 438,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Drive for a total of 10 minutes or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Change Air Ride Machines 10 times or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 348,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Change Air Ride Machines 10 times or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drive for a total of 30 minutes or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 467,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Drive for a total of 30 minutes or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drive for a total of 2 hours or more!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 228,
+                                "y": 358
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Drive for a total of 2 hours or more!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Drive for a total of 10 minutes or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Change Air Ride Machines 10 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Drive for a total of 30 minutes or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Drive for a total of 2 hours or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "city_trial_progression_free_run"
+                ]
+            },
+            {
+                "name": "Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 1503,
+                        "y": 716,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Knock down all of the trees in the forest!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 438,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Knock down all of the trees in the forest!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Open up the pitfall in the forest!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 258,
+                                "y": 215
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Open up the pitfall in the forest!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Knock down all of the trees in the forest!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Open up the pitfall in the forest!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dragoon and Hydra",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "City Trial",
+                        "x": 2355,
+                        "y": 489,
+                        "size": 6
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Unlock Dragoon Parts A, B, and C on the Checklist!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 168,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Unlock Dragoon Parts A, B, and C on the Checklist!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unlock Hydra Parts X, Y, and Z on the Checklist!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 498,
+                                "y": 35
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Unlock Hydra Parts X, Y, and Z on the Checklist!",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In one match, complete both Dragoon and Hydra!",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "City Trial Checklist",
+                                "x": 498,
+                                "y": 143
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "In one match, complete both Dragoon and Hydra!",
+                                "access_rules": [],
+                                "visibility_rules": [
+                                    "city_trial_progression_high_effort"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Unlock Dragoon Parts A, B, and C on the Checklist!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unlock Hydra Parts X, Y, and Z on the Checklist!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In one match, complete both Dragoon and Hydra!",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "city_trial_progression_high_effort"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
