@@ -155,26 +155,34 @@
                             }
                         },
                         {
-                            "type": "group",
-                            "header": "Top Ride items only!",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "top",
-                            "h_alignment": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "top_ride_items_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Top Ride Maps",
-                            "dock": "top",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "top_ride_maps_panel"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride items only!",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_items_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride Maps",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_maps_panel"
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -348,26 +356,34 @@
                             }
                         },
                         {
-                            "type": "group",
-                            "header": "Top Ride items only!",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "left",
-                            "h_alignment": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "top_ride_items_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Top Ride Maps",
-                            "dock": "left",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "top_ride_maps_panel"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride items only!",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_items_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride Maps",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_maps_panel"
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
