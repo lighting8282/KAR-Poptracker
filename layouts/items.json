@@ -519,6 +519,7 @@
             {
                 "type": "group",
                 "header": "Drag Race",
+                "min_width": 212,
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "2, 2",
@@ -540,6 +541,7 @@
             {
                 "type": "group",
                 "header": "Destruction Derby",
+                "min_width": 212,
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "2, 2",
@@ -569,6 +571,7 @@
             {
                 "type": "group",
                 "header": "Kirby Melee",
+                "min_width": 212,
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "2, 2",
@@ -588,6 +591,7 @@
             {
                 "type": "group",
                 "header": "Single Race",
+                "min_width": 212,
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "2, 2",
@@ -616,6 +620,7 @@
             {
                 "type": "group",
                 "header": "Other",
+                "min_width": 212,
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "2, 2",
