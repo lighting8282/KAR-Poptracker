@@ -902,5 +902,205 @@
         "img": "images/items/kirby_green.png",
         "initial_active_state": false,
         "codes": "kirby_green"
+    },
+    {
+        "name": "map_air_ride_beanstalk_park",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_beanstalk_park.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_beanstalk_park"
+    },
+    {
+        "name": "map_air_ride_celestial_valley",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_celestial_valley.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_celestial_valley"
+    },
+    {
+        "name": "map_air_ride_checkered_knights",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_checkered_knights.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_checkered_knights"
+    },
+    {
+        "name": "map_air_ride_fantasy_meadows",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_fantasy_meadows.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_fantasy_meadows"
+    },
+    {
+        "name": "map_air_ride_frozen_hillside",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_frozen_hillside.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_frozen_hillside"
+    },
+    {
+        "name": "map_air_ride_machine_passage",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_machine_passage.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_machine_passage"
+    },
+    {
+        "name": "map_air_ride_magma_flows",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_magma_flows.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_magma_flows"
+    },
+    {
+        "name": "map_air_ride_nebula_belt",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_nebula_belt.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_nebula_belt"
+    },
+    {
+        "name": "map_air_ride_sky_sands",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_sky_sands.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_sky_sands"
+    },
+    {
+        "name": "map_top_ride_fire",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_fire.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_fire"
+    },
+    {
+        "name": "map_top_ride_grass",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_grass.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_grass"
+    },
+    {
+        "name": "map_top_ride_light",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_light.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_light"
+    },
+    {
+        "name": "map_top_ride_metal",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_metal.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_metal"
+    },
+    {
+        "name": "map_top_ride_sand",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_sand.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_sand"
+    },
+    {
+        "name": "map_top_ride_sky",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_sky.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_sky"
+    },
+    {
+        "name": "map_top_ride_water",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_water.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_water"
+    },
+    {
+        "name": "ability_bomb",
+        "type": "toggle",
+        "img": "images/items/ability_bomb_active.png",
+        "img_inactive": "images/items/ability_bomb_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_bomb"
+    },
+    {
+        "name": "ability_fire",
+        "type": "toggle",
+        "img": "images/items/ability_fire_active.png",
+        "img_inactive": "images/items/ability_fire_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_fire"
+    },
+    {
+        "name": "ability_freeze",
+        "type": "toggle",
+        "img": "images/items/ability_freeze_active.png",
+        "img_inactive": "images/items/ability_freeze_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_freeze"
+    },
+    {
+        "name": "ability_mike",
+        "type": "toggle",
+        "img": "images/items/ability_mike_active.png",
+        "img_inactive": "images/items/ability_mike_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_mike"
+    },
+    {
+        "name": "ability_needle",
+        "type": "toggle",
+        "img": "images/items/ability_needle_active.png",
+        "img_inactive": "images/items/ability_needle_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_needle"
+    },
+    {
+        "name": "ability_plasma",
+        "type": "toggle",
+        "img": "images/items/ability_plasma_active.png",
+        "img_inactive": "images/items/ability_plasma_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_plasma"
+    },
+    {
+        "name": "ability_sleep",
+        "type": "toggle",
+        "img": "images/items/ability_sleep_active.png",
+        "img_inactive": "images/items/ability_sleep_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_sleep"
+    },
+    {
+        "name": "ability_sword",
+        "type": "toggle",
+        "img": "images/items/ability_sword_active.png",
+        "img_inactive": "images/items/ability_sword_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_sword"
+    },
+    {
+        "name": "ability_tornado",
+        "type": "toggle",
+        "img": "images/items/ability_tornado_active.png",
+        "img_inactive": "images/items/ability_tornado_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_tornado"
+    },
+    {
+        "name": "ability_wheel",
+        "type": "toggle",
+        "img": "images/items/ability_wheel_active.png",
+        "img_inactive": "images/items/ability_wheel_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_wheel"
+    },
+    {
+        "name": "ability_wing",
+        "type": "toggle",
+        "img": "images/items/ability_wing_active.png",
+        "img_inactive": "images/items/ability_wing_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_wing"
     }
 ]
