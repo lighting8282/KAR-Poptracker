@@ -10,10 +10,11 @@
     {
         "name": "charge_up_perm",
         "type": "toggle",
-        "img": "images/items/charge_up_perm.png",
+        "img": "images/items/charge_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "charge_up_perm"
+        "codes": "charge_up_perm",
+        "img_inactive": "images/items/charge_up_inactive.png"
     },
     {
         "name": "stadium_single_race_4",
@@ -26,10 +27,11 @@
     {
         "name": "defense_up_perm",
         "type": "toggle",
-        "img": "images/items/defense_up_perm.png",
+        "img": "images/items/defense_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "defense_up_perm"
+        "codes": "defense_up_perm",
+        "img_inactive": "images/items/defense_up_inactive.png"
     },
     {
         "name": "stadium_single_race_7",
@@ -42,18 +44,20 @@
     {
         "name": "defense_up",
         "type": "toggle",
-        "img": "images/items/defense_up.png",
+        "img": "images/items/defense_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "defense_up"
+        "codes": "defense_up",
+        "img_inactive": "images/items/defense_up_inactive.png"
     },
     {
         "name": "weight_up",
         "type": "toggle",
-        "img": "images/items/weight_up.png",
+        "img": "images/items/weight_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "weight_up"
+        "codes": "weight_up",
+        "img_inactive": "images/items/weight_up_inactive.png"
     },
     {
         "name": "charge_down",
@@ -98,10 +102,11 @@
     {
         "name": "turn_up_perm",
         "type": "toggle",
-        "img": "images/items/turn_up_perm.png",
+        "img": "images/items/turn_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "turn_up_perm"
+        "codes": "turn_up_perm",
+        "img_inactive": "images/items/turn_up_inactive.png"
     },
     {
         "name": "stadium_air_glider",
@@ -146,18 +151,20 @@
     {
         "name": "weight_up_perm",
         "type": "toggle",
-        "img": "images/items/weight_up_perm.png",
+        "img": "images/items/weight_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "weight_up_perm"
+        "codes": "weight_up_perm",
+        "img_inactive": "images/items/weight_up_inactive.png"
     },
     {
         "name": "top_speed_up_perm",
         "type": "toggle",
-        "img": "images/items/top_speed_up_perm.png",
+        "img": "images/items/top_speed_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "top_speed_up_perm"
+        "codes": "top_speed_up_perm",
+        "img_inactive": "images/items/top_speed_up_inactive.png"
     },
     {
         "name": "checkbox_filler_city",
@@ -178,18 +185,20 @@
     {
         "name": "offense_up_perm",
         "type": "toggle",
-        "img": "images/items/offense_up_perm.png",
+        "img": "images/items/offense_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "offense_up_perm"
+        "codes": "offense_up_perm",
+        "img_inactive": "images/items/offense_up_inactive.png"
     },
     {
         "name": "glide_up",
         "type": "toggle",
-        "img": "images/items/glide_up.png",
+        "img": "images/items/glide_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "glide_up"
+        "codes": "glide_up",
+        "img_inactive": "images/items/glide_up_inactive.png"
     },
     {
         "name": "defense_down",
@@ -202,18 +211,20 @@
     {
         "name": "turn_up",
         "type": "toggle",
-        "img": "images/items/turn_up.png",
+        "img": "images/items/turn_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "turn_up"
+        "codes": "turn_up",
+        "img_inactive": "images/items/turn_up_inactive.png"
     },
     {
         "name": "hp_up_perm",
         "type": "toggle",
-        "img": "images/items/hp_up_perm.png",
+        "img": "images/items/hp_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "hp_up_perm"
+        "codes": "hp_up_perm",
+        "img_inactive": "images/items/hp_up_inactive.png"
     },
     {
         "name": "stadium_drag_race_4",
@@ -242,10 +253,11 @@
     {
         "name": "boost_up_perm",
         "type": "toggle",
-        "img": "images/items/boost_up_perm.png",
+        "img": "images/items/boost_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "boost_up_perm"
+        "codes": "boost_up_perm",
+        "img_inactive": "images/items/boost_up_inactive.png"
     },
     {
         "name": "full_heal",
@@ -274,10 +286,11 @@
     {
         "name": "hp_up",
         "type": "toggle",
-        "img": "images/items/hp_up.png",
+        "img": "images/items/hp_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "hp_up"
+        "codes": "hp_up",
+        "img_inactive": "images/items/hp_up_inactive.png"
     },
     {
         "name": "stadium_target_flight",
@@ -298,10 +311,11 @@
     {
         "name": "charge_up",
         "type": "toggle",
-        "img": "images/items/charge_up.png",
+        "img": "images/items/charge_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "charge_up"
+        "codes": "charge_up",
+        "img_inactive": "images/items/charge_up_inactive.png"
     },
     {
         "name": "filler",
@@ -354,10 +368,11 @@
     {
         "name": "boost_up",
         "type": "toggle",
-        "img": "images/items/boost_up.png",
+        "img": "images/items/boost_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "boost_up"
+        "codes": "boost_up",
+        "img_inactive": "images/items/boost_up_inactive.png"
     },
     {
         "name": "stadium_single_race_3",
@@ -402,10 +417,11 @@
     {
         "name": "glide_up_perm",
         "type": "toggle",
-        "img": "images/items/glide_up_perm.png",
+        "img": "images/items/glide_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "glide_up_perm"
+        "codes": "glide_up_perm",
+        "img_inactive": "images/items/glide_up_inactive.png"
     },
     {
         "name": "stadium_single_race_8",
@@ -418,18 +434,20 @@
     {
         "name": "offense_up",
         "type": "toggle",
-        "img": "images/items/offense_up.png",
+        "img": "images/items/offense_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "offense_up"
+        "codes": "offense_up",
+        "img_inactive": "images/items/offense_up_inactive.png"
     },
     {
         "name": "top_speed_up",
         "type": "toggle",
-        "img": "images/items/top_speed_up.png",
+        "img": "images/items/top_speed_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "top_speed_up"
+        "codes": "top_speed_up",
+        "img_inactive": "images/items/top_speed_up_inactive.png"
     },
     {
         "name": "stadium_single_race_5",
