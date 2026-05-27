@@ -652,7 +652,7 @@
                 "type": "group",
                 "header": "Death Link",
                 "h_alignment": "center",
-                "margin": "0,0,0,8",
+                "margin": "0,0,0,60",
                 "content": {
                     "type": "item",
                     "item": "death_link",
