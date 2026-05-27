@@ -645,52 +645,36 @@
     "utility_panel": {
         "type": "array",
         "orientation": "vertical",
-        "h_alignment": "left",
-        "margin": "4, 12",
+        "h_alignment": "center",
+        "margin": "4, 8",
         "content": [
             {
-                "type": "array",
-                "orientation": "vertical",
+                "type": "label",
+                "text": "Death Link",
+                "font_size": 10,
                 "h_alignment": "center",
-                "margin": "4, 8",
-                "content": [
-                    {
-                        "type": "label",
-                        "text": "Death Link",
-                        "font_size": 10,
-                        "h_alignment": "center",
-                        "margin": "0, 4"
-                    },
-                    {
-                        "type": "item",
-                        "item": "death_link",
-                        "width": 48,
-                        "height": 48,
-                        "h_alignment": "center"
-                    }
-                ]
+                "margin": "0, 4"
             },
             {
-                "type": "array",
-                "orientation": "vertical",
+                "type": "item",
+                "item": "death_link",
+                "width": 48,
+                "height": 48,
+                "h_alignment": "center"
+            },
+            {
+                "type": "label",
+                "text": "Energy Link",
+                "font_size": 10,
                 "h_alignment": "center",
-                "margin": "4, 24",
-                "content": [
-                    {
-                        "type": "label",
-                        "text": "Energy Link",
-                        "font_size": 10,
-                        "h_alignment": "center",
-                        "margin": "0, 4"
-                    },
-                    {
-                        "type": "item",
-                        "item": "energy_link",
-                        "width": 48,
-                        "height": 48,
-                        "h_alignment": "center"
-                    }
-                ]
+                "margin": "0, 20, 0, 4"
+            },
+            {
+                "type": "item",
+                "item": "energy_link",
+                "width": 48,
+                "height": 48,
+                "h_alignment": "center"
             }
         ]
     },
