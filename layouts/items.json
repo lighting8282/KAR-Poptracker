@@ -951,5 +951,50 @@
                 ]
             }
         ]
+    },
+    "top_ride_items_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 36,
+                "item_width": 36,
+                "rows": [
+                    [
+                        "top_ride_item_big_cake",
+                        "top_ride_item_bomb",
+                        "top_ride_item_buzz_saw",
+                        "top_ride_item_charge_up",
+                        "top_ride_item_chickie"
+                    ],
+                    [
+                        "top_ride_item_drill",
+                        "top_ride_item_fire",
+                        "top_ride_item_freeze_fan",
+                        "top_ride_item_hammer",
+                        "top_ride_item_krako"
+                    ],
+                    [
+                        "top_ride_item_lantern",
+                        "top_ride_item_mike",
+                        "top_ride_item_missile",
+                        "top_ride_item_party_ball",
+                        "top_ride_item_party_bomb"
+                    ],
+                    [
+                        "top_ride_item_smokescreen",
+                        "top_ride_item_speed_up",
+                        "top_ride_item_speed_down",
+                        "top_ride_item_spinner"
+                    ]
+                ]
+            }
+        ]
     }
 }

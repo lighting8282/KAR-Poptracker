@@ -1142,5 +1142,157 @@
         "img_inactive": "images/items/character_unlock_meta_knight_inactive.png",
         "initial_active_state": false,
         "codes": "character_unlock_meta_knight"
+    },
+    {
+        "name": "top_ride_item_big_cake",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_big_cake_active.png",
+        "img_inactive": "images/items/top_ride_item_big_cake_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_big_cake"
+    },
+    {
+        "name": "top_ride_item_bomb",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_bomb_active.png",
+        "img_inactive": "images/items/top_ride_item_bomb_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_bomb"
+    },
+    {
+        "name": "top_ride_item_buzz_saw",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_buzz_saw_active.png",
+        "img_inactive": "images/items/top_ride_item_buzz_saw_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_buzz_saw"
+    },
+    {
+        "name": "top_ride_item_charge_up",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_charge_up_active.png",
+        "img_inactive": "images/items/top_ride_item_charge_up_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_charge_up"
+    },
+    {
+        "name": "top_ride_item_chickie",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_chickie_active.png",
+        "img_inactive": "images/items/top_ride_item_chickie_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_chickie"
+    },
+    {
+        "name": "top_ride_item_drill",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_drill_active.png",
+        "img_inactive": "images/items/top_ride_item_drill_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_drill"
+    },
+    {
+        "name": "top_ride_item_fire",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_fire_active.png",
+        "img_inactive": "images/items/top_ride_item_fire_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_fire"
+    },
+    {
+        "name": "top_ride_item_freeze_fan",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_freeze_fan_active.png",
+        "img_inactive": "images/items/top_ride_item_freeze_fan_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_freeze_fan"
+    },
+    {
+        "name": "top_ride_item_hammer",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_hammer_active.png",
+        "img_inactive": "images/items/top_ride_item_hammer_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_hammer"
+    },
+    {
+        "name": "top_ride_item_krako",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_krako_active.png",
+        "img_inactive": "images/items/top_ride_item_krako_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_krako"
+    },
+    {
+        "name": "top_ride_item_lantern",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_lantern_active.png",
+        "img_inactive": "images/items/top_ride_item_lantern_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_lantern"
+    },
+    {
+        "name": "top_ride_item_mike",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_mike_active.png",
+        "img_inactive": "images/items/top_ride_item_mike_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_mike"
+    },
+    {
+        "name": "top_ride_item_missile",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_missile_active.png",
+        "img_inactive": "images/items/top_ride_item_missile_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_missile"
+    },
+    {
+        "name": "top_ride_item_party_ball",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_party_ball_active.png",
+        "img_inactive": "images/items/top_ride_item_party_ball_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_party_ball"
+    },
+    {
+        "name": "top_ride_item_party_bomb",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_party_bomb_active.png",
+        "img_inactive": "images/items/top_ride_item_party_bomb_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_party_bomb"
+    },
+    {
+        "name": "top_ride_item_smokescreen",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_smokescreen_active.png",
+        "img_inactive": "images/items/top_ride_item_smokescreen_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_smokescreen"
+    },
+    {
+        "name": "top_ride_item_speed_up",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_speed_up_active.png",
+        "img_inactive": "images/items/top_ride_item_speed_up_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_speed_up"
+    },
+    {
+        "name": "top_ride_item_speed_down",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_speed_down_active.png",
+        "img_inactive": "images/items/top_ride_item_speed_down_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_speed_down"
+    },
+    {
+        "name": "top_ride_item_spinner",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_spinner_active.png",
+        "img_inactive": "images/items/top_ride_item_spinner_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_spinner"
     }
 ]
