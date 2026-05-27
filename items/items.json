@@ -48,8 +48,7 @@
                 "img": "images/items/charge_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "stadium_single_race_4",
@@ -100,8 +99,7 @@
                 "img": "images/items/defense_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "stadium_single_race_7",
@@ -210,8 +208,7 @@
                 "img": "images/items/turn_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "stadium_air_glider",
@@ -294,8 +291,7 @@
                 "img": "images/items/weight_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "top_speed_up_perm",
@@ -338,8 +334,7 @@
                 "img": "images/items/top_speed_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "checkbox_filler_city",
@@ -398,8 +393,7 @@
                 "img": "images/items/offense_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "glide_up",
@@ -468,8 +462,7 @@
                 "img": "images/items/hp_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "stadium_drag_race_4",
@@ -536,8 +529,7 @@
                 "img": "images/items/boost_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "full_heal",
@@ -735,8 +727,7 @@
                 "img": "images/items/glide_up_stage10.png"
             }
         ],
-        "loop": true,
-        "count": 0
+        "loop": true
     },
     {
         "name": "stadium_single_race_8",
