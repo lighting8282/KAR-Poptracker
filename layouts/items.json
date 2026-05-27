@@ -10,8 +10,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 36,
-                "item_width": 36,
+                "item_height": 48,
+                "item_width": 48,
                 "rows": [
                     [
                         "boost_up_perm",
@@ -46,8 +46,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 36,
-                "item_width": 36,
+                "item_height": 48,
+                "item_width": 48,
                 "rows": [
                     [
                         "boost_up_perm",
