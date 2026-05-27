@@ -1294,5 +1294,21 @@
         "img_inactive": "images/items/top_ride_item_spinner_inactive.png",
         "initial_active_state": false,
         "codes": "top_ride_item_spinner"
+    },
+    {
+        "name": "machine_free_star",
+        "type": "toggle",
+        "img": "images/items/machine_free_star_active.png",
+        "img_inactive": "images/items/machine_free_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_free_star"
+    },
+    {
+        "name": "machine_steer_star",
+        "type": "toggle",
+        "img": "images/items/machine_steer_star_active.png",
+        "img_inactive": "images/items/machine_steer_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_steer_star"
     }
 ]
