@@ -649,32 +649,45 @@
         "margin": "4, 8",
         "content": [
             {
-                "type": "label",
-                "text": "Death Link",
-                "font_size": 10,
+                "type": "array",
+                "orientation": "vertical",
                 "h_alignment": "center",
-                "margin": "0, 4"
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "death_link",
+                        "width": 48,
+                        "height": 48,
+                        "h_alignment": "center"
+                    },
+                    {
+                        "type": "label",
+                        "text": "Death Link",
+                        "font_size": 10,
+                        "h_alignment": "center"
+                    }
+                ]
             },
             {
-                "type": "item",
-                "item": "death_link",
-                "width": 48,
-                "height": 48,
-                "h_alignment": "center"
-            },
-            {
-                "type": "label",
-                "text": "Energy Link",
-                "font_size": 10,
+                "type": "array",
+                "orientation": "vertical",
                 "h_alignment": "center",
-                "margin": "0, 20, 0, 4"
-            },
-            {
-                "type": "item",
-                "item": "energy_link",
-                "width": 48,
-                "height": 48,
-                "h_alignment": "center"
+                "margin": "0,16,0,0",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "energy_link",
+                        "width": 48,
+                        "height": 48,
+                        "h_alignment": "center"
+                    },
+                    {
+                        "type": "label",
+                        "text": "Energy Link",
+                        "font_size": 10,
+                        "h_alignment": "center"
+                    }
+                ]
             }
         ]
     },
