@@ -12,57 +12,136 @@
                     "v_alignment": "stretch",
                     "content": [
                         {
-                            "type": "group",
-                            "header": "Items",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "shared_item_grid_vertical"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Stadiums",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "top",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_1"
-                            },
-                            "h_alignment": "left"
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Patches",
+                                    "dock": "top",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "shared_item_grid_vertical"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Food",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "food_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Boxes",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "boxes_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Special Offense",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "special_offense_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
-                            "type": "group",
-                            "header": "Stadiums 2",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "top",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_2"
-                            },
-                            "h_alignment": "left"
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums",
+                                    "dock": "top",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_1"
+                                    },
+                                    "h_alignment": "left"
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums 2",
+                                    "dock": "top",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_2"
+                                    },
+                                    "h_alignment": "left"
+                                }
+                            ]
                         },
                         {
                             "type": "group",
-                            "header": "Machines",
+                            "header": "Air Ride Maps",
                             "dock": "top",
                             "h_alignment": "left",
                             "margin": "0,0,3,0",
                             "content": {
                                 "type": "layout",
-                                "key": "machines_panel"
+                                "key": "air_ride_maps_panel"
                             }
                         },
                         {
-                            "type": "group",
-                            "header": "Food",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "top",
-                            "h_alignment": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "food_panel"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Machines",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "machines_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Copy Abilities",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "copy_abilities_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Character Unlock",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "character_unlock_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -85,6 +164,47 @@
                                 "type": "layout",
                                 "key": "utility_panel"
                             }
+                        },
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "dock": "top",
+                            "margin": "0,0,3,0",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride items only!",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_items_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride Maps",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_maps_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride machines",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_machines_panel"
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -112,60 +232,128 @@
                     "dock": "bottom",
                     "content": [
                         {
-                            "type": "group",
-                            "header": "Items",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "h_alignment": "center",
-                                "v_alignment": "center",
-                                "key": "shared_item_grid_horizontal"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Patches",
+                                    "dock": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "h_alignment": "center",
+                                        "v_alignment": "center",
+                                        "key": "shared_item_grid_horizontal"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Food",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "food_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Boxes",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "boxes_panel"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "dock": "left",
+                            "margin": "0,0,3,0",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums",
+                                    "dock": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_1"
+                                    },
+                                    "h_alignment": "left"
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums 2",
+                                    "dock": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_2"
+                                    },
+                                    "h_alignment": "left"
+                                }
+                            ]
                         },
                         {
                             "type": "group",
-                            "header": "Stadiums",
-                            "dock": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_1"
-                            },
-                            "h_alignment": "left"
-                        },
-                        {
-                            "type": "group",
-                            "header": "Stadiums 2",
-                            "dock": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_2"
-                            },
-                            "h_alignment": "left"
-                        },
-                        {
-                            "type": "group",
-                            "header": "Machines",
+                            "header": "Air Ride Maps",
                             "dock": "left",
                             "h_alignment": "left",
                             "margin": "0,0,3,0",
                             "content": {
                                 "type": "layout",
-                                "key": "machines_panel"
+                                "key": "air_ride_maps_panel"
                             }
                         },
                         {
-                            "type": "group",
-                            "header": "Food",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "left",
-                            "h_alignment": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "food_panel"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Machines",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "machines_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Copy Abilities",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "copy_abilities_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Character Unlock",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "character_unlock_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -188,6 +376,47 @@
                                 "type": "layout",
                                 "key": "utility_panel"
                             }
+                        },
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "dock": "left",
+                            "margin": "0,0,3,0",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride items only!",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_items_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride Maps",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_maps_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride machines",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_machines_panel"
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },

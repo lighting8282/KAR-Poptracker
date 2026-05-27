@@ -19,7 +19,7 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 611,
+                        "x": 612,
                         "y": 65,
                         "size": 14,
                         "shape": "rect"
@@ -356,8 +356,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 609,
-                        "y": 121,
+                        "x": 612,
+                        "y": 104,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -518,8 +518,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 517,
-                        "y": 140,
+                        "x": 529,
+                        "y": 139,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -926,8 +926,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 104,
-                        "y": 121,
+                        "x": 125,
+                        "y": 139,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -1307,7 +1307,7 @@
                     {
                         "map": "Air Ride",
                         "x": 612,
-                        "y": 165,
+                        "y": 134,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -1525,7 +1525,7 @@
                     {
                         "map": "Air Ride",
                         "x": 612,
-                        "y": 199,
+                        "y": 167,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -1798,8 +1798,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 217,
-                        "y": 121,
+                        "x": 225,
+                        "y": 139,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -2178,8 +2178,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 153,
-                        "y": 240,
+                        "x": 125,
+                        "y": 239,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -2558,8 +2558,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 333,
-                        "y": 137,
+                        "x": 325,
+                        "y": 139,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -2966,8 +2966,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 243,
-                        "y": 257,
+                        "x": 226,
+                        "y": 239,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -3342,8 +3342,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 426,
-                        "y": 137,
+                        "x": 425,
+                        "y": 139,
                         "size": 14,
                         "shape": "rect"
                     }
@@ -3694,8 +3694,8 @@
                 "map_locations": [
                     {
                         "map": "Air Ride",
-                        "x": 317,
-                        "y": 229,
+                        "x": 325,
+                        "y": 239,
                         "size": 14,
                         "shape": "rect"
                     }

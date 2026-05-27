@@ -19,9 +19,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 1321,
-                        "y": 99,
-                        "size": 6
+                        "x": 955,
+                        "y": 1000,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -530,9 +531,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 1424,
-                        "y": 189,
-                        "size": 6
+                        "x": 955,
+                        "y": 1080,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -817,9 +819,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 2263,
-                        "y": 2401,
-                        "size": 6
+                        "x": 953,
+                        "y": 332,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -894,9 +897,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 2258,
-                        "y": 424,
-                        "size": 6
+                        "x": 219,
+                        "y": 287,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -1027,9 +1031,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 769,
-                        "y": 709,
-                        "size": 6
+                        "x": 595,
+                        "y": 776,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -1419,9 +1424,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 1196,
-                        "y": 2108,
-                        "size": 6
+                        "x": 955,
+                        "y": 1160,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -1664,9 +1670,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 186,
-                        "y": 1151,
-                        "size": 6
+                        "x": 955,
+                        "y": 1240,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -1996,9 +2003,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 1866,
-                        "y": 991,
-                        "size": 6
+                        "x": 955,
+                        "y": 1320,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -2132,9 +2140,10 @@
                 "map_locations": [
                     {
                         "map": "City Trial",
-                        "x": 1503,
-                        "y": 716,
-                        "size": 6
+                        "x": 213,
+                        "y": 837,
+                        "size": 22,
+                        "shape": "rect"
                     }
                 ],
                 "children": [
@@ -2211,7 +2220,8 @@
                         "map": "City Trial",
                         "x": 2355,
                         "y": 489,
-                        "size": 6
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ],
                 "children": [

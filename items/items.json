@@ -9,11 +9,42 @@
     },
     {
         "name": "charge_up_perm",
-        "type": "toggle",
-        "img": "images/items/charge_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "charge_up_perm"
+        "type": "progressive",
+        "img": "images/items/charge_up_active.png",
+        "codes": "charge_up_perm",
+        "stages": [
+            {
+                "img": "images/items/charge_up_stage1.png"
+            },
+            {
+                "img": "images/items/charge_up_stage2.png"
+            },
+            {
+                "img": "images/items/charge_up_stage3.png"
+            },
+            {
+                "img": "images/items/charge_up_stage4.png"
+            },
+            {
+                "img": "images/items/charge_up_stage5.png"
+            },
+            {
+                "img": "images/items/charge_up_stage6.png"
+            },
+            {
+                "img": "images/items/charge_up_stage7.png"
+            },
+            {
+                "img": "images/items/charge_up_stage8.png"
+            },
+            {
+                "img": "images/items/charge_up_stage9.png"
+            },
+            {
+                "img": "images/items/charge_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "stadium_single_race_4",
@@ -25,11 +56,42 @@
     },
     {
         "name": "defense_up_perm",
-        "type": "toggle",
-        "img": "images/items/defense_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "defense_up_perm"
+        "type": "progressive",
+        "img": "images/items/defense_up_active.png",
+        "codes": "defense_up_perm",
+        "stages": [
+            {
+                "img": "images/items/defense_up_stage1.png"
+            },
+            {
+                "img": "images/items/defense_up_stage2.png"
+            },
+            {
+                "img": "images/items/defense_up_stage3.png"
+            },
+            {
+                "img": "images/items/defense_up_stage4.png"
+            },
+            {
+                "img": "images/items/defense_up_stage5.png"
+            },
+            {
+                "img": "images/items/defense_up_stage6.png"
+            },
+            {
+                "img": "images/items/defense_up_stage7.png"
+            },
+            {
+                "img": "images/items/defense_up_stage8.png"
+            },
+            {
+                "img": "images/items/defense_up_stage9.png"
+            },
+            {
+                "img": "images/items/defense_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "stadium_single_race_7",
@@ -42,18 +104,20 @@
     {
         "name": "defense_up",
         "type": "toggle",
-        "img": "images/items/defense_up.png",
+        "img": "images/items/defense_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "defense_up"
+        "codes": "defense_up",
+        "img_inactive": "images/items/defense_up_inactive.png"
     },
     {
         "name": "weight_up",
         "type": "toggle",
-        "img": "images/items/weight_up.png",
+        "img": "images/items/weight_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "weight_up"
+        "codes": "weight_up",
+        "img_inactive": "images/items/weight_up_inactive.png"
     },
     {
         "name": "charge_down",
@@ -97,11 +161,42 @@
     },
     {
         "name": "turn_up_perm",
-        "type": "toggle",
-        "img": "images/items/turn_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "turn_up_perm"
+        "type": "progressive",
+        "img": "images/items/turn_up_active.png",
+        "codes": "turn_up_perm",
+        "stages": [
+            {
+                "img": "images/items/turn_up_stage1.png"
+            },
+            {
+                "img": "images/items/turn_up_stage2.png"
+            },
+            {
+                "img": "images/items/turn_up_stage3.png"
+            },
+            {
+                "img": "images/items/turn_up_stage4.png"
+            },
+            {
+                "img": "images/items/turn_up_stage5.png"
+            },
+            {
+                "img": "images/items/turn_up_stage6.png"
+            },
+            {
+                "img": "images/items/turn_up_stage7.png"
+            },
+            {
+                "img": "images/items/turn_up_stage8.png"
+            },
+            {
+                "img": "images/items/turn_up_stage9.png"
+            },
+            {
+                "img": "images/items/turn_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "stadium_air_glider",
@@ -145,19 +240,81 @@
     },
     {
         "name": "weight_up_perm",
-        "type": "toggle",
-        "img": "images/items/weight_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "weight_up_perm"
+        "type": "progressive",
+        "img": "images/items/weight_up_active.png",
+        "codes": "weight_up_perm",
+        "stages": [
+            {
+                "img": "images/items/weight_up_stage1.png"
+            },
+            {
+                "img": "images/items/weight_up_stage2.png"
+            },
+            {
+                "img": "images/items/weight_up_stage3.png"
+            },
+            {
+                "img": "images/items/weight_up_stage4.png"
+            },
+            {
+                "img": "images/items/weight_up_stage5.png"
+            },
+            {
+                "img": "images/items/weight_up_stage6.png"
+            },
+            {
+                "img": "images/items/weight_up_stage7.png"
+            },
+            {
+                "img": "images/items/weight_up_stage8.png"
+            },
+            {
+                "img": "images/items/weight_up_stage9.png"
+            },
+            {
+                "img": "images/items/weight_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "top_speed_up_perm",
-        "type": "toggle",
-        "img": "images/items/top_speed_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "top_speed_up_perm"
+        "type": "progressive",
+        "img": "images/items/top_speed_up_active.png",
+        "codes": "top_speed_up_perm",
+        "stages": [
+            {
+                "img": "images/items/top_speed_up_stage1.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage2.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage3.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage4.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage5.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage6.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage7.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage8.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage9.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "checkbox_filler_city",
@@ -177,19 +334,51 @@
     },
     {
         "name": "offense_up_perm",
-        "type": "toggle",
-        "img": "images/items/offense_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "offense_up_perm"
+        "type": "progressive",
+        "img": "images/items/offense_up_active.png",
+        "codes": "offense_up_perm",
+        "stages": [
+            {
+                "img": "images/items/offense_up_stage1.png"
+            },
+            {
+                "img": "images/items/offense_up_stage2.png"
+            },
+            {
+                "img": "images/items/offense_up_stage3.png"
+            },
+            {
+                "img": "images/items/offense_up_stage4.png"
+            },
+            {
+                "img": "images/items/offense_up_stage5.png"
+            },
+            {
+                "img": "images/items/offense_up_stage6.png"
+            },
+            {
+                "img": "images/items/offense_up_stage7.png"
+            },
+            {
+                "img": "images/items/offense_up_stage8.png"
+            },
+            {
+                "img": "images/items/offense_up_stage9.png"
+            },
+            {
+                "img": "images/items/offense_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "glide_up",
         "type": "toggle",
-        "img": "images/items/glide_up.png",
+        "img": "images/items/glide_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "glide_up"
+        "codes": "glide_up",
+        "img_inactive": "images/items/glide_up_inactive.png"
     },
     {
         "name": "defense_down",
@@ -202,18 +391,50 @@
     {
         "name": "turn_up",
         "type": "toggle",
-        "img": "images/items/turn_up.png",
+        "img": "images/items/turn_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "turn_up"
+        "codes": "turn_up",
+        "img_inactive": "images/items/turn_up_inactive.png"
     },
     {
         "name": "hp_up_perm",
-        "type": "toggle",
-        "img": "images/items/hp_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hp_up_perm"
+        "type": "progressive",
+        "img": "images/items/hp_up_active.png",
+        "codes": "hp_up_perm",
+        "stages": [
+            {
+                "img": "images/items/hp_up_stage1.png"
+            },
+            {
+                "img": "images/items/hp_up_stage2.png"
+            },
+            {
+                "img": "images/items/hp_up_stage3.png"
+            },
+            {
+                "img": "images/items/hp_up_stage4.png"
+            },
+            {
+                "img": "images/items/hp_up_stage5.png"
+            },
+            {
+                "img": "images/items/hp_up_stage6.png"
+            },
+            {
+                "img": "images/items/hp_up_stage7.png"
+            },
+            {
+                "img": "images/items/hp_up_stage8.png"
+            },
+            {
+                "img": "images/items/hp_up_stage9.png"
+            },
+            {
+                "img": "images/items/hp_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "stadium_drag_race_4",
@@ -234,18 +455,50 @@
     {
         "name": "patch_cap_increase",
         "type": "toggle",
-        "img": "images/items/patch_cap_increase.png",
+        "img": "images/items/all_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "patch_cap_increase"
+        "codes": "patch_cap_increase",
+        "img_inactive": "images/items/all_up_inactive.png"
     },
     {
         "name": "boost_up_perm",
-        "type": "toggle",
-        "img": "images/items/boost_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "boost_up_perm"
+        "type": "progressive",
+        "img": "images/items/boost_up_active.png",
+        "codes": "boost_up_perm",
+        "stages": [
+            {
+                "img": "images/items/boost_up_stage1.png"
+            },
+            {
+                "img": "images/items/boost_up_stage2.png"
+            },
+            {
+                "img": "images/items/boost_up_stage3.png"
+            },
+            {
+                "img": "images/items/boost_up_stage4.png"
+            },
+            {
+                "img": "images/items/boost_up_stage5.png"
+            },
+            {
+                "img": "images/items/boost_up_stage6.png"
+            },
+            {
+                "img": "images/items/boost_up_stage7.png"
+            },
+            {
+                "img": "images/items/boost_up_stage8.png"
+            },
+            {
+                "img": "images/items/boost_up_stage9.png"
+            },
+            {
+                "img": "images/items/boost_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "full_heal",
@@ -274,10 +527,11 @@
     {
         "name": "hp_up",
         "type": "toggle",
-        "img": "images/items/hp_up.png",
+        "img": "images/items/hp_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "hp_up"
+        "codes": "hp_up",
+        "img_inactive": "images/items/hp_up_inactive.png"
     },
     {
         "name": "stadium_target_flight",
@@ -298,10 +552,11 @@
     {
         "name": "charge_up",
         "type": "toggle",
-        "img": "images/items/charge_up.png",
+        "img": "images/items/charge_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "charge_up"
+        "codes": "charge_up",
+        "img_inactive": "images/items/charge_up_inactive.png"
     },
     {
         "name": "filler",
@@ -354,10 +609,11 @@
     {
         "name": "boost_up",
         "type": "toggle",
-        "img": "images/items/boost_up.png",
+        "img": "images/items/boost_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "boost_up"
+        "codes": "boost_up",
+        "img_inactive": "images/items/boost_up_inactive.png"
     },
     {
         "name": "stadium_single_race_3",
@@ -401,11 +657,42 @@
     },
     {
         "name": "glide_up_perm",
-        "type": "toggle",
-        "img": "images/items/glide_up_perm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "glide_up_perm"
+        "type": "progressive",
+        "img": "images/items/glide_up_active.png",
+        "codes": "glide_up_perm",
+        "stages": [
+            {
+                "img": "images/items/glide_up_stage1.png"
+            },
+            {
+                "img": "images/items/glide_up_stage2.png"
+            },
+            {
+                "img": "images/items/glide_up_stage3.png"
+            },
+            {
+                "img": "images/items/glide_up_stage4.png"
+            },
+            {
+                "img": "images/items/glide_up_stage5.png"
+            },
+            {
+                "img": "images/items/glide_up_stage6.png"
+            },
+            {
+                "img": "images/items/glide_up_stage7.png"
+            },
+            {
+                "img": "images/items/glide_up_stage8.png"
+            },
+            {
+                "img": "images/items/glide_up_stage9.png"
+            },
+            {
+                "img": "images/items/glide_up_stage10.png"
+            }
+        ],
+        "loop": true
     },
     {
         "name": "stadium_single_race_8",
@@ -418,18 +705,20 @@
     {
         "name": "offense_up",
         "type": "toggle",
-        "img": "images/items/offense_up.png",
+        "img": "images/items/offense_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "offense_up"
+        "codes": "offense_up",
+        "img_inactive": "images/items/offense_up_inactive.png"
     },
     {
         "name": "top_speed_up",
         "type": "toggle",
-        "img": "images/items/top_speed_up.png",
+        "img": "images/items/top_speed_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "top_speed_up"
+        "codes": "top_speed_up",
+        "img_inactive": "images/items/top_speed_up_inactive.png"
     },
     {
         "name": "stadium_single_race_5",
@@ -884,5 +1173,474 @@
         "img": "images/items/kirby_green.png",
         "initial_active_state": false,
         "codes": "kirby_green"
+    },
+    {
+        "name": "map_air_ride_beanstalk_park",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_beanstalk_park.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_beanstalk_park"
+    },
+    {
+        "name": "map_air_ride_celestial_valley",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_celestial_valley.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_celestial_valley"
+    },
+    {
+        "name": "map_air_ride_checkered_knights",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_checkered_knights.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_checkered_knights"
+    },
+    {
+        "name": "map_air_ride_fantasy_meadows",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_fantasy_meadows.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_fantasy_meadows"
+    },
+    {
+        "name": "map_air_ride_frozen_hillside",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_frozen_hillside.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_frozen_hillside"
+    },
+    {
+        "name": "map_air_ride_machine_passage",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_machine_passage.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_machine_passage"
+    },
+    {
+        "name": "map_air_ride_magma_flows",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_magma_flows.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_magma_flows"
+    },
+    {
+        "name": "map_air_ride_nebula_belt",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_nebula_belt.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_nebula_belt"
+    },
+    {
+        "name": "map_air_ride_sky_sands",
+        "type": "toggle",
+        "img": "images/items/map_air_ride_sky_sands.png",
+        "initial_active_state": false,
+        "codes": "map_air_ride_sky_sands"
+    },
+    {
+        "name": "map_top_ride_fire",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_fire.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_fire"
+    },
+    {
+        "name": "map_top_ride_grass",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_grass.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_grass"
+    },
+    {
+        "name": "map_top_ride_light",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_light.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_light"
+    },
+    {
+        "name": "map_top_ride_metal",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_metal.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_metal"
+    },
+    {
+        "name": "map_top_ride_sand",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_sand.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_sand"
+    },
+    {
+        "name": "map_top_ride_sky",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_sky.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_sky"
+    },
+    {
+        "name": "map_top_ride_water",
+        "type": "toggle",
+        "img": "images/items/map_top_ride_water.png",
+        "initial_active_state": false,
+        "codes": "map_top_ride_water"
+    },
+    {
+        "name": "ability_bomb",
+        "type": "toggle",
+        "img": "images/items/ability_bomb_active.png",
+        "img_inactive": "images/items/ability_bomb_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_bomb"
+    },
+    {
+        "name": "ability_fire",
+        "type": "toggle",
+        "img": "images/items/ability_fire_active.png",
+        "img_inactive": "images/items/ability_fire_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_fire"
+    },
+    {
+        "name": "ability_freeze",
+        "type": "toggle",
+        "img": "images/items/ability_freeze_active.png",
+        "img_inactive": "images/items/ability_freeze_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_freeze"
+    },
+    {
+        "name": "ability_mike",
+        "type": "toggle",
+        "img": "images/items/ability_mike_active.png",
+        "img_inactive": "images/items/ability_mike_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_mike"
+    },
+    {
+        "name": "ability_needle",
+        "type": "toggle",
+        "img": "images/items/ability_needle_active.png",
+        "img_inactive": "images/items/ability_needle_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_needle"
+    },
+    {
+        "name": "ability_plasma",
+        "type": "toggle",
+        "img": "images/items/ability_plasma_active.png",
+        "img_inactive": "images/items/ability_plasma_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_plasma"
+    },
+    {
+        "name": "ability_sleep",
+        "type": "toggle",
+        "img": "images/items/ability_sleep_active.png",
+        "img_inactive": "images/items/ability_sleep_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_sleep"
+    },
+    {
+        "name": "ability_sword",
+        "type": "toggle",
+        "img": "images/items/ability_sword_active.png",
+        "img_inactive": "images/items/ability_sword_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_sword"
+    },
+    {
+        "name": "ability_tornado",
+        "type": "toggle",
+        "img": "images/items/ability_tornado_active.png",
+        "img_inactive": "images/items/ability_tornado_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_tornado"
+    },
+    {
+        "name": "ability_wheel",
+        "type": "toggle",
+        "img": "images/items/ability_wheel_active.png",
+        "img_inactive": "images/items/ability_wheel_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_wheel"
+    },
+    {
+        "name": "ability_wing",
+        "type": "toggle",
+        "img": "images/items/ability_wing_active.png",
+        "img_inactive": "images/items/ability_wing_inactive.png",
+        "initial_active_state": false,
+        "codes": "ability_wing"
+    },
+    {
+        "name": "box_red",
+        "type": "toggle",
+        "img": "images/items/box_red_active.png",
+        "img_inactive": "images/items/box_red_inactive.png",
+        "initial_active_state": false,
+        "codes": "box_red"
+    },
+    {
+        "name": "box_blue",
+        "type": "toggle",
+        "img": "images/items/box_blue_active.png",
+        "img_inactive": "images/items/box_blue_inactive.png",
+        "initial_active_state": false,
+        "codes": "box_blue"
+    },
+    {
+        "name": "box_green",
+        "type": "toggle",
+        "img": "images/items/box_green_active.png",
+        "img_inactive": "images/items/box_green_inactive.png",
+        "initial_active_state": false,
+        "codes": "box_green"
+    },
+    {
+        "name": "character_unlock_king_dedede",
+        "type": "toggle",
+        "img": "images/items/character_unlock_king_dedede_active.png",
+        "img_inactive": "images/items/character_unlock_king_dedede_inactive.png",
+        "initial_active_state": false,
+        "codes": "character_unlock_king_dedede"
+    },
+    {
+        "name": "character_unlock_meta_knight",
+        "type": "toggle",
+        "img": "images/items/character_unlock_meta_knight_active.png",
+        "img_inactive": "images/items/character_unlock_meta_knight_inactive.png",
+        "initial_active_state": false,
+        "codes": "character_unlock_meta_knight"
+    },
+    {
+        "name": "top_ride_item_big_cake",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_big_cake_active.png",
+        "img_inactive": "images/items/top_ride_item_big_cake_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_big_cake"
+    },
+    {
+        "name": "top_ride_item_bomb",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_bomb_active.png",
+        "img_inactive": "images/items/top_ride_item_bomb_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_bomb"
+    },
+    {
+        "name": "top_ride_item_buzz_saw",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_buzz_saw_active.png",
+        "img_inactive": "images/items/top_ride_item_buzz_saw_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_buzz_saw"
+    },
+    {
+        "name": "top_ride_item_charge_up",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_charge_up_active.png",
+        "img_inactive": "images/items/top_ride_item_charge_up_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_charge_up"
+    },
+    {
+        "name": "top_ride_item_chickie",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_chickie_active.png",
+        "img_inactive": "images/items/top_ride_item_chickie_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_chickie"
+    },
+    {
+        "name": "top_ride_item_drill",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_drill_active.png",
+        "img_inactive": "images/items/top_ride_item_drill_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_drill"
+    },
+    {
+        "name": "top_ride_item_fire",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_fire_active.png",
+        "img_inactive": "images/items/top_ride_item_fire_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_fire"
+    },
+    {
+        "name": "top_ride_item_freeze_fan",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_freeze_fan_active.png",
+        "img_inactive": "images/items/top_ride_item_freeze_fan_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_freeze_fan"
+    },
+    {
+        "name": "top_ride_item_hammer",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_hammer_active.png",
+        "img_inactive": "images/items/top_ride_item_hammer_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_hammer"
+    },
+    {
+        "name": "top_ride_item_krako",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_krako_active.png",
+        "img_inactive": "images/items/top_ride_item_krako_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_krako"
+    },
+    {
+        "name": "top_ride_item_lantern",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_lantern_active.png",
+        "img_inactive": "images/items/top_ride_item_lantern_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_lantern"
+    },
+    {
+        "name": "top_ride_item_mike",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_mike_active.png",
+        "img_inactive": "images/items/top_ride_item_mike_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_mike"
+    },
+    {
+        "name": "top_ride_item_missile",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_missile_active.png",
+        "img_inactive": "images/items/top_ride_item_missile_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_missile"
+    },
+    {
+        "name": "top_ride_item_party_ball",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_party_ball_active.png",
+        "img_inactive": "images/items/top_ride_item_party_ball_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_party_ball"
+    },
+    {
+        "name": "top_ride_item_party_bomb",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_party_bomb_active.png",
+        "img_inactive": "images/items/top_ride_item_party_bomb_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_party_bomb"
+    },
+    {
+        "name": "top_ride_item_smokescreen",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_smokescreen_active.png",
+        "img_inactive": "images/items/top_ride_item_smokescreen_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_smokescreen"
+    },
+    {
+        "name": "top_ride_item_speed_up",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_speed_up_active.png",
+        "img_inactive": "images/items/top_ride_item_speed_up_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_speed_up"
+    },
+    {
+        "name": "top_ride_item_speed_down",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_speed_down_active.png",
+        "img_inactive": "images/items/top_ride_item_speed_down_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_speed_down"
+    },
+    {
+        "name": "top_ride_item_spinner",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_spinner_active.png",
+        "img_inactive": "images/items/top_ride_item_spinner_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_spinner"
+    },
+    {
+        "name": "machine_free_star",
+        "type": "toggle",
+        "img": "images/items/machine_free_star_active.png",
+        "img_inactive": "images/items/machine_free_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_free_star"
+    },
+    {
+        "name": "machine_steer_star",
+        "type": "toggle",
+        "img": "images/items/machine_steer_star_active.png",
+        "img_inactive": "images/items/machine_steer_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_steer_star"
+    },
+    {
+        "name": "kirby_brown",
+        "type": "toggle",
+        "img": "images/items/kirby_brown.png",
+        "initial_active_state": false,
+        "codes": "kirby_brown"
+    },
+    {
+        "name": "kirby_white",
+        "type": "toggle",
+        "img": "images/items/kirby_white.png",
+        "initial_active_state": false,
+        "codes": "kirby_white"
+    },
+    {
+        "name": "kirby_purple",
+        "type": "toggle",
+        "img": "images/items/kirby_purple.png",
+        "initial_active_state": false,
+        "codes": "kirby_purple"
+    },
+    {
+        "name": "special_offense_panic_spin",
+        "type": "toggle",
+        "img": "images/items/special_offense_panic_spin_active.png",
+        "img_inactive": "images/items/special_offense_panic_spin_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_panic_spin"
+    },
+    {
+        "name": "special_offense_sensor_bomb",
+        "type": "toggle",
+        "img": "images/items/special_offense_sensor_bomb_active.png",
+        "img_inactive": "images/items/special_offense_sensor_bomb_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_sensor_bomb"
+    },
+    {
+        "name": "special_offense_fireworks",
+        "type": "toggle",
+        "img": "images/items/special_offense_fireworks_active.png",
+        "img_inactive": "images/items/special_offense_fireworks_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_fireworks"
+    },
+    {
+        "name": "special_offense_gold_spike",
+        "type": "toggle",
+        "img": "images/items/special_offense_gold_spike_active.png",
+        "img_inactive": "images/items/special_offense_gold_spike_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_gold_spike"
+    },
+    {
+        "name": "trap_link",
+        "type": "toggle",
+        "img": "images/items/trap_link_active.png",
+        "img_inactive": "images/items/trap_link_inactive.png",
+        "initial_active_state": false,
+        "codes": "trap_link"
     }
 ]
