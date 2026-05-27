@@ -652,26 +652,32 @@
                 "type": "group",
                 "header": "Death Link",
                 "h_alignment": "center",
-                "margin": "0,0,0,60",
+                "margin": "0,0,3,8",
                 "content": {
-                    "type": "item",
-                    "item": "death_link",
-                    "width": 48,
-                    "height": 48,
-                    "h_alignment": "center"
+                    "type": "itemgrid",
+                    "item_margin": "2, 2",
+                    "h_alignment": "center",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 48,
+                    "item_width": 48,
+                    "rows": [["death_link"]]
                 }
             },
             {
                 "type": "group",
                 "header": "Energy Link",
                 "h_alignment": "center",
-                "margin": "0,0,0,0",
+                "margin": "0,0,3,0",
                 "content": {
-                    "type": "item",
-                    "item": "energy_link",
-                    "width": 48,
-                    "height": 48,
-                    "h_alignment": "center"
+                    "type": "itemgrid",
+                    "item_margin": "2, 2",
+                    "h_alignment": "center",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 48,
+                    "item_width": 48,
+                    "rows": [["energy_link"]]
                 }
             }
         ]
