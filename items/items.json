@@ -1126,5 +1126,21 @@
         "img_inactive": "images/items/box_green_inactive.png",
         "initial_active_state": false,
         "codes": "box_green"
+    },
+    {
+        "name": "character_unlock_king_dedede",
+        "type": "toggle",
+        "img": "images/items/character_unlock_king_dedede_active.png",
+        "img_inactive": "images/items/character_unlock_king_dedede_inactive.png",
+        "initial_active_state": false,
+        "codes": "character_unlock_king_dedede"
+    },
+    {
+        "name": "character_unlock_meta_knight",
+        "type": "toggle",
+        "img": "images/items/character_unlock_meta_knight_active.png",
+        "img_inactive": "images/items/character_unlock_meta_knight_inactive.png",
+        "initial_active_state": false,
+        "codes": "character_unlock_meta_knight"
     }
 ]
