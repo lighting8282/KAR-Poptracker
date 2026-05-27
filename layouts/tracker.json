@@ -62,26 +62,34 @@
                             "h_alignment": "left"
                         },
                         {
-                            "type": "group",
-                            "header": "Machines",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "top",
-                            "h_alignment": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "machines_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Copy Abilities",
-                            "dock": "top",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "copy_abilities_panel"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Machines",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "machines_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Copy Abilities",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "copy_abilities_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -213,26 +221,34 @@
                             "h_alignment": "left"
                         },
                         {
-                            "type": "group",
-                            "header": "Machines",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "left",
-                            "h_alignment": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "machines_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Copy Abilities",
-                            "dock": "left",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "copy_abilities_panel"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Machines",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "machines_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Copy Abilities",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "copy_abilities_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
