@@ -938,12 +938,12 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "2, 2",
+                "item_margin": "12, 4",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 36,
-                "item_width": 36,
+                "item_height": 48,
+                "item_width": 48,
                 "rows": [
                     [
                         "character_unlock_king_dedede",
