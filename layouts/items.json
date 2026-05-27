@@ -907,6 +907,30 @@
             }
         ]
     },
+    "special_offense_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 36,
+                "item_width": 36,
+                "rows": [
+                    [
+                        "special_offense_panic_spin",
+                        "special_offense_sensor_bomb",
+                        "special_offense_fireworks",
+                        "special_offense_gold_spike"
+                    ]
+                ]
+            }
+        ]
+    },
     "character_unlock_panel": {
         "type": "array",
         "orientation": "vertical",

@@ -47,6 +47,17 @@
                                         "type": "layout",
                                         "key": "boxes_panel"
                                     }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Special Offense",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "special_offense_panel"
+                                    }
                                 }
                             ]
                         },
