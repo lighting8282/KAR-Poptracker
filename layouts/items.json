@@ -533,8 +533,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 60,
-                    "item_width": 60,
+                    "item_height": 64,
+                    "item_width": 64,
                     "rows": [
                         [
                             "stadium_drag_race_1",
@@ -554,8 +554,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 60,
-                    "item_width": 60,
+                    "item_height": 64,
+                    "item_width": 64,
                     "rows": [
                         [
                             "stadium_destruction_derby_1",
@@ -583,8 +583,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 60,
-                    "item_width": 60,
+                    "item_height": 64,
+                    "item_width": 64,
                     "rows": [
                         [
                             "stadium_kirby_melee_1",
@@ -602,8 +602,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 60,
-                    "item_width": 60,
+                    "item_height": 64,
+                    "item_width": 64,
                     "rows": [
                         [
                             "stadium_single_race_1",
@@ -630,8 +630,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 60,
-                    "item_width": 60,
+                    "item_height": 64,
+                    "item_width": 64,
                     "rows": [
                         [
                             "stadium_high_jump",
