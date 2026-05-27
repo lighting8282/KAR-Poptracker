@@ -41,6 +41,50 @@
                                 "key": "stadium_grid_2"
                             },
                             "h_alignment": "left"
+                        },
+                        {
+                            "type": "group",
+                            "header": "Machines",
+                            "dock": "top",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "machines_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Food",
+                            "dock": "top",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "food_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Kirby Colors",
+                            "dock": "top",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "kirby_colors_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Utility",
+                            "dock": "top",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "utility_panel"
+                            }
                         }
                     ]
                 },
@@ -100,6 +144,50 @@
                                 "key": "stadium_grid_2"
                             },
                             "h_alignment": "left"
+                        },
+                        {
+                            "type": "group",
+                            "header": "Machines",
+                            "dock": "left",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "machines_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Food",
+                            "dock": "left",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "food_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Kirby Colors",
+                            "dock": "left",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "kirby_colors_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Utility",
+                            "dock": "left",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "utility_panel"
+                            }
                         }
                     ]
                 },
