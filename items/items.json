@@ -455,10 +455,11 @@
     {
         "name": "patch_cap_increase",
         "type": "toggle",
-        "img": "images/items/all_up.png",
+        "img": "images/items/all_up_active.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "patch_cap_increase"
+        "codes": "patch_cap_increase",
+        "img_inactive": "images/items/all_up_inactive.png"
     },
     {
         "name": "boost_up_perm",
