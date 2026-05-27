@@ -27,8 +27,7 @@
                         "weight_up_perm"
                     ],
                     [
-                        "patch_cap_increase",
-                        "update"
+                        "patch_cap_increase"
                     ]
                 ]
             }
@@ -62,8 +61,7 @@
                         "weight_up_perm"
                     ],
                     [
-                        "patch_cap_increase",
-                        "update"
+                        "patch_cap_increase"
                     ]
                 ]
             }
