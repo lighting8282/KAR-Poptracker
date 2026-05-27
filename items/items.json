@@ -12,12 +12,7 @@
         "type": "progressive",
         "img": "images/items/charge_up_active.png",
         "codes": "charge_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/charge_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/charge_up_stage1.png"
             },
@@ -64,12 +59,7 @@
         "type": "progressive",
         "img": "images/items/defense_up_active.png",
         "codes": "defense_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/defense_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/defense_up_stage1.png"
             },
@@ -174,12 +164,7 @@
         "type": "progressive",
         "img": "images/items/turn_up_active.png",
         "codes": "turn_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/turn_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/turn_up_stage1.png"
             },
@@ -258,12 +243,7 @@
         "type": "progressive",
         "img": "images/items/weight_up_active.png",
         "codes": "weight_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/weight_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/weight_up_stage1.png"
             },
@@ -302,12 +282,7 @@
         "type": "progressive",
         "img": "images/items/top_speed_up_active.png",
         "codes": "top_speed_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/top_speed_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/top_speed_up_stage1.png"
             },
@@ -362,12 +337,7 @@
         "type": "progressive",
         "img": "images/items/offense_up_active.png",
         "codes": "offense_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/offense_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/offense_up_stage1.png"
             },
@@ -432,12 +402,7 @@
         "type": "progressive",
         "img": "images/items/hp_up_active.png",
         "codes": "hp_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/hp_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/hp_up_stage1.png"
             },
@@ -500,12 +465,7 @@
         "type": "progressive",
         "img": "images/items/boost_up_active.png",
         "codes": "boost_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/boost_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/boost_up_stage1.png"
             },
@@ -699,12 +659,7 @@
         "type": "progressive",
         "img": "images/items/glide_up_active.png",
         "codes": "glide_up_perm",
-        "initial_stage_idx": 0,
         "stages": [
-            {
-                "img": "images/items/glide_up_active.png",
-                "img_mods": "disabled"
-            },
             {
                 "img": "images/items/glide_up_stage1.png"
             },
