@@ -15,7 +15,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/charge_up_stage0.png"
+                "img": "images/items/charge_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/charge_up_stage1.png"
@@ -66,7 +67,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/defense_up_stage0.png"
+                "img": "images/items/defense_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/defense_up_stage1.png"
@@ -175,7 +177,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/turn_up_stage0.png"
+                "img": "images/items/turn_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/turn_up_stage1.png"
@@ -258,7 +261,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/weight_up_stage0.png"
+                "img": "images/items/weight_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/weight_up_stage1.png"
@@ -301,7 +305,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/top_speed_up_stage0.png"
+                "img": "images/items/top_speed_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/top_speed_up_stage1.png"
@@ -360,7 +365,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/offense_up_stage0.png"
+                "img": "images/items/offense_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/offense_up_stage1.png"
@@ -429,7 +435,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/hp_up_stage0.png"
+                "img": "images/items/hp_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/hp_up_stage1.png"
@@ -496,7 +503,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/boost_up_stage0.png"
+                "img": "images/items/boost_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/boost_up_stage1.png"
@@ -694,7 +702,8 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/items/glide_up_stage0.png"
+                "img": "images/items/glide_up_active.png",
+                "img_mods": "disabled"
             },
             {
                 "img": "images/items/glide_up_stage1.png"
