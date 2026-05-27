@@ -1602,5 +1602,37 @@
         "img": "images/items/kirby_purple.png",
         "initial_active_state": false,
         "codes": "kirby_purple"
+    },
+    {
+        "name": "special_offense_panic_spin",
+        "type": "toggle",
+        "img": "images/items/special_offense_panic_spin_active.png",
+        "img_inactive": "images/items/special_offense_panic_spin_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_panic_spin"
+    },
+    {
+        "name": "special_offense_sensor_bomb",
+        "type": "toggle",
+        "img": "images/items/special_offense_sensor_bomb_active.png",
+        "img_inactive": "images/items/special_offense_sensor_bomb_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_sensor_bomb"
+    },
+    {
+        "name": "special_offense_fireworks",
+        "type": "toggle",
+        "img": "images/items/special_offense_fireworks_active.png",
+        "img_inactive": "images/items/special_offense_fireworks_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_fireworks"
+    },
+    {
+        "name": "special_offense_gold_spike",
+        "type": "toggle",
+        "img": "images/items/special_offense_gold_spike_active.png",
+        "img_inactive": "images/items/special_offense_gold_spike_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_gold_spike"
     }
 ]
