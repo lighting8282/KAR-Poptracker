@@ -34,7 +34,9 @@
             {
                 "img": "images/items/charge_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "stadium_single_race_4",
@@ -71,7 +73,9 @@
             {
                 "img": "images/items/defense_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "stadium_single_race_7",
@@ -166,7 +170,9 @@
             {
                 "img": "images/items/turn_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "stadium_air_glider",
@@ -235,7 +241,9 @@
             {
                 "img": "images/items/weight_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "top_speed_up_perm",
@@ -264,7 +272,9 @@
             {
                 "img": "images/items/top_speed_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "checkbox_filler_city",
@@ -309,7 +319,9 @@
             {
                 "img": "images/items/offense_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "glide_up",
@@ -364,7 +376,9 @@
             {
                 "img": "images/items/hp_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "stadium_drag_race_4",
@@ -417,7 +431,9 @@
             {
                 "img": "images/items/boost_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "full_heal",
@@ -601,7 +617,9 @@
             {
                 "img": "images/items/glide_up_active.png"
             }
-        ]
+        ],
+        "loop": true,
+        "badge_type": "counter"
     },
     {
         "name": "stadium_single_race_8",
