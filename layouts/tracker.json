@@ -12,13 +12,32 @@
                     "v_alignment": "stretch",
                     "content": [
                         {
-                            "type": "group",
-                            "header": "Patches",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "shared_item_grid_vertical"
-                            }
+                            "margin": "0,0,3,0",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Patches",
+                                    "dock": "top",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "shared_item_grid_vertical"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Food",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "food_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -55,17 +74,6 @@
                         },
                         {
                             "type": "group",
-                            "header": "Food",
-                            "dock": "top",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "food_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
                             "header": "Kirby Colors",
                             "dock": "top",
                             "h_alignment": "left",
@@ -74,6 +82,35 @@
                                 "type": "layout",
                                 "key": "kirby_colors_panel"
                             }
+                        },
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "margin": "0,0,3,0",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Air Ride Maps",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "air_ride_maps_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride Maps",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_maps_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -112,16 +149,35 @@
                     "dock": "bottom",
                     "content": [
                         {
-                            "type": "group",
-                            "header": "Patches",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "h_alignment": "center",
-                                "v_alignment": "center",
-                                "key": "shared_item_grid_horizontal"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Patches",
+                                    "dock": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "h_alignment": "center",
+                                        "v_alignment": "center",
+                                        "key": "shared_item_grid_horizontal"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Food",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "food_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -158,17 +214,6 @@
                         },
                         {
                             "type": "group",
-                            "header": "Food",
-                            "dock": "left",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "food_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
                             "header": "Kirby Colors",
                             "dock": "left",
                             "h_alignment": "left",
@@ -177,6 +222,35 @@
                                 "type": "layout",
                                 "key": "kirby_colors_panel"
                             }
+                        },
+                        {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "margin": "0,0,3,0",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Air Ride Maps",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "air_ride_maps_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Top Ride Maps",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "top_ride_maps_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
