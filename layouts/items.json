@@ -805,6 +805,11 @@
                         "kirby_red",
                         "kirby_gray",
                         "kirby_green"
+                    ],
+                    [
+                        "kirby_brown",
+                        "kirby_white",
+                        "kirby_purple"
                     ]
                 ]
             }
