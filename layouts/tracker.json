@@ -58,6 +58,17 @@
                                         "type": "layout",
                                         "key": "special_offense_panel"
                                     }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "CT Checklist",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "ct_checklist_panel"
+                                    }
                                 }
                             ]
                         },
@@ -269,6 +280,28 @@
                                     "content": {
                                         "type": "layout",
                                         "key": "boxes_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Special Offense",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "special_offense_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "CT Checklist",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "ct_checklist_panel"
                                     }
                                 }
                             ]

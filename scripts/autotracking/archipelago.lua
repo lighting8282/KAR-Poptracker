@@ -229,6 +229,12 @@ function onClear(slot_data)
             end
         end
     end
+    -- Reset City Trial checklist counter (will be re-incremented as locations replay)
+    local ct_counter = Tracker:FindObjectForCode("checklist_counter")
+    if ct_counter then
+        ct_counter.AcquiredCount = 0
+    end
+
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
@@ -307,6 +313,14 @@ function onLocation(location_id, location_name)
     if not location_array or not location_array[1] then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
         return
+    end
+
+    -- Increment City Trial checklist counter for CT locations
+    if location_array[1]:sub(1, 12) == "@City Trial/" then
+        local ct_counter = Tracker:FindObjectForCode("checklist_counter")
+        if ct_counter then
+            ct_counter.AcquiredCount = ct_counter.AcquiredCount + 1
+        end
     end
 
     for _, location in pairs(location_array) do
@@ -480,6 +494,15 @@ function applyProgressionSettings(slot_data)
                     item.Active = (val == 1 or val == "1" or val == true)
                 end
             end
+        end
+    end
+
+    -- Set City Trial checklist counter max from slot_data
+    local ct_counter = Tracker:FindObjectForCode("checklist_counter")
+    if ct_counter then
+        local amount = slot_data["city_trial_checklist_amount"]
+        if amount ~= nil then
+            ct_counter.MaxCount = tonumber(amount) or 0
         end
     end
 end
