@@ -455,7 +455,7 @@
     {
         "name": "patch_cap_increase",
         "type": "toggle",
-        "img": "images/items/patch_cap_increase.png",
+        "img": "images/items/all_up.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "patch_cap_increase"
