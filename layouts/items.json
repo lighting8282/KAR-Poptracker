@@ -641,5 +641,172 @@
                 }
             }
         ]
+    },
+    "utility_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "h_alignment": "left",
+        "margin": "4, 12",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "h_alignment": "center",
+                "margin": "4, 8",
+                "content": [
+                    {
+                        "type": "label",
+                        "text": "Death Link",
+                        "font_size": 16,
+                        "h_alignment": "center",
+                        "margin": "0, 6"
+                    },
+                    {
+                        "type": "item",
+                        "item": "death_link",
+                        "width": 48,
+                        "height": 48,
+                        "h_alignment": "center"
+                    }
+                ]
+            },
+            {
+                "type": "label",
+                "text": " ",
+                "h_alignment": "center",
+                "margin": "0, 90"
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "h_alignment": "center",
+                "margin": "4, 8",
+                "content": [
+                    {
+                        "type": "label",
+                        "text": "Energy Link",
+                        "font_size": 16,
+                        "h_alignment": "center",
+                        "margin": "0, 6"
+                    },
+                    {
+                        "type": "item",
+                        "item": "energy_link",
+                        "width": 48,
+                        "height": 48,
+                        "h_alignment": "center"
+                    }
+                ]
+            }
+        ]
+    },
+    "machines_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "machine_formula_star",
+                        "machine_rocket_star",
+                        "machine_swerve_star",
+                        "machine_winged_star"
+                    ],
+                    [
+                        "machine_compact_star",
+                        "machine_bulk_star",
+                        "machine_turbo_star",
+                        "machine_jet_star"
+                    ],
+                    [
+                        "machine_flight_warp_star",
+                        "machine_shadow_star",
+                        "machine_wagon_star",
+                        "machine_slick_star"
+                    ],
+                    [
+                        "machine_rex_wheelie",
+                        "machine_scooter_bike",
+                        "machine_meta_knight",
+                        "machine_dragoon"
+                    ],
+                    [
+                        "machine_hydra"
+                    ]
+                ]
+            }
+        ]
+    },
+    "food_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "food_omelet",
+                        "food_roast_chicken",
+                        "food_ice_cream_cone",
+                        "food_ramen"
+                    ],
+                    [
+                        "food_hamburger",
+                        "food_maxim_tomato",
+                        "food_rice_ball",
+                        "food_apple"
+                    ],
+                    [
+                        "food_curry",
+                        "food_energy_drink",
+                        "food_sushi",
+                        "food_hotdog"
+                    ]
+                ]
+            }
+        ]
+    },
+    "kirby_colors_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "kirby_pink",
+                        "kirby_yellow",
+                        "kirby_blue"
+                    ],
+                    [
+                        "kirby_red",
+                        "kirby_gray",
+                        "kirby_green"
+                    ]
+                ]
+            }
+        ]
     }
 }

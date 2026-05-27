@@ -594,5 +594,295 @@
         "overlay_align": "right",
         "codes": "top_ride_progression_multiplayer",
         "img_inactive": "images/items/checkbox_filler_top.png"
+    },
+    {
+        "name": "death_link",
+        "type": "toggle",
+        "img": "images/items/death_link_active.png",
+        "img_inactive": "images/items/death_link_inactive.png",
+        "initial_active_state": false,
+        "codes": "death_link"
+    },
+    {
+        "name": "energy_link",
+        "type": "toggle",
+        "img": "images/items/energy_link_active.png",
+        "img_inactive": "images/items/energy_link_inactive.png",
+        "initial_active_state": false,
+        "codes": "energy_link"
+    },
+    {
+        "name": "machine_formula_star",
+        "type": "toggle",
+        "img": "images/items/machine_formula_star_active.png",
+        "img_inactive": "images/items/machine_formula_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_formula_star"
+    },
+    {
+        "name": "machine_rocket_star",
+        "type": "toggle",
+        "img": "images/items/machine_rocket_star_active.png",
+        "img_inactive": "images/items/machine_rocket_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_rocket_star"
+    },
+    {
+        "name": "machine_swerve_star",
+        "type": "toggle",
+        "img": "images/items/machine_swerve_star_active.png",
+        "img_inactive": "images/items/machine_swerve_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_swerve_star"
+    },
+    {
+        "name": "machine_winged_star",
+        "type": "toggle",
+        "img": "images/items/machine_winged_star_active.png",
+        "img_inactive": "images/items/machine_winged_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_winged_star"
+    },
+    {
+        "name": "machine_compact_star",
+        "type": "toggle",
+        "img": "images/items/machine_compact_star_active.png",
+        "img_inactive": "images/items/machine_compact_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_compact_star"
+    },
+    {
+        "name": "machine_bulk_star",
+        "type": "toggle",
+        "img": "images/items/machine_bulk_star_active.png",
+        "img_inactive": "images/items/machine_bulk_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_bulk_star"
+    },
+    {
+        "name": "machine_turbo_star",
+        "type": "toggle",
+        "img": "images/items/machine_turbo_star_active.png",
+        "img_inactive": "images/items/machine_turbo_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_turbo_star"
+    },
+    {
+        "name": "machine_jet_star",
+        "type": "toggle",
+        "img": "images/items/machine_jet_star_active.png",
+        "img_inactive": "images/items/machine_jet_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_jet_star"
+    },
+    {
+        "name": "machine_flight_warp_star",
+        "type": "toggle",
+        "img": "images/items/machine_flight_warp_star_active.png",
+        "img_inactive": "images/items/machine_flight_warp_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_flight_warp_star"
+    },
+    {
+        "name": "machine_shadow_star",
+        "type": "toggle",
+        "img": "images/items/machine_shadow_star_active.png",
+        "img_inactive": "images/items/machine_shadow_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_shadow_star"
+    },
+    {
+        "name": "machine_wagon_star",
+        "type": "toggle",
+        "img": "images/items/machine_wagon_star_active.png",
+        "img_inactive": "images/items/machine_wagon_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_wagon_star"
+    },
+    {
+        "name": "machine_slick_star",
+        "type": "toggle",
+        "img": "images/items/machine_slick_star_active.png",
+        "img_inactive": "images/items/machine_slick_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_slick_star"
+    },
+    {
+        "name": "machine_rex_wheelie",
+        "type": "toggle",
+        "img": "images/items/machine_rex_wheelie_active.png",
+        "img_inactive": "images/items/machine_rex_wheelie_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_rex_wheelie"
+    },
+    {
+        "name": "machine_scooter_bike",
+        "type": "toggle",
+        "img": "images/items/machine_scooter_bike_active.png",
+        "img_inactive": "images/items/machine_scooter_bike_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_scooter_bike"
+    },
+    {
+        "name": "machine_meta_knight",
+        "type": "toggle",
+        "img": "images/items/machine_meta_knight_active.png",
+        "img_inactive": "images/items/machine_meta_knight_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_meta_knight"
+    },
+    {
+        "name": "machine_dragoon",
+        "type": "toggle",
+        "img": "images/items/machine_dragoon_active.png",
+        "img_inactive": "images/items/machine_dragoon_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_dragoon"
+    },
+    {
+        "name": "machine_hydra",
+        "type": "toggle",
+        "img": "images/items/machine_hydra_active.png",
+        "img_inactive": "images/items/machine_hydra_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_hydra"
+    },
+    {
+        "name": "food_omelet",
+        "type": "toggle",
+        "img": "images/items/food_omelet_active.png",
+        "img_inactive": "images/items/food_omelet_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_omelet"
+    },
+    {
+        "name": "food_roast_chicken",
+        "type": "toggle",
+        "img": "images/items/food_roast_chicken_active.png",
+        "img_inactive": "images/items/food_roast_chicken_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_roast_chicken"
+    },
+    {
+        "name": "food_ice_cream_cone",
+        "type": "toggle",
+        "img": "images/items/food_ice_cream_cone_active.png",
+        "img_inactive": "images/items/food_ice_cream_cone_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_ice_cream_cone"
+    },
+    {
+        "name": "food_ramen",
+        "type": "toggle",
+        "img": "images/items/food_ramen_active.png",
+        "img_inactive": "images/items/food_ramen_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_ramen"
+    },
+    {
+        "name": "food_hamburger",
+        "type": "toggle",
+        "img": "images/items/food_hamburger_active.png",
+        "img_inactive": "images/items/food_hamburger_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_hamburger"
+    },
+    {
+        "name": "food_maxim_tomato",
+        "type": "toggle",
+        "img": "images/items/food_maxim_tomato_active.png",
+        "img_inactive": "images/items/food_maxim_tomato_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_maxim_tomato"
+    },
+    {
+        "name": "food_rice_ball",
+        "type": "toggle",
+        "img": "images/items/food_rice_ball_active.png",
+        "img_inactive": "images/items/food_rice_ball_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_rice_ball"
+    },
+    {
+        "name": "food_apple",
+        "type": "toggle",
+        "img": "images/items/food_apple_active.png",
+        "img_inactive": "images/items/food_apple_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_apple"
+    },
+    {
+        "name": "food_curry",
+        "type": "toggle",
+        "img": "images/items/food_curry_active.png",
+        "img_inactive": "images/items/food_curry_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_curry"
+    },
+    {
+        "name": "food_energy_drink",
+        "type": "toggle",
+        "img": "images/items/food_energy_drink_active.png",
+        "img_inactive": "images/items/food_energy_drink_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_energy_drink"
+    },
+    {
+        "name": "food_sushi",
+        "type": "toggle",
+        "img": "images/items/food_sushi_active.png",
+        "img_inactive": "images/items/food_sushi_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_sushi"
+    },
+    {
+        "name": "food_hotdog",
+        "type": "toggle",
+        "img": "images/items/food_hotdog_active.png",
+        "img_inactive": "images/items/food_hotdog_inactive.png",
+        "initial_active_state": false,
+        "codes": "food_hotdog"
+    },
+    {
+        "name": "kirby_pink",
+        "type": "toggle",
+        "img": "images/items/kirby_pink.png",
+        "initial_active_state": false,
+        "codes": "kirby_pink"
+    },
+    {
+        "name": "kirby_yellow",
+        "type": "toggle",
+        "img": "images/items/kirby_yellow.png",
+        "initial_active_state": false,
+        "codes": "kirby_yellow"
+    },
+    {
+        "name": "kirby_blue",
+        "type": "toggle",
+        "img": "images/items/kirby_blue.png",
+        "initial_active_state": false,
+        "codes": "kirby_blue"
+    },
+    {
+        "name": "kirby_red",
+        "type": "toggle",
+        "img": "images/items/kirby_red.png",
+        "initial_active_state": false,
+        "codes": "kirby_red"
+    },
+    {
+        "name": "kirby_gray",
+        "type": "toggle",
+        "img": "images/items/kirby_gray.png",
+        "initial_active_state": false,
+        "codes": "kirby_gray"
+    },
+    {
+        "name": "kirby_green",
+        "type": "toggle",
+        "img": "images/items/kirby_green.png",
+        "initial_active_state": false,
+        "codes": "kirby_green"
     }
 ]

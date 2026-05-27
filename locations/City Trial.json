@@ -2220,7 +2220,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Stadium/HIGH JUMP Jump higher than 1,000 feet!",
+                            "@Stadium/DESTRUCTION DERBY (All)/KO enemies over 150 times!",
+                            "@Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -2242,7 +2246,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@City Trial/City/Destroy all of the dilapidated houses!",
+                            "@Stadium/DESTRUCTION DERBY (All)/KO enemies over 150 times!",
+                            "@Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -2290,13 +2298,21 @@
                 "sections": [
                     {
                         "name": "Unlock Dragoon Parts A, B, and C on the Checklist!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Stadium/HIGH JUMP Jump higher than 1,000 feet!",
+                            "@Stadium/DESTRUCTION DERBY (All)/KO enemies over 150 times!",
+                            "@Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Unlock Hydra Parts X, Y, and Z on the Checklist!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@City Trial/City/Destroy all of the dilapidated houses!",
+                            "@Stadium/DESTRUCTION DERBY (All)/KO enemies over 150 times!",
+                            "@Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },

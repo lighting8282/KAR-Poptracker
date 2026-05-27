@@ -464,6 +464,24 @@ function applyProgressionSettings(slot_data)
             end
         end
     end
+
+    -- Utility toggles (death_link, energy_link). These come from the YAML as
+    -- booleans in slot_data; light up the icon when enabled, leave grey otherwise.
+    local utility = { "death_link", "energy_link" }
+    for _, code in ipairs(utility) do
+        local item = Tracker:FindObjectForCode(code)
+        if item then
+            local val = slot_data[code]
+            if val ~= nil then
+                -- accept either bool or 0/1 from slot data
+                if type(val) == "boolean" then
+                    item.Active = val
+                else
+                    item.Active = (val == 1 or val == "1" or val == true)
+                end
+            end
+        end
+    end
 end
 
 -- Hook into slot data received
