@@ -24,9 +24,7 @@
                         "offense_up_perm",
                         "top_speed_up_perm",
                         "turn_up_perm",
-                        "weight_up_perm"
-                    ],
-                    [
+                        "weight_up_perm",
                         "patch_cap_increase"
                     ]
                 ]
@@ -58,9 +56,7 @@
                         "offense_up_perm",
                         "top_speed_up_perm",
                         "turn_up_perm",
-                        "weight_up_perm"
-                    ],
-                    [
+                        "weight_up_perm",
                         "patch_cap_increase"
                     ]
                 ]
