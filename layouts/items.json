@@ -649,45 +649,30 @@
         "margin": "4, 8",
         "content": [
             {
-                "type": "array",
-                "orientation": "vertical",
+                "type": "group",
+                "header": "Death Link",
                 "h_alignment": "center",
-                "content": [
-                    {
-                        "type": "item",
-                        "item": "death_link",
-                        "width": 48,
-                        "height": 48,
-                        "h_alignment": "center"
-                    },
-                    {
-                        "type": "label",
-                        "text": "Death Link",
-                        "font_size": 10,
-                        "h_alignment": "center"
-                    }
-                ]
+                "margin": "0,0,0,8",
+                "content": {
+                    "type": "item",
+                    "item": "death_link",
+                    "width": 48,
+                    "height": 48,
+                    "h_alignment": "center"
+                }
             },
             {
-                "type": "array",
-                "orientation": "vertical",
+                "type": "group",
+                "header": "Energy Link",
                 "h_alignment": "center",
-                "margin": "0,16,0,0",
-                "content": [
-                    {
-                        "type": "item",
-                        "item": "energy_link",
-                        "width": 48,
-                        "height": 48,
-                        "h_alignment": "center"
-                    },
-                    {
-                        "type": "label",
-                        "text": "Energy Link",
-                        "font_size": 10,
-                        "h_alignment": "center"
-                    }
-                ]
+                "margin": "0,0,0,0",
+                "content": {
+                    "type": "item",
+                    "item": "energy_link",
+                    "width": 48,
+                    "height": 48,
+                    "h_alignment": "center"
+                }
             }
         ]
     },
