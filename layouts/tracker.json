@@ -36,6 +36,17 @@
                                         "type": "layout",
                                         "key": "food_panel"
                                     }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Boxes",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "boxes_panel"
+                                    }
                                 }
                             ]
                         },
@@ -194,6 +205,17 @@
                                     "content": {
                                         "type": "layout",
                                         "key": "food_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Boxes",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "boxes_panel"
                                     }
                                 }
                             ]

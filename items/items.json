@@ -1102,5 +1102,29 @@
         "img_inactive": "images/items/ability_wing_inactive.png",
         "initial_active_state": false,
         "codes": "ability_wing"
+    },
+    {
+        "name": "box_red",
+        "type": "toggle",
+        "img": "images/items/box_red_active.png",
+        "img_inactive": "images/items/box_red_inactive.png",
+        "initial_active_state": false,
+        "codes": "box_red"
+    },
+    {
+        "name": "box_blue",
+        "type": "toggle",
+        "img": "images/items/box_blue_active.png",
+        "img_inactive": "images/items/box_blue_inactive.png",
+        "initial_active_state": false,
+        "codes": "box_blue"
+    },
+    {
+        "name": "box_green",
+        "type": "toggle",
+        "img": "images/items/box_green_active.png",
+        "img_inactive": "images/items/box_green_inactive.png",
+        "initial_active_state": false,
+        "codes": "box_green"
     }
 ]
