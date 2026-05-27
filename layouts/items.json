@@ -673,16 +673,10 @@
                 ]
             },
             {
-                "type": "label",
-                "text": " ",
-                "h_alignment": "center",
-                "margin": "0, 90"
-            },
-            {
                 "type": "array",
                 "orientation": "vertical",
                 "h_alignment": "center",
-                "margin": "4, 8",
+                "margin": "4, 24",
                 "content": [
                     {
                         "type": "label",
