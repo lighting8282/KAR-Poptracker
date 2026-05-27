@@ -659,9 +659,9 @@
                     {
                         "type": "label",
                         "text": "Death Link",
-                        "font_size": 16,
+                        "font_size": 10,
                         "h_alignment": "center",
-                        "margin": "0, 6"
+                        "margin": "0, 4"
                     },
                     {
                         "type": "item",
@@ -681,9 +681,9 @@
                     {
                         "type": "label",
                         "text": "Energy Link",
-                        "font_size": 16,
+                        "font_size": 10,
                         "h_alignment": "center",
-                        "margin": "0, 6"
+                        "margin": "0, 4"
                     },
                     {
                         "type": "item",
