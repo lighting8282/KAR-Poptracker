@@ -31,6 +31,21 @@
             },
             {
                 "img": "images/items/charge_up_stage5.png"
+            },
+            {
+                "img": "images/items/charge_up_stage6.png"
+            },
+            {
+                "img": "images/items/charge_up_stage7.png"
+            },
+            {
+                "img": "images/items/charge_up_stage8.png"
+            },
+            {
+                "img": "images/items/charge_up_stage9.png"
+            },
+            {
+                "img": "images/items/charge_up_stage10.png"
             }
         ],
         "loop": true,
@@ -68,6 +83,21 @@
             },
             {
                 "img": "images/items/defense_up_stage5.png"
+            },
+            {
+                "img": "images/items/defense_up_stage6.png"
+            },
+            {
+                "img": "images/items/defense_up_stage7.png"
+            },
+            {
+                "img": "images/items/defense_up_stage8.png"
+            },
+            {
+                "img": "images/items/defense_up_stage9.png"
+            },
+            {
+                "img": "images/items/defense_up_stage10.png"
             }
         ],
         "loop": true,
@@ -163,6 +193,21 @@
             },
             {
                 "img": "images/items/turn_up_stage5.png"
+            },
+            {
+                "img": "images/items/turn_up_stage6.png"
+            },
+            {
+                "img": "images/items/turn_up_stage7.png"
+            },
+            {
+                "img": "images/items/turn_up_stage8.png"
+            },
+            {
+                "img": "images/items/turn_up_stage9.png"
+            },
+            {
+                "img": "images/items/turn_up_stage10.png"
             }
         ],
         "loop": true,
@@ -232,6 +277,21 @@
             },
             {
                 "img": "images/items/weight_up_stage5.png"
+            },
+            {
+                "img": "images/items/weight_up_stage6.png"
+            },
+            {
+                "img": "images/items/weight_up_stage7.png"
+            },
+            {
+                "img": "images/items/weight_up_stage8.png"
+            },
+            {
+                "img": "images/items/weight_up_stage9.png"
+            },
+            {
+                "img": "images/items/weight_up_stage10.png"
             }
         ],
         "loop": true,
@@ -261,6 +321,21 @@
             },
             {
                 "img": "images/items/top_speed_up_stage5.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage6.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage7.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage8.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage9.png"
+            },
+            {
+                "img": "images/items/top_speed_up_stage10.png"
             }
         ],
         "loop": true,
@@ -306,6 +381,21 @@
             },
             {
                 "img": "images/items/offense_up_stage5.png"
+            },
+            {
+                "img": "images/items/offense_up_stage6.png"
+            },
+            {
+                "img": "images/items/offense_up_stage7.png"
+            },
+            {
+                "img": "images/items/offense_up_stage8.png"
+            },
+            {
+                "img": "images/items/offense_up_stage9.png"
+            },
+            {
+                "img": "images/items/offense_up_stage10.png"
             }
         ],
         "loop": true,
@@ -361,6 +451,21 @@
             },
             {
                 "img": "images/items/hp_up_stage5.png"
+            },
+            {
+                "img": "images/items/hp_up_stage6.png"
+            },
+            {
+                "img": "images/items/hp_up_stage7.png"
+            },
+            {
+                "img": "images/items/hp_up_stage8.png"
+            },
+            {
+                "img": "images/items/hp_up_stage9.png"
+            },
+            {
+                "img": "images/items/hp_up_stage10.png"
             }
         ],
         "loop": true,
@@ -414,6 +519,21 @@
             },
             {
                 "img": "images/items/boost_up_stage5.png"
+            },
+            {
+                "img": "images/items/boost_up_stage6.png"
+            },
+            {
+                "img": "images/items/boost_up_stage7.png"
+            },
+            {
+                "img": "images/items/boost_up_stage8.png"
+            },
+            {
+                "img": "images/items/boost_up_stage9.png"
+            },
+            {
+                "img": "images/items/boost_up_stage10.png"
             }
         ],
         "loop": true,
@@ -598,6 +718,21 @@
             },
             {
                 "img": "images/items/glide_up_stage5.png"
+            },
+            {
+                "img": "images/items/glide_up_stage6.png"
+            },
+            {
+                "img": "images/items/glide_up_stage7.png"
+            },
+            {
+                "img": "images/items/glide_up_stage8.png"
+            },
+            {
+                "img": "images/items/glide_up_stage9.png"
+            },
+            {
+                "img": "images/items/glide_up_stage10.png"
             }
         ],
         "loop": true,
