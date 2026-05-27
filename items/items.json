@@ -1634,5 +1634,13 @@
         "img_inactive": "images/items/special_offense_gold_spike_inactive.png",
         "initial_active_state": false,
         "codes": "special_offense_gold_spike"
+    },
+    {
+        "name": "trap_link",
+        "type": "toggle",
+        "img": "images/items/trap_link_active.png",
+        "img_inactive": "images/items/trap_link_inactive.png",
+        "initial_active_state": false,
+        "codes": "trap_link"
     }
 ]
