@@ -650,7 +650,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -797,7 +799,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/General/Defeat 10 or more enemies using the Quick Spin!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -857,7 +861,9 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -899,7 +905,9 @@
                     },
                     {
                         "name": "TA: Finish in under 03:15:00 on Shadow Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/General/Defeat 10 or more enemies using the Quick Spin!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -1050,7 +1058,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/General/In any mode other than Free Run, reach the goal 3 times!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1077,7 +1087,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1235,7 +1247,9 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 00:23:00 on Wagon Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/General/In any mode other than Free Run, reach the goal 3 times!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -1243,7 +1257,9 @@
                     },
                     {
                         "name": "TA: Finish in under 01:05:00 on Slick Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -1816,7 +1832,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1914,7 +1932,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MACHINE PASSAGE/Race over 4,500 feet in 2 minutes!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2071,7 +2091,9 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -2099,7 +2121,9 @@
                     },
                     {
                         "name": "TA: Finish in under 02:58:00 on Jet Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MACHINE PASSAGE/Race over 4,500 feet in 2 minutes!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -2188,7 +2212,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/Ability Challenges/Finish in 1st place while flying through the air!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2286,7 +2312,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2443,7 +2471,9 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 00:58:00 on Winged Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/Ability Challenges/Finish in 1st place while flying through the air!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -2471,7 +2501,9 @@
                     },
                     {
                         "name": "TA: Finish in under 03:00:00 on Rocket Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -2587,7 +2619,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/General/In any mode other than Free Run, reach the goal 3 times!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2783,7 +2817,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/CELESTIAL VALLEY/TA: Finish in under 03:20:00!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2845,7 +2881,9 @@
                     },
                     {
                         "name": "TA: Finish in under 02:40:00 on Wagon Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/General/In any mode other than Free Run, reach the goal 3 times!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -2901,7 +2939,9 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/CELESTIAL VALLEY/TA: Finish in under 03:20:00!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -3161,7 +3201,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/SKY SANDS/Finish 2 laps in under 02:05:00!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3273,7 +3315,9 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 00:57:00 on Swerve Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/SKY SANDS/Finish 2 laps in under 02:05:00!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -3413,7 +3457,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3489,7 +3535,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/FROZEN HILLSIDE/TA: Finish in under 03:14:00!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3589,7 +3637,9 @@
                     },
                     {
                         "name": "TA: Finish in under 03:10:00 on Turbo Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -3611,7 +3661,9 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:10:00 on Formula Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/FROZEN HILLSIDE/TA: Finish in under 03:14:00!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -3828,7 +3880,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3997,7 +4051,9 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:25:00 on Rocket Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "@Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],

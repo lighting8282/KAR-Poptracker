@@ -13,7 +13,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "$STADIUMS_AT_LEAST|10"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -24,7 +26,9 @@
                 "sections": [
                     {
                         "name": "play in over 10 stadium modes!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$STADIUMS_AT_LEAST|10"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -35,7 +39,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_2"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -46,7 +52,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 2 Finish in less than 002400!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -57,7 +65,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_4"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -68,7 +78,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 4 Finish in less than 002400!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_4"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -79,7 +91,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_high_jump"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -90,7 +104,9 @@
                 "sections": [
                     {
                         "name": "HIGH JUMP Stay airborne longer than 10 seconds!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_high_jump"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -101,7 +117,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -112,7 +130,9 @@
                 "sections": [
                     {
                         "name": "TARGET FLIGHT stay airborne longer than 15 seconds!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_target_flight"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -123,7 +143,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_air_glider"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -134,7 +156,9 @@
                 "sections": [
                     {
                         "name": "AIR GLIDER fly more than 660 feet!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_air_glider"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -145,7 +169,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_2"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -156,7 +182,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 2 In one game, KO your rivals 5 or more times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -167,7 +195,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -178,7 +208,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 1 bust all the rocks on the field!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -189,7 +221,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_kirby_melee_2"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -200,7 +234,9 @@
                 "sections": [
                     {
                         "name": "KIRBY MELEE 2 In one game, KO enemies over 30 times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_kirby_melee_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -211,7 +247,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -222,7 +260,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 1 Finish in less than 001700 on Formula Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -233,7 +273,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_3"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -244,7 +286,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 3 Finish in less than 003100 on Wheelie Bike!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_3"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -255,7 +299,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "$STADIUMS_AT_LEAST|20"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -266,7 +312,9 @@
                 "sections": [
                     {
                         "name": "play in over 20 stadium modes!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$STADIUMS_AT_LEAST|20"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -277,7 +325,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_2"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -288,7 +338,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 2 Finish in less than 002000!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -299,7 +351,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_4"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -310,7 +364,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 4 Finish in less than 001900!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_4"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -321,7 +377,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -332,7 +390,9 @@
                 "sections": [
                     {
                         "name": "TARGET FLIGHT In one game, get over 150 points!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_target_flight"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -343,7 +403,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -354,7 +416,9 @@
                 "sections": [
                     {
                         "name": "TARGET FLIGHT play 15 times or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_target_flight"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -365,7 +429,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_air_glider"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -376,7 +442,9 @@
                 "sections": [
                     {
                         "name": "AIR GLIDER fly more than 1,300 feet!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_air_glider"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -387,7 +455,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_3"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -398,7 +468,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_3"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -409,7 +481,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -420,7 +494,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 1 In one game, KO a rival 10 times or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -431,7 +507,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_4"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -442,7 +520,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_4"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -453,7 +533,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_kirby_melee_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -464,7 +546,9 @@
                 "sections": [
                     {
                         "name": "KIRBY MELEE 1 In one game, KO over 75 enemies by yourself!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_kirby_melee_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -475,7 +559,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_2"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -486,7 +572,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 2 Finish in less than 002700 on Wagon Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -497,7 +585,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_4"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -508,7 +598,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 4 Finish in less than 003300 on Turbo Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_4"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -519,7 +611,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -530,7 +624,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 1 Finish in less than 002400!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -541,7 +637,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_3"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -552,7 +650,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 3 Finish in less than 003500!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_3"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -563,7 +663,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_high_jump"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -574,7 +676,9 @@
                 "sections": [
                     {
                         "name": "HIGH JUMP Jump higher than 500 feet!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_high_jump"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -585,7 +689,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -596,7 +702,9 @@
                 "sections": [
                     {
                         "name": "TARGET FLIGHT In one game, get exactly 90 points!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_target_flight"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -607,7 +715,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -618,7 +728,9 @@
                 "sections": [
                     {
                         "name": "TARGET FLIGHT get more than 1,500 points!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_target_flight"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -629,7 +741,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_air_glider"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -640,7 +754,9 @@
                 "sections": [
                     {
                         "name": "AIR GLIDER stay airborne longer than 30 seconds!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_air_glider"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -651,7 +767,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_4"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -662,7 +780,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 4 In one game, KO your rivals 5 or more times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_4"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -673,7 +793,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_2"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -684,7 +806,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 2 Finish in less than 002900 on Winged Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -695,7 +819,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_4"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -706,7 +832,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 4 Finish in less than 002400 on Rex Wheelie!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_4"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -717,7 +845,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -728,7 +858,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 1 Finish in less than 002000!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -739,7 +871,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_3"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -750,7 +884,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 3 Finish in less than 002700!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_3"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -761,7 +897,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_high_jump"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -772,7 +910,9 @@
                 "sections": [
                     {
                         "name": "HIGH JUMP Jump higher than 1,000 feet!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_high_jump"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -783,7 +923,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_air_glider"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -794,7 +936,9 @@
                 "sections": [
                     {
                         "name": "AIR GLIDER fly more than 330 feet!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_air_glider"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -805,7 +949,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -816,7 +962,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 1 In one game, KO your rivals 5 or more times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -827,7 +975,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_5"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -838,7 +988,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 5 In one game, KO your rivals 5 or more times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_5"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -849,7 +1001,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_kirby_melee_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -860,7 +1014,9 @@
                 "sections": [
                     {
                         "name": "KIRBY MELEE 1 In one game, KO enemies over 50 times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_kirby_melee_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -871,7 +1027,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_vs_king_dedede"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -882,7 +1040,9 @@
                 "sections": [
                     {
                         "name": "VS. KING DEDEDE KO King Dedede in less than a minute!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_vs_king_dedede"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -893,7 +1053,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_2"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -904,7 +1066,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 2 In one game, KO a rival 10 times or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -915,7 +1079,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_5"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -926,7 +1092,9 @@
                 "sections": [
                     {
                         "name": "DESTRUCTION DERBY 5 In one game, KO a rival 10 times or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_5"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -937,7 +1105,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_kirby_melee_2"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -948,7 +1118,9 @@
                 "sections": [
                     {
                         "name": "KIRBY MELEE 2 In one game, KO over 40 enemies by yourself!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_kirby_melee_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -959,7 +1131,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_1"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -970,7 +1144,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 1 Finish in less than 002600 on Warpstar!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_1"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -981,7 +1157,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_3"
+                ],
                 "map_locations": [
                     {
                         "map": "City Trial Checklist",
@@ -992,7 +1170,9 @@
                 "sections": [
                     {
                         "name": "DRAG RACE 3 Finish in less than 002800 on Swerve Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_drag_race_3"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -1004,7 +1184,11 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "stadium_destruction_derby_1",
+                    "stadium_destruction_derby_2",
+                    "stadium_destruction_derby_3",
+                    "stadium_destruction_derby_4",
+                    "stadium_destruction_derby_5"
                 ],
                 "map_locations": [
                     {
@@ -1020,7 +1204,13 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_1",
+                            "stadium_destruction_derby_2",
+                            "stadium_destruction_derby_3",
+                            "stadium_destruction_derby_4",
+                            "stadium_destruction_derby_5"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1031,7 +1221,13 @@
                         "sections": [
                             {
                                 "name": "KO enemies over 50 times!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "stadium_destruction_derby_1",
+                                    "stadium_destruction_derby_2",
+                                    "stadium_destruction_derby_3",
+                                    "stadium_destruction_derby_4",
+                                    "stadium_destruction_derby_5"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1042,7 +1238,13 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_1",
+                            "stadium_destruction_derby_2",
+                            "stadium_destruction_derby_3",
+                            "stadium_destruction_derby_4",
+                            "stadium_destruction_derby_5"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1053,7 +1255,13 @@
                         "sections": [
                             {
                                 "name": "KO enemies over 150 times!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "stadium_destruction_derby_1",
+                                    "stadium_destruction_derby_2",
+                                    "stadium_destruction_derby_3",
+                                    "stadium_destruction_derby_4",
+                                    "stadium_destruction_derby_5"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1081,7 +1289,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "stadium_kirby_melee_1",
+                    "stadium_kirby_melee_2"
                 ],
                 "map_locations": [
                     {
@@ -1097,7 +1306,10 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_kirby_melee_1",
+                            "stadium_kirby_melee_2"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1108,7 +1320,10 @@
                         "sections": [
                             {
                                 "name": "KO over 500 enemies!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "stadium_kirby_melee_1",
+                                    "stadium_kirby_melee_2"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1119,7 +1334,10 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_kirby_melee_1",
+                            "stadium_kirby_melee_2"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1130,7 +1348,10 @@
                         "sections": [
                             {
                                 "name": "KO over 1,500 enemies!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "stadium_kirby_melee_1",
+                                    "stadium_kirby_melee_2"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1153,12 +1374,12 @@
                 ]
             },
             {
-                "name": "TARGET FLIGHT In one game, get a perfect score",
+                "name": "TARGET FLIGHT Get a perfect score (200 points)!",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "stadium_target_flight"
                 ],
                 "map_locations": [
                     {
@@ -1170,11 +1391,13 @@
                 ],
                 "children": [
                     {
-                        "name": "200 points!",
+                        "name": "TARGET FLIGHT Get a perfect score (200 points)!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_target_flight"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1184,8 +1407,10 @@
                         ],
                         "sections": [
                             {
-                                "name": "200 points!",
-                                "access_rules": [],
+                                "name": "TARGET FLIGHT Get a perfect score (200 points)!",
+                                "access_rules": [
+                                    "stadium_target_flight"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1194,7 +1419,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "200 points!",
+                        "name": "TARGET FLIGHT Get a perfect score (200 points)!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1213,271 +1438,361 @@
         "sections": [
             {
                 "name": "play in over 10 stadium modes!",
-                "access_rules": [],
+                "access_rules": [
+                    "$STADIUMS_AT_LEAST|10"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 2 Finish in less than 002400!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_2"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 4 Finish in less than 002400!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_4"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "HIGH JUMP Stay airborne longer than 10 seconds!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_high_jump"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "TARGET FLIGHT stay airborne longer than 15 seconds!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "AIR GLIDER fly more than 660 feet!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_air_glider"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 2 In one game, KO your rivals 5 or more times!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_2"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 1 bust all the rocks on the field!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "KIRBY MELEE 2 In one game, KO enemies over 30 times!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_kirby_melee_2"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 1 Finish in less than 001700 on Formula Star!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 3 Finish in less than 003100 on Wheelie Bike!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_3"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "play in over 20 stadium modes!",
-                "access_rules": [],
+                "access_rules": [
+                    "$STADIUMS_AT_LEAST|20"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 2 Finish in less than 002000!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_2"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 4 Finish in less than 001900!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_4"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "TARGET FLIGHT In one game, get over 150 points!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "TARGET FLIGHT play 15 times or more!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "AIR GLIDER fly more than 1,300 feet!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_air_glider"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_3"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 1 In one game, KO a rival 10 times or more!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_4"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "KIRBY MELEE 1 In one game, KO over 75 enemies by yourself!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_kirby_melee_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 2 Finish in less than 002700 on Wagon Star!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_2"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 4 Finish in less than 003300 on Turbo Star!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_4"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 1 Finish in less than 002400!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 3 Finish in less than 003500!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_3"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "HIGH JUMP Jump higher than 500 feet!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_high_jump"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "TARGET FLIGHT In one game, get exactly 90 points!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "TARGET FLIGHT get more than 1,500 points!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_target_flight"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "AIR GLIDER stay airborne longer than 30 seconds!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_air_glider"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 4 In one game, KO your rivals 5 or more times!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_4"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 2 Finish in less than 002900 on Winged Star!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_2"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 4 Finish in less than 002400 on Rex Wheelie!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_4"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 1 Finish in less than 002000!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 3 Finish in less than 002700!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_3"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "HIGH JUMP Jump higher than 1,000 feet!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_high_jump"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "AIR GLIDER fly more than 330 feet!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_air_glider"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 1 In one game, KO your rivals 5 or more times!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 5 In one game, KO your rivals 5 or more times!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_5"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "KIRBY MELEE 1 In one game, KO enemies over 50 times!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_kirby_melee_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "VS. KING DEDEDE KO King Dedede in less than a minute!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_vs_king_dedede"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 2 In one game, KO a rival 10 times or more!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_2"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DESTRUCTION DERBY 5 In one game, KO a rival 10 times or more!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_destruction_derby_5"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "KIRBY MELEE 2 In one game, KO over 40 enemies by yourself!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_kirby_melee_2"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 1 Finish in less than 002600 on Warpstar!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_1"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "DRAG RACE 3 Finish in less than 002800 on Swerve Star!",
-                "access_rules": [],
+                "access_rules": [
+                    "stadium_drag_race_3"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }
