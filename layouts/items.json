@@ -808,5 +808,102 @@
                 ]
             }
         ]
+    },
+    "air_ride_maps_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "map_air_ride_beanstalk_park",
+                        "map_air_ride_celestial_valley",
+                        "map_air_ride_checkered_knights"
+                    ],
+                    [
+                        "map_air_ride_fantasy_meadows",
+                        "map_air_ride_frozen_hillside",
+                        "map_air_ride_machine_passage"
+                    ],
+                    [
+                        "map_air_ride_magma_flows",
+                        "map_air_ride_nebula_belt",
+                        "map_air_ride_sky_sands"
+                    ]
+                ]
+            }
+        ]
+    },
+    "top_ride_maps_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "map_top_ride_fire",
+                        "map_top_ride_grass",
+                        "map_top_ride_light",
+                        "map_top_ride_metal"
+                    ],
+                    [
+                        "map_top_ride_sand",
+                        "map_top_ride_sky",
+                        "map_top_ride_water"
+                    ]
+                ]
+            }
+        ]
+    },
+    "copy_abilities_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 64,
+                "item_width": 64,
+                "rows": [
+                    [
+                        "ability_bomb",
+                        "ability_fire",
+                        "ability_freeze",
+                        "ability_mike"
+                    ],
+                    [
+                        "ability_needle",
+                        "ability_plasma",
+                        "ability_sleep",
+                        "ability_sword"
+                    ],
+                    [
+                        "ability_tornado",
+                        "ability_wheel",
+                        "ability_wing"
+                    ]
+                ]
+            }
+        ]
     }
 }
