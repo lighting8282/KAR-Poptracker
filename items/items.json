@@ -1580,5 +1580,26 @@
         "img_inactive": "images/items/machine_steer_star_inactive.png",
         "initial_active_state": false,
         "codes": "machine_steer_star"
+    },
+    {
+        "name": "kirby_brown",
+        "type": "toggle",
+        "img": "images/items/kirby_brown.png",
+        "initial_active_state": false,
+        "codes": "kirby_brown"
+    },
+    {
+        "name": "kirby_white",
+        "type": "toggle",
+        "img": "images/items/kirby_white.png",
+        "initial_active_state": false,
+        "codes": "kirby_white"
+    },
+    {
+        "name": "kirby_purple",
+        "type": "toggle",
+        "img": "images/items/kirby_purple.png",
+        "initial_active_state": false,
+        "codes": "kirby_purple"
     }
 ]
