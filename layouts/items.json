@@ -730,8 +730,12 @@
                         "machine_slick_star"
                     ],
                     [
+                        "machine_warp_star",
+                        "machine_wheelie_bike",
                         "machine_rex_wheelie",
-                        "machine_scooter_bike",
+                        "machine_scooter_bike"
+                    ],
+                    [
                         "machine_dragoon",
                         "machine_hydra"
                     ]
