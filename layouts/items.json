@@ -1041,6 +1041,47 @@
             }
         ]
     },
+    "ct_events_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                    [
+                        "event_dyna_blade",
+                        "event_tac",
+                        "event_huge_pillar",
+                        "event_meteor_impact"
+                    ],
+                    [
+                        "event_ufo",
+                        "event_lighthouse",
+                        "event_secret_chamber",
+                        "event_rails_on_fire"
+                    ],
+                    [
+                        "event_dense_fog",
+                        "event_restoration_area",
+                        "event_run_amok",
+                        "event_box_bounce"
+                    ],
+                    [
+                        "event_same_items",
+                        "event_fake_items",
+                        "event_air_ride_formation"
+                    ]
+                ]
+            }
+        ]
+    },
     "top_ride_machines_panel": {
         "type": "array",
         "orientation": "vertical",

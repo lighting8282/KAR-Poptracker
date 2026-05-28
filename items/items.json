@@ -1658,5 +1658,133 @@
         "img_inactive": "images/items/machine_wheelie_bike_inactive.png",
         "initial_active_state": false,
         "codes": "machine_wheelie_bike"
+    },
+    {
+        "name": "event_air_ride_formation",
+        "type": "toggle",
+        "img": "images/items/event_air_ride_formation_active.png",
+        "img_inactive": "images/items/event_air_ride_formation_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_air_ride_formation"
+    },
+    {
+        "name": "event_box_bounce",
+        "type": "toggle",
+        "img": "images/items/event_box_bounce_active.png",
+        "img_inactive": "images/items/event_box_bounce_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_box_bounce"
+    },
+    {
+        "name": "event_dense_fog",
+        "type": "toggle",
+        "img": "images/items/event_dense_fog_active.png",
+        "img_inactive": "images/items/event_dense_fog_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_dense_fog"
+    },
+    {
+        "name": "event_fake_items",
+        "type": "toggle",
+        "img": "images/items/event_fake_items_active.png",
+        "img_inactive": "images/items/event_fake_items_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_fake_items"
+    },
+    {
+        "name": "event_flying_meteor",
+        "type": "toggle",
+        "img": "images/items/event_flying_meteor_active.png",
+        "img_inactive": "images/items/event_flying_meteor_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_flying_meteor"
+    },
+    {
+        "name": "event_huge_pillar",
+        "type": "toggle",
+        "img": "images/items/event_huge_pillar_active.png",
+        "img_inactive": "images/items/event_huge_pillar_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_huge_pillar"
+    },
+    {
+        "name": "event_dyna_blade",
+        "type": "toggle",
+        "img": "images/items/event_dyna_blade_active.png",
+        "img_inactive": "images/items/event_dyna_blade_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_dyna_blade"
+    },
+    {
+        "name": "event_lighthouse",
+        "type": "toggle",
+        "img": "images/items/event_lighthouse_active.png",
+        "img_inactive": "images/items/event_lighthouse_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_lighthouse"
+    },
+    {
+        "name": "event_meteor_impact",
+        "type": "toggle",
+        "img": "images/items/event_meteor_impact_active.png",
+        "img_inactive": "images/items/event_meteor_impact_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_meteor_impact"
+    },
+    {
+        "name": "event_rails_on_fire",
+        "type": "toggle",
+        "img": "images/items/event_rails_on_fire_active.png",
+        "img_inactive": "images/items/event_rails_on_fire_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_rails_on_fire"
+    },
+    {
+        "name": "event_restoration_area",
+        "type": "toggle",
+        "img": "images/items/event_restoration_area_active.png",
+        "img_inactive": "images/items/event_restoration_area_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_restoration_area"
+    },
+    {
+        "name": "event_run_amok",
+        "type": "toggle",
+        "img": "images/items/event_run_amok_active.png",
+        "img_inactive": "images/items/event_run_amok_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_run_amok"
+    },
+    {
+        "name": "event_same_items",
+        "type": "toggle",
+        "img": "images/items/event_same_items_active.png",
+        "img_inactive": "images/items/event_same_items_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_same_items"
+    },
+    {
+        "name": "event_secret_chamber",
+        "type": "toggle",
+        "img": "images/items/event_secret_chamber_active.png",
+        "img_inactive": "images/items/event_secret_chamber_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_secret_chamber"
+    },
+    {
+        "name": "event_tac",
+        "type": "toggle",
+        "img": "images/items/event_tac_active.png",
+        "img_inactive": "images/items/event_tac_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_tac"
+    },
+    {
+        "name": "event_ufo",
+        "type": "toggle",
+        "img": "images/items/event_ufo_active.png",
+        "img_inactive": "images/items/event_ufo_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_ufo"
     }
 ]
