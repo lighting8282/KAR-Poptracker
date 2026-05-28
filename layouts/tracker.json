@@ -58,6 +58,17 @@
                                         "type": "layout",
                                         "key": "special_offense_panel"
                                     }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "City Trial Events",
+                                    "dock": "top",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "ct_events_panel"
+                                    }
                                 }
                             ]
                         },
@@ -291,6 +302,17 @@
                                     "content": {
                                         "type": "layout",
                                         "key": "special_offense_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "City Trial Events",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "ct_events_panel"
                                     }
                                 }
                             ]
