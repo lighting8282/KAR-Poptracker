@@ -121,17 +121,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "header": "Copy Abilities",
-                                    "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "copy_abilities_panel"
-                                    }
-                                },
-                                {
-                                    "type": "group",
                                     "header": "Character Unlock",
                                     "dock": "top",
                                     "h_alignment": "left",
@@ -152,6 +141,17 @@
                             "content": {
                                 "type": "layout",
                                 "key": "kirby_colors_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Copy Abilities",
+                            "dock": "top",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "copy_abilities_panel"
                             }
                         },
                         {
@@ -344,17 +344,6 @@
                                 },
                                 {
                                     "type": "group",
-                                    "header": "Copy Abilities",
-                                    "dock": "left",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "copy_abilities_panel"
-                                    }
-                                },
-                                {
-                                    "type": "group",
                                     "header": "Character Unlock",
                                     "dock": "left",
                                     "h_alignment": "left",
@@ -375,6 +364,17 @@
                             "content": {
                                 "type": "layout",
                                 "key": "kirby_colors_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Copy Abilities",
+                            "dock": "left",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "copy_abilities_panel"
                             }
                         },
                         {
