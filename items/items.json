@@ -1642,5 +1642,21 @@
         "img_inactive": "images/items/trap_link_inactive.png",
         "initial_active_state": false,
         "codes": "trap_link"
+    },
+    {
+        "name": "machine_warp_star",
+        "type": "toggle",
+        "img": "images/items/machine_warp_star_active.png",
+        "img_inactive": "images/items/machine_warp_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_warp_star"
+    },
+    {
+        "name": "machine_wheelie_bike",
+        "type": "toggle",
+        "img": "images/items/machine_wheelie_bike_active.png",
+        "img_inactive": "images/items/machine_wheelie_bike_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_wheelie_bike"
     }
 ]

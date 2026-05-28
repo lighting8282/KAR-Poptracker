@@ -121,13 +121,13 @@
                                 },
                                 {
                                     "type": "group",
-                                    "header": "Copy Abilities",
+                                    "header": "CT Vehicles",
                                     "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
-                                        "key": "copy_abilities_panel"
+                                        "key": "ct_vehicles_panel"
                                     }
                                 },
                                 {
@@ -152,6 +152,17 @@
                             "content": {
                                 "type": "layout",
                                 "key": "kirby_colors_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Copy Abilities",
+                            "dock": "top",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "copy_abilities_panel"
                             }
                         },
                         {
@@ -270,6 +281,17 @@
                                         "type": "layout",
                                         "key": "boxes_panel"
                                     }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Special Offense",
+                                    "dock": "left",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "special_offense_panel"
+                                    }
                                 }
                             ]
                         },
@@ -333,13 +355,13 @@
                                 },
                                 {
                                     "type": "group",
-                                    "header": "Copy Abilities",
+                                    "header": "CT Vehicles",
                                     "dock": "left",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
-                                        "key": "copy_abilities_panel"
+                                        "key": "ct_vehicles_panel"
                                     }
                                 },
                                 {
@@ -364,6 +386,17 @@
                             "content": {
                                 "type": "layout",
                                 "key": "kirby_colors_panel"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Copy Abilities",
+                            "dock": "left",
+                            "h_alignment": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "copy_abilities_panel"
                             }
                         },
                         {

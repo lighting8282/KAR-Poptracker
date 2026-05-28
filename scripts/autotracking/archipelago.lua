@@ -482,6 +482,7 @@ function applyProgressionSettings(slot_data)
             end
         end
     end
+
 end
 
 -- Hook into slot data received
