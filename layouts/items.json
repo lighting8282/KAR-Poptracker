@@ -1059,22 +1059,21 @@
                         "event_dyna_blade",
                         "event_tac",
                         "event_huge_pillar",
-                        "event_flying_meteor"
+                        "event_meteor_impact"
                     ],
                     [
-                        "event_meteor_impact",
                         "event_ufo",
                         "event_lighthouse",
-                        "event_secret_chamber"
+                        "event_secret_chamber",
+                        "event_rails_on_fire"
                     ],
                     [
-                        "event_rails_on_fire",
                         "event_dense_fog",
                         "event_restoration_area",
-                        "event_run_amok"
+                        "event_run_amok",
+                        "event_box_bounce"
                     ],
                     [
-                        "event_box_bounce",
                         "event_same_items",
                         "event_fake_items",
                         "event_air_ride_formation"
