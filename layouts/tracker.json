@@ -210,22 +210,22 @@
                                     "content": [
                                         {
                                             "type": "group",
-                                            "header": "Air Ride Maps",
-                                            "h_alignment": "left",
-                                            "margin": "0,0,3,0",
-                                            "content": {
-                                                "type": "layout",
-                                                "key": "air_ride_maps_panel"
-                                            }
-                                        },
-                                        {
-                                            "type": "group",
                                             "header": "Top Ride Maps",
                                             "h_alignment": "left",
                                             "margin": "0,0,3,0",
                                             "content": {
                                                 "type": "layout",
                                                 "key": "top_ride_maps_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "Air Ride Maps",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "air_ride_maps_panel"
                                             }
                                         }
                                     ]
@@ -470,22 +470,22 @@
                                     "content": [
                                         {
                                             "type": "group",
-                                            "header": "Air Ride Maps",
-                                            "h_alignment": "left",
-                                            "margin": "0,0,3,0",
-                                            "content": {
-                                                "type": "layout",
-                                                "key": "air_ride_maps_panel"
-                                            }
-                                        },
-                                        {
-                                            "type": "group",
                                             "header": "Top Ride Maps",
                                             "h_alignment": "left",
                                             "margin": "0,0,3,0",
                                             "content": {
                                                 "type": "layout",
                                                 "key": "top_ride_maps_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "Air Ride Maps",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "air_ride_maps_panel"
                                             }
                                         }
                                     ]
