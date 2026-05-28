@@ -1642,13 +1642,5 @@
         "img_inactive": "images/items/trap_link_inactive.png",
         "initial_active_state": false,
         "codes": "trap_link"
-    },
-    {
-        "name": "checklist_counter",
-        "type": "consumable",
-        "img": "images/items/checkbox_filler_city.png",
-        "max_quantity": 0,
-        "initial_quantity": 0,
-        "codes": "checklist_counter"
     }
 ]

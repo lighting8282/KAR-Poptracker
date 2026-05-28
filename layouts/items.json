@@ -1040,27 +1040,5 @@
                 ]
             }
         ]
-    },
-    "ct_checklist_panel": {
-        "type": "array",
-        "orientation": "vertical",
-        "h_alignment": "center",
-        "margin": "4,4",
-        "content": [
-            {
-                "type": "itemgrid",
-                "item_margin": "4, 4",
-                "h_alignment": "center",
-                "item_h_alignment": "center",
-                "item_v_alignment": "center",
-                "item_height": 48,
-                "item_width": 48,
-                "rows": [
-                    [
-                        "checklist_counter"
-                    ]
-                ]
-            }
-        ]
     }
 }
