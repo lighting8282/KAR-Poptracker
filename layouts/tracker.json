@@ -144,37 +144,48 @@
                             ]
                         },
                         {
-                            "type": "group",
-                            "header": "Kirby Colors",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "top",
-                            "h_alignment": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "kirby_colors_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Copy Abilities",
-                            "dock": "top",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "copy_abilities_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "City Trial Events",
-                            "dock": "top",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "ct_events_panel"
-                            }
+                            "content": [
+                                {
+                                    "type": "array",
+                                    "orientation": "horizontal",
+                                    "content": [
+                                        {
+                                            "type": "group",
+                                            "header": "Kirby Colors",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "kirby_colors_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "Copy Abilities",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "copy_abilities_panel"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "City Trial Events",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "ct_events_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -389,37 +400,48 @@
                             ]
                         },
                         {
-                            "type": "group",
-                            "header": "Kirby Colors",
+                            "type": "array",
+                            "orientation": "vertical",
                             "dock": "left",
-                            "h_alignment": "left",
                             "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "kirby_colors_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Copy Abilities",
-                            "dock": "left",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "copy_abilities_panel"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "City Trial Events",
-                            "dock": "left",
-                            "h_alignment": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "key": "ct_events_panel"
-                            }
+                            "content": [
+                                {
+                                    "type": "array",
+                                    "orientation": "horizontal",
+                                    "content": [
+                                        {
+                                            "type": "group",
+                                            "header": "Kirby Colors",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "kirby_colors_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "Copy Abilities",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "copy_abilities_panel"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "City Trial Events",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "ct_events_panel"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
