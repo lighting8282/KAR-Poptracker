@@ -85,7 +85,7 @@ Each tab has two map layers: switch with the arrow controls or by clicking the l
 ## Credits
 
 - **PopTracker** by [black-sliver](https://github.com/black-sliver/PopTracker)
-- **Kirby Air Ride Archipelago** by the AP community
+- **Kirby Air Ride Archipelago** by https://github.com/DeDeDeK/KARchipelago/blob/main/worlds/kirby_air_ride/docs/setup_en.md#items-file the AP community.
 - Sprite art ripped from Kirby Air Ride (Nintendo / HAL Laboratory, 2003) — used for
   non-commercial fan tracking purposes
 
