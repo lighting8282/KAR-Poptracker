@@ -14,9 +14,6 @@ all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks.
 - **All 360 checks tracked**: 120 Air Ride, 120 Top Ride, 120 City Trial (incl. Stadium checks)
 - **Dual map views per mode** — clickable course/category map dots *and* the in-game 12×10 checklist grid
 - **Autotracking** of received items: permanent stat patches, stadium unlocks, HP, etc.
-- **Progression filters** auto-applied from your YAML's slot data — checks turn gray if you
-  excluded their category (Time Attack, Free Run, High Effort, Multiplayer, RNG, etc.)
-- **Stadium icons** showing the title-card art for each stadium unlock
 - **In-game style item icons** with colored labels matching the original sprite art
 
 ## Installation
@@ -32,13 +29,13 @@ all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks.
 1. Start your Archipelago server and game as normal
 2. In PopTracker, click the **AP** button → connect with your host, slot, and password
 3. Items and locations will populate automatically
-4. Progression categories (TA/FR/etc.) auto-toggle based on your YAML options
+4. Certain options like Deathlink, Trap link, energy link, etc will automatically turn on based on YAML options.
 
 ## Requirements
 
 - **PopTracker** 0.25+ (tested on 0.33.0)
 - **Kirby Air Ride** GameCube ROM (NTSC version) (Legal ROM needed)
-- The [Kirby Air Ride Archipelago world](https://github.com/Decompacted/kirby-air-ride-archipelago) installed in your AP setup
+- The [Kirby Air Ride Archipelago world][https://github.com/DeDeDeK/KARchipelago/releases/tag/v0.6.0] installed in your AP setup
 - Dolphin emulator + the AP Dolphin client (for autotracking)
 
 ## Layout
@@ -48,6 +45,19 @@ The tracker is divided into:
 **Bottom bar**
 - **Items** — permanent stat patches with active/inactive states
 - **Stadiums** (×2) — stadium unlock icons grouped by category
+- **Boxes** — stadium unlock icons grouped by category
+- **Special Offense** - Unique and special offense items
+- **Machines** - Generic machiens
+- **CT Vehicles** - Vehciles only available in CT (City Trial)
+- **Characater Unlock** - Unique characteres you can unlock
+- **Kirby Colors8** - Kirb colors you can unlock
+- **Copy Abilities** - Copy abilities
+- **City Trial Events** - Events that happen randomly in CT mode (City Trial)
+- **Utility** - List settings such as deathlink, traplink, energylink and so on
+- **Top Ride Items Only** - Items only found in top ride mode
+- **Top Ride Maps** - Maps just in TR mode. (Top Ride)
+- **Top Ride Machines** - Machines only in TR. (Top Ride)
+- **Air Ride Maps** - Maps just in AR mode. (Air Ride)
 
 **Map area** (three tabs)
 - **Air Ride** — course select map + checklist grid layer
