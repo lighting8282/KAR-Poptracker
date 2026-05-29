@@ -1,5 +1,7 @@
 # Kirby Air Ride – PopTracker Pack
 
+** SIDENOTE:** Most of these icons are for the upcoming release which is slated for July of 2026! 
+
 A [PopTracker](https://github.com/black-sliver/PopTracker) pack for
 **Kirby Air Ride (GameCube, NTSC)** with full [Archipelago](https://archipelago.gg) autotracking
 support.
