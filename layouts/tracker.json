@@ -1,4 +1,28 @@
 {
+    "Map Tracker": {
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+            "type": "layout",
+            "key": "tracker_default"
+        }
+    },
+    "Items Only": {
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+            "type": "layout",
+            "key": "tracker_default"
+        }
+    },
+    "Compact": {
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+            "type": "layout",
+            "key": "tracker_compact"
+        }
+    },
     "tracker_default": {
         "type": "container",
         "background": "#00000000",
