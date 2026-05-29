@@ -23,6 +23,32 @@ poptracker-pack-builder/
 Thumbs.db
 desktop.ini
 
-# Python cache (only the cache, keep .py source files)
+# Python dev scripts (not needed to run the tracker)
+*.py
 __pycache__/
 *.pyc
+
+# Other game/dev files
+*.ini
+*.bnr
+opening.bnr
+datapackage_url.json
+
+# Audio files
+audio/
+
+# Source/reference images (not needed for tracker)
+images/Stadiums/
+images/Events/
+
+# Old/backup icon versions
+images/items/*(old)*
+
+# Dev preview/test screenshots at root
+bottom_section_preview.png
+drag_race_1_preview.png
+test*/
+GameCube*.png
+GameCube*.PNG
+test*.PNG
+test*.png
