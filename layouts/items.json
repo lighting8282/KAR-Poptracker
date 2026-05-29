@@ -1155,7 +1155,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1191,7 +1191,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1214,7 +1214,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1234,15 +1234,14 @@
     "stadium_grid_1_compact": {
         "type": "array",
         "orientation": "vertical",
-        "margin": "2, 2",
+        "margin": "2,2",
         "content": [
             {
                 "type": "group",
                 "header": "Drag Race",
-                "min_width": 188,
                 "content": {
                     "type": "itemgrid",
-                    "item_margin": "1, 1",
+                    "item_margin": "2, 2",
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
@@ -1261,10 +1260,9 @@
             {
                 "type": "group",
                 "header": "Destruction Derby",
-                "min_width": 188,
                 "content": {
                     "type": "itemgrid",
-                    "item_margin": "1, 1",
+                    "item_margin": "2, 2",
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
@@ -1286,15 +1284,14 @@
     "stadium_grid_2_compact": {
         "type": "array",
         "orientation": "vertical",
-        "margin": "2, 2",
+        "margin": "2,2",
         "content": [
             {
                 "type": "group",
                 "header": "Kirby Melee",
-                "min_width": 188,
                 "content": {
                     "type": "itemgrid",
-                    "item_margin": "1, 1",
+                    "item_margin": "2, 2",
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
@@ -1311,10 +1308,9 @@
             {
                 "type": "group",
                 "header": "Single Race",
-                "min_width": 188,
                 "content": {
                     "type": "itemgrid",
-                    "item_margin": "1, 1",
+                    "item_margin": "2, 2",
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
@@ -1340,10 +1336,9 @@
             {
                 "type": "group",
                 "header": "Other",
-                "min_width": 188,
                 "content": {
                     "type": "itemgrid",
-                    "item_margin": "1, 1",
+                    "item_margin": "2, 2",
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
@@ -1368,7 +1363,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1408,7 +1403,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1432,7 +1427,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1449,18 +1444,17 @@
     },
     "utility_panel_compact": {
         "type": "array",
-        "orientation": "vertical",
+        "orientation": "horizontal",
         "h_alignment": "center",
-        "margin": "4, 8",
+        "margin": "4,4",
         "content": [
             {
                 "type": "group",
-                "header": "Death Link",
+                "header": "Death",
                 "h_alignment": "center",
-                "margin": "0,0,3,8",
                 "content": {
                     "type": "itemgrid",
-                    "item_margin": "1, 1",
+                    "item_margin": "2, 2",
                     "h_alignment": "center",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
@@ -1475,12 +1469,11 @@
             },
             {
                 "type": "group",
-                "header": "Energy Link",
+                "header": "Energy",
                 "h_alignment": "center",
-                "margin": "0,0,3,0",
                 "content": {
                     "type": "itemgrid",
-                    "item_margin": "1, 1",
+                    "item_margin": "2, 2",
                     "h_alignment": "center",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
@@ -1495,12 +1488,11 @@
             },
             {
                 "type": "group",
-                "header": "Trap Link",
+                "header": "Trap",
                 "h_alignment": "center",
-                "margin": "0,0,3,0",
                 "content": {
                     "type": "itemgrid",
-                    "item_margin": "1, 1",
+                    "item_margin": "2, 2",
                     "h_alignment": "center",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
@@ -1522,7 +1514,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1555,7 +1547,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1590,7 +1582,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1631,7 +1623,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1676,7 +1668,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1705,7 +1697,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1738,7 +1730,7 @@
         "content": [
             {
                 "type": "itemgrid",
-                "item_margin": "1, 1",
+                "item_margin": "2, 2",
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
@@ -1748,6 +1740,38 @@
                     [
                         "machine_free_star",
                         "machine_steer_star"
+                    ]
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "boost_up_perm",
+                        "charge_up_perm",
+                        "defense_up_perm",
+                        "glide_up_perm",
+                        "hp_up_perm"
+                    ],
+                    [
+                        "offense_up_perm",
+                        "top_speed_up_perm",
+                        "turn_up_perm",
+                        "weight_up_perm",
+                        "patch_cap_increase"
                     ]
                 ]
             }
