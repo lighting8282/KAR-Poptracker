@@ -660,7 +660,11 @@
                     "item_v_alignment": "center",
                     "item_height": 48,
                     "item_width": 48,
-                    "rows": [["death_link"]]
+                    "rows": [
+                        [
+                            "death_link"
+                        ]
+                    ]
                 }
             },
             {
@@ -676,7 +680,11 @@
                     "item_v_alignment": "center",
                     "item_height": 48,
                     "item_width": 48,
-                    "rows": [["energy_link"]]
+                    "rows": [
+                        [
+                            "energy_link"
+                        ]
+                    ]
                 }
             },
             {
@@ -692,7 +700,11 @@
                     "item_v_alignment": "center",
                     "item_height": 48,
                     "item_width": 48,
-                    "rows": [["trap_link"]]
+                    "rows": [
+                        [
+                            "trap_link"
+                        ]
+                    ]
                 }
             }
         ]
@@ -1095,6 +1107,643 @@
                 "item_v_alignment": "center",
                 "item_height": 36,
                 "item_width": 36,
+                "rows": [
+                    [
+                        "machine_free_star",
+                        "machine_steer_star"
+                    ]
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "boost_up_perm",
+                        "charge_up_perm",
+                        "defense_up_perm",
+                        "glide_up_perm",
+                        "hp_up_perm"
+                    ],
+                    [
+                        "offense_up_perm",
+                        "top_speed_up_perm",
+                        "turn_up_perm",
+                        "weight_up_perm",
+                        "patch_cap_increase"
+                    ]
+                ]
+            }
+        ]
+    },
+    "food_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "food_omelet",
+                        "food_roast_chicken",
+                        "food_ice_cream_cone",
+                        "food_ramen"
+                    ],
+                    [
+                        "food_hamburger",
+                        "food_maxim_tomato",
+                        "food_rice_ball",
+                        "food_apple"
+                    ],
+                    [
+                        "food_curry",
+                        "food_energy_drink",
+                        "food_sushi",
+                        "food_hotdog"
+                    ]
+                ]
+            }
+        ]
+    },
+    "boxes_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "box_red",
+                        "box_blue",
+                        "box_green"
+                    ]
+                ]
+            }
+        ]
+    },
+    "special_offense_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "special_offense_panic_spin",
+                        "special_offense_sensor_bomb",
+                        "special_offense_fireworks",
+                        "special_offense_gold_spike"
+                    ]
+                ]
+            }
+        ]
+    },
+    "stadium_grid_1_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "2, 2",
+        "content": [
+            {
+                "type": "group",
+                "header": "Drag Race",
+                "min_width": 188,
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1, 1",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 32,
+                    "item_width": 32,
+                    "rows": [
+                        [
+                            "stadium_drag_race_1",
+                            "stadium_drag_race_2",
+                            "stadium_drag_race_3",
+                            "stadium_drag_race_4"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Destruction Derby",
+                "min_width": 188,
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1, 1",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 32,
+                    "item_width": 32,
+                    "rows": [
+                        [
+                            "stadium_destruction_derby_1",
+                            "stadium_destruction_derby_2",
+                            "stadium_destruction_derby_3",
+                            "stadium_destruction_derby_4",
+                            "stadium_destruction_derby_5"
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "stadium_grid_2_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "2, 2",
+        "content": [
+            {
+                "type": "group",
+                "header": "Kirby Melee",
+                "min_width": 188,
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1, 1",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 32,
+                    "item_width": 32,
+                    "rows": [
+                        [
+                            "stadium_kirby_melee_1",
+                            "stadium_kirby_melee_2"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Single Race",
+                "min_width": 188,
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1, 1",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 32,
+                    "item_width": 32,
+                    "rows": [
+                        [
+                            "stadium_single_race_1",
+                            "stadium_single_race_2",
+                            "stadium_single_race_3",
+                            "stadium_single_race_4",
+                            "stadium_single_race_5"
+                        ],
+                        [
+                            "stadium_single_race_6",
+                            "stadium_single_race_7",
+                            "stadium_single_race_8",
+                            "stadium_single_race_9"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Other",
+                "min_width": 188,
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1, 1",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 32,
+                    "item_width": 32,
+                    "rows": [
+                        [
+                            "stadium_high_jump",
+                            "stadium_target_flight",
+                            "stadium_air_glider",
+                            "stadium_vs_king_dedede"
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "machines_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "machine_formula_star",
+                        "machine_rocket_star",
+                        "machine_swerve_star",
+                        "machine_winged_star"
+                    ],
+                    [
+                        "machine_bulk_star",
+                        "machine_turbo_star",
+                        "machine_jet_star",
+                        "machine_shadow_star"
+                    ],
+                    [
+                        "machine_wagon_star",
+                        "machine_slick_star",
+                        "machine_warp_star",
+                        "machine_wheelie_bike"
+                    ],
+                    [
+                        "machine_rex_wheelie",
+                        "machine_scooter_bike"
+                    ]
+                ]
+            }
+        ]
+    },
+    "ct_vehicles_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "machine_compact_star",
+                        "machine_flight_warp_star",
+                        "machine_dragoon",
+                        "machine_hydra"
+                    ]
+                ]
+            }
+        ]
+    },
+    "character_unlock_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "character_unlock_king_dedede",
+                        "character_unlock_meta_knight"
+                    ]
+                ]
+            }
+        ]
+    },
+    "utility_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "h_alignment": "center",
+        "margin": "4, 8",
+        "content": [
+            {
+                "type": "group",
+                "header": "Death Link",
+                "h_alignment": "center",
+                "margin": "0,0,3,8",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1, 1",
+                    "h_alignment": "center",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 32,
+                    "item_width": 32,
+                    "rows": [
+                        [
+                            "death_link"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Energy Link",
+                "h_alignment": "center",
+                "margin": "0,0,3,0",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1, 1",
+                    "h_alignment": "center",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 32,
+                    "item_width": 32,
+                    "rows": [
+                        [
+                            "energy_link"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Trap Link",
+                "h_alignment": "center",
+                "margin": "0,0,3,0",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1, 1",
+                    "h_alignment": "center",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 32,
+                    "item_width": 32,
+                    "rows": [
+                        [
+                            "trap_link"
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "kirby_colors_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "kirby_pink",
+                        "kirby_yellow",
+                        "kirby_blue"
+                    ],
+                    [
+                        "kirby_red",
+                        "kirby_gray",
+                        "kirby_green"
+                    ],
+                    [
+                        "kirby_brown",
+                        "kirby_white",
+                        "kirby_purple"
+                    ]
+                ]
+            }
+        ]
+    },
+    "copy_abilities_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "ability_bomb",
+                        "ability_fire",
+                        "ability_freeze",
+                        "ability_mike"
+                    ],
+                    [
+                        "ability_needle",
+                        "ability_plasma",
+                        "ability_sleep",
+                        "ability_sword"
+                    ],
+                    [
+                        "ability_tornado",
+                        "ability_wheel",
+                        "ability_wing"
+                    ]
+                ]
+            }
+        ]
+    },
+    "ct_events_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "event_dyna_blade",
+                        "event_tac",
+                        "event_huge_pillar",
+                        "event_meteor_impact"
+                    ],
+                    [
+                        "event_ufo",
+                        "event_lighthouse",
+                        "event_secret_chamber",
+                        "event_rails_on_fire"
+                    ],
+                    [
+                        "event_dense_fog",
+                        "event_restoration_area",
+                        "event_run_amok",
+                        "event_box_bounce"
+                    ],
+                    [
+                        "event_same_items",
+                        "event_fake_items",
+                        "event_air_ride_formation"
+                    ]
+                ]
+            }
+        ]
+    },
+    "top_ride_items_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "top_ride_item_big_cake",
+                        "top_ride_item_bomb",
+                        "top_ride_item_buzz_saw",
+                        "top_ride_item_charge_up",
+                        "top_ride_item_chickie"
+                    ],
+                    [
+                        "top_ride_item_drill",
+                        "top_ride_item_fire",
+                        "top_ride_item_freeze_fan",
+                        "top_ride_item_hammer",
+                        "top_ride_item_krako"
+                    ],
+                    [
+                        "top_ride_item_lantern",
+                        "top_ride_item_mike",
+                        "top_ride_item_missile",
+                        "top_ride_item_party_ball",
+                        "top_ride_item_party_bomb"
+                    ],
+                    [
+                        "top_ride_item_smokescreen",
+                        "top_ride_item_speed_up",
+                        "top_ride_item_speed_down",
+                        "top_ride_item_spinner"
+                    ]
+                ]
+            }
+        ]
+    },
+    "top_ride_maps_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "map_top_ride_fire",
+                        "map_top_ride_grass",
+                        "map_top_ride_light",
+                        "map_top_ride_metal"
+                    ],
+                    [
+                        "map_top_ride_sand",
+                        "map_top_ride_sky",
+                        "map_top_ride_water"
+                    ]
+                ]
+            }
+        ]
+    },
+    "air_ride_maps_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "map_air_ride_beanstalk_park",
+                        "map_air_ride_celestial_valley",
+                        "map_air_ride_checkered_knights"
+                    ],
+                    [
+                        "map_air_ride_fantasy_meadows",
+                        "map_air_ride_frozen_hillside",
+                        "map_air_ride_machine_passage"
+                    ],
+                    [
+                        "map_air_ride_magma_flows",
+                        "map_air_ride_nebula_belt",
+                        "map_air_ride_sky_sands"
+                    ]
+                ]
+            }
+        ]
+    },
+    "top_ride_machines_panel_compact": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "1, 1",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "machine_free_star",
