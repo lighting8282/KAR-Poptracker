@@ -28,10 +28,6 @@ all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks.
 
 ## Usage
 
-### Standalone (manual tracking)
-1. Load the pack in PopTracker
-2. Click checks as you complete them in-game
-
 ### With Archipelago autotracking
 1. Start your Archipelago server and game as normal
 2. In PopTracker, click the **AP** button → connect with your host, slot, and password
@@ -41,7 +37,7 @@ all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks.
 ## Requirements
 
 - **PopTracker** 0.25+ (tested on 0.33.0)
-- **Kirby Air Ride** GameCube ROM (NTSC version)
+- **Kirby Air Ride** GameCube ROM (NTSC version) (Legal ROM needed)
 - The [Kirby Air Ride Archipelago world](https://github.com/Decompacted/kirby-air-ride-archipelago) installed in your AP setup
 - Dolphin emulator + the AP Dolphin client (for autotracking)
 
