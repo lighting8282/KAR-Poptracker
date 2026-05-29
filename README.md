@@ -66,6 +66,13 @@ The tracker is divided into:
 
 Each tab has two map layers: switch with the arrow controls or by clicking the layer icon.
 
+**City Trial Screenshot:**
+<img width="2550" height="1404" alt="city trial  with everything highlighted  Complete" src="https://github.com/user-attachments/assets/11009084-3b78-4880-ad4b-2ecef3905323" />
+
+**Air Ride Screenshot:**
+<img width="2561" height="1399" alt="air ride with everything highlighted  Complete" src="https://github.com/user-attachments/assets/8e234292-4b58-4668-88d5-9324feb5fd8e" />
+
+
 ## Notes
 
 - The 12×10 checklist grid positions are derived from in-game memory offsets.
