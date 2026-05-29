@@ -7,18 +7,21 @@
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",
+            "tracker": "Map Tracker",
             "flags": [
                 "ap"
             ]
         },
         "Items Only": {
             "display_name": "Items Only",
+            "tracker": "Items Only",
             "flags": [
                 "ap"
             ]
         },
         "Compact": {
             "display_name": "Compact (Small Screen)",
+            "tracker": "Compact",
             "flags": [
                 "ap"
             ]
