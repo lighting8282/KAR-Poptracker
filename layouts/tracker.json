@@ -20,68 +20,73 @@
                                 {
                                     "type": "group",
                                     "header": "Patches",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "shared_item_grid_vertical"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
-                                    "type": "group",
-                                    "header": "Food",
+                                    "type": "array",
+                                    "orientation": "horizontal",
                                     "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "food_panel"
-                                    }
-                                },
-                                {
-                                    "type": "group",
-                                    "header": "Boxes",
-                                    "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "boxes_panel"
-                                    }
+                                    "content": [
+                                        {
+                                            "type": "group",
+                                            "header": "Food",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "food_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "Boxes",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "boxes_panel"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "group",
                                     "header": "Special Offense",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "special_offense_panel"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
                                     "type": "group",
                                     "header": "Stadiums",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "stadium_grid_1"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
                                     "type": "group",
                                     "header": "Stadiums 2",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "stadium_grid_2"
-                                    }
+                                    },
+                                    "dock": "top"
                                 }
                             ]
                         },
@@ -92,37 +97,31 @@
                             "margin": "0,0,3,0",
                             "content": [
                                 {
-                                    "type": "group",
-                                    "header": "Machines",
+                                    "type": "array",
+                                    "orientation": "horizontal",
                                     "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "machines_panel"
-                                    }
-                                },
-                                {
-                                    "type": "group",
-                                    "header": "CT Vehicles",
-                                    "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "ct_vehicles_panel"
-                                    }
-                                },
-                                {
-                                    "type": "group",
-                                    "header": "Character Unlock",
-                                    "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "character_unlock_panel"
-                                    }
+                                    "content": [
+                                        {
+                                            "type": "group",
+                                            "header": "Machines",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "machines_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "CT Vehicles",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "ct_vehicles_panel"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "array",
@@ -154,35 +153,51 @@
                                 {
                                     "type": "group",
                                     "header": "City Trial Events",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "ct_events_panel"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
-                                    "type": "group",
-                                    "header": "Utility",
+                                    "type": "array",
+                                    "orientation": "horizontal",
                                     "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "utility_panel"
-                                    }
+                                    "content": [
+                                        {
+                                            "type": "group",
+                                            "header": "Character Unlock",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "character_unlock_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "Utility",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "utility_panel"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "group",
                                     "header": "Top Ride items only!",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "top_ride_items_panel"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
                                     "type": "array",
@@ -214,13 +229,13 @@
                                 {
                                     "type": "group",
                                     "header": "Top Ride machines",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "top_ride_machines_panel"
-                                    }
+                                    },
+                                    "dock": "top"
                                 }
                             ]
                         }
@@ -511,68 +526,73 @@
                                 {
                                     "type": "group",
                                     "header": "Patches",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "shared_item_grid_vertical"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
-                                    "type": "group",
-                                    "header": "Food",
+                                    "type": "array",
+                                    "orientation": "horizontal",
                                     "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "food_panel"
-                                    }
-                                },
-                                {
-                                    "type": "group",
-                                    "header": "Boxes",
-                                    "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "boxes_panel"
-                                    }
+                                    "content": [
+                                        {
+                                            "type": "group",
+                                            "header": "Food",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "food_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "Boxes",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "boxes_panel"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "group",
                                     "header": "Special Offense",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "special_offense_panel"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
                                     "type": "group",
                                     "header": "Stadiums",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "stadium_grid_1"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
                                     "type": "group",
                                     "header": "Stadiums 2",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "stadium_grid_2"
-                                    }
+                                    },
+                                    "dock": "top"
                                 }
                             ]
                         },
@@ -583,37 +603,31 @@
                             "margin": "0,0,3,0",
                             "content": [
                                 {
-                                    "type": "group",
-                                    "header": "Machines",
+                                    "type": "array",
+                                    "orientation": "horizontal",
                                     "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "machines_panel"
-                                    }
-                                },
-                                {
-                                    "type": "group",
-                                    "header": "CT Vehicles",
-                                    "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "ct_vehicles_panel"
-                                    }
-                                },
-                                {
-                                    "type": "group",
-                                    "header": "Character Unlock",
-                                    "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "character_unlock_panel"
-                                    }
+                                    "content": [
+                                        {
+                                            "type": "group",
+                                            "header": "Machines",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "machines_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "CT Vehicles",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "ct_vehicles_panel"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "array",
@@ -645,35 +659,51 @@
                                 {
                                     "type": "group",
                                     "header": "City Trial Events",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "ct_events_panel"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
-                                    "type": "group",
-                                    "header": "Utility",
+                                    "type": "array",
+                                    "orientation": "horizontal",
                                     "dock": "top",
-                                    "h_alignment": "left",
-                                    "margin": "0,0,3,0",
-                                    "content": {
-                                        "type": "layout",
-                                        "key": "utility_panel"
-                                    }
+                                    "content": [
+                                        {
+                                            "type": "group",
+                                            "header": "Character Unlock",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "character_unlock_panel"
+                                            }
+                                        },
+                                        {
+                                            "type": "group",
+                                            "header": "Utility",
+                                            "h_alignment": "left",
+                                            "margin": "0,0,3,0",
+                                            "content": {
+                                                "type": "layout",
+                                                "key": "utility_panel"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "group",
                                     "header": "Top Ride items only!",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "top_ride_items_panel"
-                                    }
+                                    },
+                                    "dock": "top"
                                 },
                                 {
                                     "type": "array",
@@ -705,13 +735,13 @@
                                 {
                                     "type": "group",
                                     "header": "Top Ride machines",
-                                    "dock": "top",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
                                     "content": {
                                         "type": "layout",
                                         "key": "top_ride_machines_panel"
-                                    }
+                                    },
+                                    "dock": "top"
                                 }
                             ]
                         }
