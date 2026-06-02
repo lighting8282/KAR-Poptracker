@@ -50,22 +50,27 @@
                             }
                         },
                         {
-                            "type": "group",
-                            "header": "Stadiums",
+                            "type": "array",
+                            "orientation": "horizontal",
                             "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_1"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Stadiums 2",
-                            "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_2"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_1"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums 2",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_2"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -225,22 +230,27 @@
                             }
                         },
                         {
-                            "type": "group",
-                            "header": "Stadiums",
+                            "type": "array",
+                            "orientation": "horizontal",
                             "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_1"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Stadiums 2",
-                            "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_2"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_1"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums 2",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_2"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
@@ -392,22 +402,27 @@
                             }
                         },
                         {
-                            "type": "group",
-                            "header": "Stadiums",
+                            "type": "array",
+                            "orientation": "horizontal",
                             "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_1"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Stadiums 2",
-                            "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "stadium_grid_2"
-                            }
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_1"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Stadiums 2",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "stadium_grid_2"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "type": "group",
