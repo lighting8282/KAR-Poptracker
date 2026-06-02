@@ -7,15 +7,6 @@
             "dropshadow": true,
             "content": [
                 {
-                    "type": "dock",
-                    "content": [
-                        {
-                            "type": "layout",
-                            "key": "tabbed_maps_vertical"
-                        }
-                    ]
-                },
-                {
                     "type": "array",
                     "orientation": "horizontal",
                     "dock": "bottom",
@@ -243,6 +234,15 @@
                                     }
                                 }
                             ]
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "tabbed_maps_vertical"
                         }
                     ]
                 }
@@ -265,15 +265,6 @@
             "dropshadow": true,
             "content": [
                 {
-                    "type": "dock",
-                    "content": [
-                        {
-                            "type": "layout",
-                            "key": "tabbed_maps_vertical"
-                        }
-                    ]
-                },
-                {
                     "type": "array",
                     "orientation": "horizontal",
                     "dock": "bottom",
@@ -501,6 +492,15 @@
                                     }
                                 }
                             ]
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "tabbed_maps_vertical"
                         }
                     ]
                 }
@@ -515,15 +515,6 @@
             "dropshadow": true,
             "content": [
                 {
-                    "type": "dock",
-                    "content": [
-                        {
-                            "type": "layout",
-                            "key": "tabbed_maps_vertical"
-                        }
-                    ]
-                },
-                {
                     "type": "array",
                     "orientation": "horizontal",
                     "dock": "bottom",
@@ -751,6 +742,15 @@
                                     }
                                 }
                             ]
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "tabbed_maps_vertical"
                         }
                     ]
                 }
