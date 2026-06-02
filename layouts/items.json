@@ -1706,5 +1706,137 @@
                 ]
             }
         ]
+    },
+    "stadium_grids_combined": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "2, 2",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Drag Race",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "2, 2",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 16,
+                            "item_width": 16,
+                            "rows": [
+                                [
+                                    "stadium_drag_race_1",
+                                    "stadium_drag_race_2",
+                                    "stadium_drag_race_3",
+                                    "stadium_drag_race_4"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Destruction Derby",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "2, 2",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 16,
+                            "item_width": 16,
+                            "rows": [
+                                [
+                                    "stadium_destruction_derby_1",
+                                    "stadium_destruction_derby_2",
+                                    "stadium_destruction_derby_3",
+                                    "stadium_destruction_derby_4",
+                                    "stadium_destruction_derby_5"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "2, 2",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Kirby Melee",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "2, 2",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 16,
+                            "item_width": 16,
+                            "rows": [
+                                [
+                                    "stadium_kirby_melee_1",
+                                    "stadium_kirby_melee_2"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Single Race",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "2, 2",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 16,
+                            "item_width": 16,
+                            "rows": [
+                                [
+                                    "stadium_single_race_1",
+                                    "stadium_single_race_2",
+                                    "stadium_single_race_3",
+                                    "stadium_single_race_4",
+                                    "stadium_single_race_5"
+                                ],
+                                [
+                                    "stadium_single_race_6",
+                                    "stadium_single_race_7",
+                                    "stadium_single_race_8",
+                                    "stadium_single_race_9"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Other",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "2, 2",
+                            "h_alignment": "left",
+                            "item_h_alignment": "center",
+                            "item_v_alignment": "center",
+                            "item_height": 16,
+                            "item_width": 16,
+                            "rows": [
+                                [
+                                    "stadium_high_jump",
+                                    "stadium_target_flight",
+                                    "stadium_air_glider",
+                                    "stadium_vs_king_dedede"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
     }
 }

@@ -54,18 +54,8 @@
                             "header": "Stadiums",
                             "dock": "left",
                             "content": {
-                                "type": "array",
-                                "orientation": "horizontal",
-                                "content": [
-                                    {
-                                        "type": "layout",
-                                        "key": "stadium_grid_1"
-                                    },
-                                    {
-                                        "type": "layout",
-                                        "key": "stadium_grid_2"
-                                    }
-                                ]
+                                "type": "layout",
+                                "key": "stadium_grids_combined"
                             }
                         },
                         {
@@ -230,18 +220,8 @@
                             "header": "Stadiums",
                             "dock": "left",
                             "content": {
-                                "type": "array",
-                                "orientation": "horizontal",
-                                "content": [
-                                    {
-                                        "type": "layout",
-                                        "key": "stadium_grid_1"
-                                    },
-                                    {
-                                        "type": "layout",
-                                        "key": "stadium_grid_2"
-                                    }
-                                ]
+                                "type": "layout",
+                                "key": "stadium_grids_combined"
                             }
                         },
                         {
@@ -398,18 +378,8 @@
                             "header": "Stadiums",
                             "dock": "left",
                             "content": {
-                                "type": "array",
-                                "orientation": "horizontal",
-                                "content": [
-                                    {
-                                        "type": "layout",
-                                        "key": "stadium_grid_1"
-                                    },
-                                    {
-                                        "type": "layout",
-                                        "key": "stadium_grid_2"
-                                    }
-                                ]
+                                "type": "layout",
+                                "key": "stadium_grids_combined"
                             }
                         },
                         {
