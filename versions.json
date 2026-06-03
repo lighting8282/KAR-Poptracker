@@ -1,0 +1,18 @@
+{
+    "versions": [
+        {
+            "package_version": "0.1.4",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.1.4/KAR-Poptracker-v0.1.4.zip",
+            "sha256": "059786b2d4269e5b697f730fc594cd9ccbcba23c8302b3f57e5d20523358816e",
+            "changelog": [
+                "Added Compact layout and reworked item layout for small screens",
+                "Resized icons to 32px (City Trial Events at 48px in a 3x5 grid)",
+                "Added Attack Up, Candy, Defense Up, No Charge, Run Amok, Speed Up to Special Offense",
+                "New event icons: Dyna Blade, Tac, Rails on Fire, Dense Fog, Air Ride Formation, Box Bounce, Same Items, Lighthouse",
+                "Secret Chamber and Lighthouse now show open/closed (lit/unlit) states",
+                "Added sparkles to the Restoration Area icon",
+                "Added in-tracker update checking"
+            ]
+        }
+    ]
+}

@@ -10,8 +10,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "boost_up_perm",
@@ -42,8 +42,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "boost_up_perm",
@@ -525,8 +525,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 28,
-                    "item_width": 28,
+                    "item_height": 32,
+                    "item_width": 32,
                     "rows": [
                         [
                             "stadium_drag_race_1",
@@ -546,8 +546,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 28,
-                    "item_width": 28,
+                    "item_height": 32,
+                    "item_width": 32,
                     "rows": [
                         [
                             "stadium_destruction_derby_1",
@@ -575,8 +575,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 28,
-                    "item_width": 28,
+                    "item_height": 32,
+                    "item_width": 32,
                     "rows": [
                         [
                             "stadium_kirby_melee_1",
@@ -594,8 +594,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 28,
-                    "item_width": 28,
+                    "item_height": 32,
+                    "item_width": 32,
                     "rows": [
                         [
                             "stadium_single_race_1",
@@ -622,8 +622,8 @@
                     "h_alignment": "left",
                     "item_h_alignment": "center",
                     "item_v_alignment": "center",
-                    "item_height": 28,
-                    "item_width": 28,
+                    "item_height": 32,
+                    "item_width": 32,
                     "rows": [
                         [
                             "stadium_high_jump",
@@ -647,8 +647,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "death_link",
@@ -670,8 +670,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "machine_formula_star",
@@ -706,8 +706,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "machine_compact_star",
@@ -730,8 +730,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "food_omelet",
@@ -764,8 +764,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "kirby_pink",
@@ -795,8 +795,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "map_air_ride_beanstalk_park",
@@ -826,8 +826,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "map_top_ride_fire",
@@ -855,8 +855,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "ability_bomb",
@@ -888,8 +888,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "box_red",
@@ -911,14 +911,22 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "special_offense_panic_spin",
                         "special_offense_sensor_bomb",
                         "special_offense_fireworks",
-                        "special_offense_gold_spike"
+                        "special_offense_gold_spike",
+                        "special_offense_attack_up"
+                    ],
+                    [
+                        "special_offense_defense_up",
+                        "special_offense_speed_up",
+                        "special_offense_candy",
+                        "special_offense_no_charge",
+                        "special_offense_run_amok"
                     ]
                 ]
             }
@@ -935,8 +943,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "character_unlock_king_dedede",
@@ -957,8 +965,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "top_ride_item_big_cake",
@@ -998,24 +1006,30 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 48,
+                "item_width": 48,
                 "rows": [
                     [
                         "event_dyna_blade",
                         "event_tac",
-                        "event_huge_pillar",
-                        "event_meteor_impact",
-                        "event_ufo",
-                        "event_lighthouse",
-                        "event_secret_chamber",
-                        "event_rails_on_fire"
+                        "event_huge_pillar"
                     ],
                     [
-                        "event_dense_fog",
+                        "event_meteor_impact",
+                        "event_ufo",
+                        "event_lighthouse"
+                    ],
+                    [
+                        "event_secret_chamber",
+                        "event_rails_on_fire",
+                        "event_dense_fog"
+                    ],
+                    [
                         "event_restoration_area",
                         "event_run_amok",
-                        "event_box_bounce",
+                        "event_box_bounce"
+                    ],
+                    [
                         "event_same_items",
                         "event_fake_items",
                         "event_air_ride_formation"
@@ -1035,8 +1049,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "machine_free_star",
@@ -1726,8 +1740,8 @@
                             "h_alignment": "left",
                             "item_h_alignment": "center",
                             "item_v_alignment": "center",
-                            "item_height": 28,
-                            "item_width": 28,
+                            "item_height": 32,
+                            "item_width": 32,
                             "rows": [
                                 [
                                     "stadium_drag_race_1",
@@ -1747,8 +1761,8 @@
                             "h_alignment": "left",
                             "item_h_alignment": "center",
                             "item_v_alignment": "center",
-                            "item_height": 28,
-                            "item_width": 28,
+                            "item_height": 32,
+                            "item_width": 32,
                             "rows": [
                                 [
                                     "stadium_destruction_derby_1",
@@ -1776,8 +1790,8 @@
                             "h_alignment": "left",
                             "item_h_alignment": "center",
                             "item_v_alignment": "center",
-                            "item_height": 28,
-                            "item_width": 28,
+                            "item_height": 32,
+                            "item_width": 32,
                             "rows": [
                                 [
                                     "stadium_kirby_melee_1",
@@ -1795,8 +1809,8 @@
                             "h_alignment": "left",
                             "item_h_alignment": "center",
                             "item_v_alignment": "center",
-                            "item_height": 28,
-                            "item_width": 28,
+                            "item_height": 32,
+                            "item_width": 32,
                             "rows": [
                                 [
                                     "stadium_single_race_1",
@@ -1823,8 +1837,8 @@
                             "h_alignment": "left",
                             "item_h_alignment": "center",
                             "item_v_alignment": "center",
-                            "item_height": 28,
-                            "item_width": 28,
+                            "item_height": 32,
+                            "item_width": 32,
                             "rows": [
                                 [
                                     "stadium_high_jump",
@@ -1850,8 +1864,8 @@
                 "h_alignment": "left",
                 "item_h_alignment": "center",
                 "item_v_alignment": "center",
-                "item_height": 28,
-                "item_width": 28,
+                "item_height": 32,
+                "item_width": 32,
                 "rows": [
                     [
                         "stadium_drag_race_1",

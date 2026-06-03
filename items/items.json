@@ -1717,11 +1717,20 @@
     },
     {
         "name": "event_lighthouse",
-        "type": "toggle",
-        "img": "images/items/event_lighthouse_active.png",
-        "img_inactive": "images/items/event_lighthouse_inactive.png",
-        "initial_active_state": false,
-        "codes": "event_lighthouse"
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/event_lighthouse_off.png",
+                "codes": "event_lighthouse_off"
+            },
+            {
+                "img": "images/items/event_lighthouse_active.png",
+                "codes": "event_lighthouse"
+            }
+        ]
     },
     {
         "name": "event_meteor_impact",
@@ -1765,11 +1774,20 @@
     },
     {
         "name": "event_secret_chamber",
-        "type": "toggle",
-        "img": "images/items/event_secret_chamber_active.png",
-        "img_inactive": "images/items/event_secret_chamber_inactive.png",
-        "initial_active_state": false,
-        "codes": "event_secret_chamber"
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/event_secret_chamber_inactive.png",
+                "codes": "event_secret_chamber_closed"
+            },
+            {
+                "img": "images/items/event_secret_chamber_active.png",
+                "codes": "event_secret_chamber"
+            }
+        ]
     },
     {
         "name": "event_tac",
@@ -1786,5 +1804,53 @@
         "img_inactive": "images/items/event_ufo_inactive.png",
         "initial_active_state": false,
         "codes": "event_ufo"
+    },
+    {
+        "name": "special_offense_attack_up",
+        "type": "toggle",
+        "img": "images/items/special_offense_attack_up_active.png",
+        "img_inactive": "images/items/special_offense_attack_up_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_attack_up"
+    },
+    {
+        "name": "special_offense_candy",
+        "type": "toggle",
+        "img": "images/items/special_offense_candy_active.png",
+        "img_inactive": "images/items/special_offense_candy_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_candy"
+    },
+    {
+        "name": "special_offense_defense_up",
+        "type": "toggle",
+        "img": "images/items/special_offense_defense_up_active.png",
+        "img_inactive": "images/items/special_offense_defense_up_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_defense_up"
+    },
+    {
+        "name": "special_offense_no_charge",
+        "type": "toggle",
+        "img": "images/items/special_offense_no_charge_active.png",
+        "img_inactive": "images/items/special_offense_no_charge_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_no_charge"
+    },
+    {
+        "name": "special_offense_run_amok",
+        "type": "toggle",
+        "img": "images/items/special_offense_run_amok_active.png",
+        "img_inactive": "images/items/special_offense_run_amok_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_run_amok"
+    },
+    {
+        "name": "special_offense_speed_up",
+        "type": "toggle",
+        "img": "images/items/special_offense_speed_up_active.png",
+        "img_inactive": "images/items/special_offense_speed_up_inactive.png",
+        "initial_active_state": false,
+        "codes": "special_offense_speed_up"
     }
 ]
