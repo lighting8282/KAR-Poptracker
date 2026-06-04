@@ -1742,11 +1742,20 @@
     },
     {
         "name": "event_rails_on_fire",
-        "type": "toggle",
-        "img": "images/items/event_rails_on_fire_active.png",
-        "img_inactive": "images/items/event_rails_on_fire_inactive.png",
-        "initial_active_state": false,
-        "codes": "event_rails_on_fire"
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/event_rails_on_fire_off.png",
+                "codes": "event_rails_off"
+            },
+            {
+                "img": "images/items/event_rails_on_fire_active.png",
+                "codes": "event_rails_on_fire"
+            }
+        ]
     },
     {
         "name": "event_restoration_area",
