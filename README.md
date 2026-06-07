@@ -7,7 +7,7 @@ A [PopTracker](https://github.com/black-sliver/PopTracker) pack for
 support.
 
 Tracks every check, every received item, and every progression setting from your AP YAML —
-all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks.
+all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks. (More to come in a near future update)
 
 ## Features
 
@@ -67,10 +67,11 @@ The tracker is divided into:
 Each tab has two map layers: switch with the arrow controls or by clicking the layer icon.
 
 **City Trial Screenshot:**
-<img width="2550" height="1404" alt="city trial  with everything highlighted  Complete" src="https://github.com/user-attachments/assets/11009084-3b78-4880-ad4b-2ecef3905323" />
+<img width="2560" height="1464" alt="test 2 (all icons highlighted-city trial)" src="https://github.com/user-attachments/assets/c26a97df-3acf-4c14-8dc4-e1bb82206869" />
+
 
 **Air Ride Screenshot:**
-<img width="2561" height="1399" alt="air ride with everything highlighted  Complete" src="https://github.com/user-attachments/assets/8e234292-4b58-4668-88d5-9324feb5fd8e" />
+<img width="2560" height="1398" alt="test 2 (greyed out icons-air ride)" src="https://github.com/user-attachments/assets/1d858186-3611-420e-8497-1324a6b4d5d9" />
 
 
 ## Notes
@@ -85,7 +86,7 @@ Each tab has two map layers: switch with the arrow controls or by clicking the l
 ## Credits
 
 - **PopTracker** by [black-sliver](https://github.com/black-sliver/PopTracker)
-- **Kirby Air Ride Archipelago** by https://github.com/DeDeDeK/KARchipelago/blob/main/worlds/kirby_air_ride/docs/setup_en.md#items-file the AP community.
+- **Kirby Air Ride Archipelago** by https://github.com/DeDeDeK/KARchipelago/blob/main/worlds/kirby_air_ride/docs/setup_en.md#items-file and the AP community.
 - Sprite art ripped from Kirby Air Ride (Nintendo / HAL Laboratory, 2003) — used for
   non-commercial fan tracking purposes
 
