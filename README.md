@@ -1,6 +1,7 @@
 # Kirby Air Ride – PopTracker Pack
 
 **SIDENOTE:** Most of these icons are for the upcoming release which is slated for July of 2026! 
+
 **SIDENOTE#2:** For any issues, suggestions,etc with the tracker please open up an issues request here on github or feel free to ping me in the KAR channel in the Archipelago Discord!
 
 A [PopTracker](https://github.com/black-sliver/PopTracker) pack for
