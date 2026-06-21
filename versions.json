@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "package_version": "0.2.0",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.2.0/KAR-Poptracker-v0.2.0.zip",
+            "sha256": "bf2d4e9cf67edd6ed1d9143a054d5472eef5e79f7e94d281a532754750e3fd92",
+            "changelog": [
+                "Full check logic mirrored from apworld v1.0.0 - checks now show green only when that category's unlocks are held: machines (incl. 'bust X riding Y' pairs), abilities, events, patches, boxes, City Trial items, Top Ride items, Air Ride/Top Ride courses, stadiums, legendary completion, item-pickup counts, and prerequisite chains",
+                "'Fill in over 100 Checklist blocks' stays out of logic until 99 boxes are filled (per mode; Stadium counts toward City Trial)",
+                "Seed Settings indicators renamed to progression_* and now drive the check logic",
+                "Added Stadium Prediction event and Invincible Candy Top Ride item",
+                "Top Ride control machines auto-light on connect and grey out when disconnected"
+            ]
+        },
+        {
             "package_version": "0.1.4",
             "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.1.4/KAR-Poptracker-v0.1.4.zip",
             "sha256": "059786b2d4269e5b697f730fc594cd9ccbcba23c8302b3f57e5d20523358816e",
