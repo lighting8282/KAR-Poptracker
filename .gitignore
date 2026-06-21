@@ -52,3 +52,6 @@ GameCube*.png
 GameCube*.PNG
 test*.PNG
 test*.png
+
+# Source/reference icons (not needed for tracker)
+images/Misc Icons/

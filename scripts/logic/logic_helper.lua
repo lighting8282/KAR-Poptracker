@@ -106,9 +106,15 @@ STADIUM_CODES = {
     "stadium_vs_king_dedede"
 }
 
--- Returns ACCESS_NORMAL if at least N stadium unlock items are owned, else ACCESS_NONE.
--- Usage in access_rules:  "$STADIUMS_AT_LEAST|10"
+-- Returns ACCESS_NORMAL if at least N distinct stadium unlocks are owned, else ACCESS_NONE.
+-- When stadiums are NOT gated this seed, all 24 are unlocked at connect and no unlock items exist,
+-- so the cell is always reachable -- return NORMAL up front (mirrors the apworld, which only applies
+-- the count rule when city_trial_stadiums_gated is on).
+-- Usage in access_rules:  "$STADIUMS_AT_LEAST|11"
 function STADIUMS_AT_LEAST(n)
+    if Tracker:ProviderCountForCode("progression_stadiums") == 0 then
+        return ACCESS_NORMAL
+    end
     n = tonumber(n) or 0
     local count = 0
     for _, code in ipairs(STADIUM_CODES) do

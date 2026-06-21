@@ -12,6 +12,47 @@ MANUAL_CHECKED = true
 ROOM_SEED = "default"
 TROLL_PLAYER = false
 
+-- Top Ride control machines. These are lit purely from a live room connection (both when machines
+-- aren't gated, the other from a received starter when they are), never from restored save state.
+TR_CONTROL_MACHINES = { "machine_free_star", "machine_steer_star" }
+
+-- "Fill in 100 boxes" counters: map each AP location id to its mode so the autotracker can count
+-- checked boxes per mode. Stadium checks count toward City Trial (mirrors the apworld). The three
+-- Fill-in-100 cells (ids 56/145/360) are excluded so they never count toward their own threshold.
+local function _fill_startswith(s, prefix) return type(s) == "string" and s:sub(1, #prefix) == prefix end
+FILL_MODE_OF = {}
+do
+    local exclude = { [56] = true, [145] = true, [360] = true }
+    for id, paths in pairs(LOCATION_MAPPING) do
+        if not exclude[id] and paths and paths[1] then
+            local p = paths[1]
+            if _fill_startswith(p, "@City Trial") or _fill_startswith(p, "@Stadium") then
+                FILL_MODE_OF[id] = "ct"
+            elseif _fill_startswith(p, "@Air Ride") then
+                FILL_MODE_OF[id] = "ar"
+            elseif _fill_startswith(p, "@Top Ride") then
+                FILL_MODE_OF[id] = "tr"
+            end
+        end
+    end
+end
+
+-- Recount checked boxes per mode into the fill_count_* consumables, which drive the "$FILL_AT_LEAST"
+-- gate on the "Fill in over 100 Checklist blocks!" cells. Counts completed checks only (not filler
+-- items). Called from onClear (initial/replay) and onLocation (live).
+function UpdateFillCounters()
+    if not Archipelago or not Archipelago.CheckedLocations then return end
+    local cnt = { ct = 0, ar = 0, tr = 0 }
+    for _, id in pairs(Archipelago.CheckedLocations) do
+        local m = FILL_MODE_OF[id]
+        if m then cnt[m] = cnt[m] + 1 end
+    end
+    for m, code in pairs({ ct = "fill_count_ct", ar = "fill_count_ar", tr = "fill_count_tr" }) do
+        local obj = Tracker:FindObjectForCode(code)
+        if obj then obj.AcquiredCount = cnt[m] end
+    end
+end
+
 if Highlight then
     HIGHLIGHT_LEVEL= {
         [0] = Highlight.Unspecified,
@@ -101,6 +142,13 @@ function onClearHandler(slot_data)
     Tracker.BulkUpdate = true
     -- Use a protected call so that tracker updates always get enabled again, even if an error occurred.
     local ok, err = pcall(onClear, slot_data)
+    -- Apply slot-data-driven indicators (links, progression, seed settings) independently of onClear's
+    -- reset pass, so they still light up even if the reset pass errors out partway through.
+    local sok, serr = pcall(applyProgressionSettings, slot_data)
+    if not sok then
+        print("Error: applyProgressionSettings failed:")
+        print(serr)
+    end
     -- Enable tracker updates again.
     if ok then
         -- Defer re-enabling tracker updates until the next frame, which doesn't happen until all received items/cleared
@@ -253,6 +301,7 @@ function onClear(slot_data)
         Archipelago:SetNotify({HINTS_ID})
         Archipelago:Get({HINTS_ID})
     end
+    UpdateFillCounters()
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
     MANUAL_CHECKED = true
 end
@@ -322,6 +371,7 @@ function onLocation(location_id, location_name)
             print(string.format("onLocation: could not find location_object for code %s", location))
         end
     end
+    UpdateFillCounters()
     MANUAL_CHECKED = true
 end
 
@@ -465,9 +515,9 @@ function applyProgressionSettings(slot_data)
         end
     end
 
-    -- Utility toggles (death_link, energy_link). These come from the YAML as
+    -- Utility toggles (death_link, energy_link, trap_link). These come from the YAML as
     -- booleans in slot_data; light up the icon when enabled, leave grey otherwise.
-    local utility = { "death_link", "energy_link" }
+    local utility = { "death_link", "energy_link", "trap_link" }
     for _, code in ipairs(utility) do
         local item = Tracker:FindObjectForCode(code)
         if item then
@@ -483,9 +533,83 @@ function applyProgressionSettings(slot_data)
         end
     end
 
+    -- Seed Settings indicators: light an icon for each randomized (gated) category.
+    -- slot_data flag -> tracker setting code.
+    local gated = {
+        ["machines_gated"]            = "progression_machines",
+        ["abilities_gated"]           = "progression_abilities",
+        ["colors_gated"]              = "progression_colors",
+        ["city_trial_stadiums_gated"] = "progression_stadiums",
+        ["city_trial_patches_gated"]  = "progression_patches",
+        ["city_trial_boxes_gated"]    = "progression_boxes",
+        ["city_trial_events_gated"]   = "progression_events",
+        ["city_trial_items_gated"]    = "progression_ct_items",
+        ["air_ride_courses_gated"]    = "progression_ar_courses",
+        ["top_ride_courses_gated"]    = "progression_tr_courses",
+        ["top_ride_items_gated"]      = "progression_tr_items",
+        ["checklist_rewards_gated"]   = "progression_rewards",
+    }
+    for flag, code in pairs(gated) do
+        local item = Tracker:FindObjectForCode(code)
+        if item then
+            local val = slot_data[flag]
+            if type(val) == "boolean" then
+                item.Active = val
+            else
+                item.Active = (val == 1 or val == "1" or val == true)
+            end
+        end
+    end
+
+    -- Top Ride control machines (Free Star / Steer Star). When machines are NOT gated, every machine
+    -- is unlocked in-game from the start, but the multiworld sends no machine items, so nothing would
+    -- light these up. Force both on in that case. When machines ARE gated, leave them to onItem: the
+    -- game grants one guaranteed Top Ride starter (a precollected item) that lights itself up, and the
+    -- other must be found. Runs after onClear's item-reset pass, so the forced-on state survives.
+    -- Only ever light these from a LIVE room connection. The file-scope applyProgressionSettings(SLOT_DATA)
+    -- call below runs on every load with empty slot data and no connection; without this guard, an absent
+    -- machines_gated would read as "not gated" and wrongly light them before connecting.
+    local connected = (Archipelago.PlayerNumber ~= nil and Archipelago.PlayerNumber > -1)
+    local mg = slot_data["machines_gated"]
+    local machines_gated_on = (mg == true or mg == 1 or mg == "1")
+    if connected and not machines_gated_on then
+        for _, code in ipairs(TR_CONTROL_MACHINES) do
+            local item = Tracker:FindObjectForCode(code)
+            if item then
+                item.Active = true
+            end
+        end
+    end
+
+end
+
+-- Grey out the Top Ride control machines when there is no live room connection. They should only
+-- light from a room's settings (applyProgressionSettings) or a received starter item, never from
+-- restored save state while disconnected. Registered as a one-shot frame handler below, so it runs
+-- once after load + state-restore. The connection check (not a load flag) makes it race-proof: if
+-- auto-connect already fired, it sees "connected" and leaves onClear/onItem-managed state alone.
+function GreyTopRideMachinesIfDisconnected()
+    if Archipelago.PlayerNumber and Archipelago.PlayerNumber > -1 then
+        return
+    end
+    for _, code in ipairs(TR_CONTROL_MACHINES) do
+        local item = Tracker:FindObjectForCode(code)
+        if item then
+            item.Active = false
+        end
+    end
 end
 
 -- Hook into slot data received
 if SLOT_DATA ~= nil then
     applyProgressionSettings(SLOT_DATA)
 end
+
+-- One-shot: after the pack loads and PopTracker restores saved state, grey the Top Ride control
+-- machines unless a live connection is already active. On connect, onClear re-lights them per the
+-- room's settings; while disconnected they stay grey instead of showing stale restored state.
+function GreyTRMachinesOnLoadHandler()
+    ScriptHost:RemoveOnFrameHandler("KAR grey TR machines on load")
+    GreyTopRideMachinesIfDisconnected()
+end
+ScriptHost:AddOnFrameHandler("KAR grey TR machines on load", GreyTRMachinesOnLoadHandler)

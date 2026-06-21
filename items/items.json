@@ -1567,6 +1567,14 @@
         "codes": "top_ride_item_spinner"
     },
     {
+        "name": "top_ride_item_invincible_candy",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_invincible_candy_active.png",
+        "img_inactive": "images/items/top_ride_item_invincible_candy_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_invincible_candy"
+    },
+    {
         "name": "machine_free_star",
         "type": "toggle",
         "img": "images/items/machine_free_star_active.png",
@@ -1815,6 +1823,14 @@
         "codes": "event_ufo"
     },
     {
+        "name": "event_prediction",
+        "type": "toggle",
+        "img": "images/items/event_prediction_active.png",
+        "img_inactive": "images/items/event_prediction_inactive.png",
+        "initial_active_state": false,
+        "codes": "event_prediction"
+    },
+    {
         "name": "special_offense_attack_up",
         "type": "toggle",
         "img": "images/items/special_offense_attack_up_active.png",
@@ -1861,5 +1877,332 @@
         "img_inactive": "images/items/special_offense_speed_up_inactive.png",
         "initial_active_state": false,
         "codes": "special_offense_speed_up"
+    },
+    {
+        "name": "patch_unlock_boost",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_boost_locked.png",
+                "codes": "patch_unlock_boost_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_boost_unlocked.png",
+                "codes": "patch_unlock_boost"
+            }
+        ]
+    },
+    {
+        "name": "patch_unlock_top_speed",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_top_speed_locked.png",
+                "codes": "patch_unlock_top_speed_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_top_speed_unlocked.png",
+                "codes": "patch_unlock_top_speed"
+            }
+        ]
+    },
+    {
+        "name": "patch_unlock_offense",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_offense_locked.png",
+                "codes": "patch_unlock_offense_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_offense_unlocked.png",
+                "codes": "patch_unlock_offense"
+            }
+        ]
+    },
+    {
+        "name": "patch_unlock_defense",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_defense_locked.png",
+                "codes": "patch_unlock_defense_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_defense_unlocked.png",
+                "codes": "patch_unlock_defense"
+            }
+        ]
+    },
+    {
+        "name": "patch_unlock_turn",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_turn_locked.png",
+                "codes": "patch_unlock_turn_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_turn_unlocked.png",
+                "codes": "patch_unlock_turn"
+            }
+        ]
+    },
+    {
+        "name": "patch_unlock_glide",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_glide_locked.png",
+                "codes": "patch_unlock_glide_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_glide_unlocked.png",
+                "codes": "patch_unlock_glide"
+            }
+        ]
+    },
+    {
+        "name": "patch_unlock_charge",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_charge_locked.png",
+                "codes": "patch_unlock_charge_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_charge_unlocked.png",
+                "codes": "patch_unlock_charge"
+            }
+        ]
+    },
+    {
+        "name": "patch_unlock_weight",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_weight_locked.png",
+                "codes": "patch_unlock_weight_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_weight_unlocked.png",
+                "codes": "patch_unlock_weight"
+            }
+        ]
+    },
+    {
+        "name": "patch_unlock_hp",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/items/patch_unlock_hp_locked.png",
+                "codes": "patch_unlock_hp_locked"
+            },
+            {
+                "img": "images/items/patch_unlock_hp_unlocked.png",
+                "codes": "patch_unlock_hp"
+            }
+        ]
+    },
+    {
+        "name": "part_dragoon_a",
+        "type": "toggle",
+        "img": "images/items/part_dragoon_a_active.png",
+        "img_inactive": "images/items/part_dragoon_a_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_dragoon_a"
+    },
+    {
+        "name": "part_dragoon_b",
+        "type": "toggle",
+        "img": "images/items/part_dragoon_b_active.png",
+        "img_inactive": "images/items/part_dragoon_b_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_dragoon_b"
+    },
+    {
+        "name": "part_dragoon_c",
+        "type": "toggle",
+        "img": "images/items/part_dragoon_c_active.png",
+        "img_inactive": "images/items/part_dragoon_c_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_dragoon_c"
+    },
+    {
+        "name": "part_hydra_x",
+        "type": "toggle",
+        "img": "images/items/part_hydra_x_active.png",
+        "img_inactive": "images/items/part_hydra_x_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_hydra_x"
+    },
+    {
+        "name": "part_hydra_y",
+        "type": "toggle",
+        "img": "images/items/part_hydra_y_active.png",
+        "img_inactive": "images/items/part_hydra_y_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_hydra_y"
+    },
+    {
+        "name": "part_hydra_z",
+        "type": "toggle",
+        "img": "images/items/part_hydra_z_active.png",
+        "img_inactive": "images/items/part_hydra_z_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_hydra_z"
+    },
+    {
+        "name": "progression_machines",
+        "type": "toggle",
+        "img": "images/items/progression_machines_active.png",
+        "img_inactive": "images/items/progression_machines_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_machines"
+    },
+    {
+        "name": "progression_abilities",
+        "type": "toggle",
+        "img": "images/items/progression_abilities_active.png",
+        "img_inactive": "images/items/progression_abilities_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_abilities"
+    },
+    {
+        "name": "progression_colors",
+        "type": "toggle",
+        "img": "images/items/progression_colors_active.png",
+        "img_inactive": "images/items/progression_colors_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_colors"
+    },
+    {
+        "name": "progression_stadiums",
+        "type": "toggle",
+        "img": "images/items/progression_stadiums_active.png",
+        "img_inactive": "images/items/progression_stadiums_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_stadiums"
+    },
+    {
+        "name": "progression_patches",
+        "type": "toggle",
+        "img": "images/items/progression_patches_active.png",
+        "img_inactive": "images/items/progression_patches_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_patches"
+    },
+    {
+        "name": "progression_boxes",
+        "type": "toggle",
+        "img": "images/items/progression_boxes_active.png",
+        "img_inactive": "images/items/progression_boxes_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_boxes"
+    },
+    {
+        "name": "progression_events",
+        "type": "toggle",
+        "img": "images/items/progression_events_active.png",
+        "img_inactive": "images/items/progression_events_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_events"
+    },
+    {
+        "name": "progression_ct_items",
+        "type": "toggle",
+        "img": "images/items/progression_ct_items_active.png",
+        "img_inactive": "images/items/progression_ct_items_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_ct_items"
+    },
+    {
+        "name": "progression_ar_courses",
+        "type": "toggle",
+        "img": "images/items/progression_ar_courses_active.png",
+        "img_inactive": "images/items/progression_ar_courses_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_ar_courses"
+    },
+    {
+        "name": "progression_tr_courses",
+        "type": "toggle",
+        "img": "images/items/progression_tr_courses_active.png",
+        "img_inactive": "images/items/progression_tr_courses_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_tr_courses"
+    },
+    {
+        "name": "progression_tr_items",
+        "type": "toggle",
+        "img": "images/items/progression_tr_items_active.png",
+        "img_inactive": "images/items/progression_tr_items_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_tr_items"
+    },
+    {
+        "name": "progression_rewards",
+        "type": "toggle",
+        "img": "images/items/progression_rewards_active.png",
+        "img_inactive": "images/items/progression_rewards_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_rewards"
+    },
+    {
+        "name": "fill_count_ct",
+        "type": "consumable",
+        "img": "images/items/blank.png",
+        "codes": "fill_count_ct",
+        "min_quantity": 0,
+        "max_quantity": 200,
+        "initial_quantity": 0,
+        "increment": 1
+    },
+    {
+        "name": "fill_count_ar",
+        "type": "consumable",
+        "img": "images/items/blank.png",
+        "codes": "fill_count_ar",
+        "min_quantity": 0,
+        "max_quantity": 200,
+        "initial_quantity": 0,
+        "increment": 1
+    },
+    {
+        "name": "fill_count_tr",
+        "type": "consumable",
+        "img": "images/items/blank.png",
+        "codes": "fill_count_tr",
+        "min_quantity": 0,
+        "max_quantity": 200,
+        "initial_quantity": 0,
+        "increment": 1
     }
 ]

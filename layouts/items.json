@@ -989,7 +989,8 @@
                         "top_ride_item_smokescreen",
                         "top_ride_item_speed_up",
                         "top_ride_item_speed_down",
-                        "top_ride_item_spinner"
+                        "top_ride_item_spinner",
+                        "top_ride_item_invincible_candy"
                     ]
                 ]
             }
@@ -1033,6 +1034,9 @@
                         "event_same_items",
                         "event_fake_items",
                         "event_air_ride_formation"
+                    ],
+                    [
+                        "event_prediction"
                     ]
                 ]
             }
@@ -1898,6 +1902,99 @@
                         "stadium_target_flight",
                         "stadium_air_glider",
                         "stadium_vs_king_dedede"
+                    ]
+                ]
+            }
+        ]
+    },
+    "patch_unlocks_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "patch_unlock_boost",
+                        "patch_unlock_charge",
+                        "patch_unlock_defense",
+                        "patch_unlock_glide",
+                        "patch_unlock_hp"
+                    ],
+                    [
+                        "patch_unlock_offense",
+                        "patch_unlock_top_speed",
+                        "patch_unlock_turn",
+                        "patch_unlock_weight"
+                    ]
+                ]
+            }
+        ]
+    },
+    "legendary_parts_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 32,
+                "item_width": 32,
+                "rows": [
+                    [
+                        "part_dragoon_a",
+                        "part_dragoon_b",
+                        "part_dragoon_c"
+                    ],
+                    [
+                        "part_hydra_x",
+                        "part_hydra_y",
+                        "part_hydra_z"
+                    ]
+                ]
+            }
+        ]
+    },
+    "seed_settings_panel": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 48,
+                "item_width": 48,
+                "rows": [
+                    [
+                        "progression_machines",
+                        "progression_abilities",
+                        "progression_colors",
+                        "progression_stadiums",
+                        "progression_patches",
+                        "progression_boxes"
+                    ],
+                    [
+                        "progression_events",
+                        "progression_ct_items",
+                        "progression_ar_courses",
+                        "progression_tr_courses",
+                        "progression_tr_items",
+                        "progression_rewards"
                     ]
                 ]
             }

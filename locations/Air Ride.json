@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_beanstalk_park|map_air_ride_celestial_valley|map_air_ride_machine_passage|map_air_ride_checkered_knights|map_air_ride_nebula_belt"
         ],
         "children": [
             {
@@ -85,7 +85,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$FILL_AT_LEAST|fill_count_ar|99"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -96,7 +98,9 @@
                         "sections": [
                             {
                                 "name": "Fill in over 100 Checklist blocks!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$FILL_AT_LEAST|fill_count_ar|99"
+                                ],
                                 "visibility_rules": [
                                     "air_ride_progression_high_effort"
                                 ],
@@ -289,7 +293,9 @@
                     },
                     {
                         "name": "Fill in over 100 Checklist blocks!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$FILL_AT_LEAST|fill_count_ar|99"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_high_effort"
                         ],
@@ -368,7 +374,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_sword"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -412,7 +420,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_wheel"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -434,7 +444,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_freeze"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -456,7 +468,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_plasma"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -477,7 +491,9 @@
                 "sections": [
                     {
                         "name": "Swallow Sword Knight 3 times and take 1st!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_sword"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -489,19 +505,25 @@
                     },
                     {
                         "name": "Swallow Wheelie 3 times and take 1st!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_wheel"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Swallow Chilly 3 times and take 1st!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_freeze"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Swallow Plasma Wisp 3 times and take 1st!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_plasma"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -513,7 +535,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_ar_courses|map_air_ride_magma_flows"
                 ],
                 "map_locations": [
                     {
@@ -650,7 +672,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "@Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -797,7 +824,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_shadow_star",
+                                "@Air Ride/General/Defeat 10 or more enemies using the Quick Spin!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -857,7 +889,12 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "@Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -899,7 +936,12 @@
                     },
                     {
                         "name": "TA: Finish in under 03:15:00 on Shadow Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_shadow_star",
+                                "@Air Ride/General/Defeat 10 or more enemies using the Quick Spin!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -913,7 +955,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_ar_courses|map_air_ride_fantasy_meadows"
                 ],
                 "map_locations": [
                     {
@@ -1050,7 +1092,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_wagon_star",
+                                "@Air Ride/General/In any mode other than Free Run, reach the goal 3 times!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1077,7 +1124,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_slick_star",
+                                "@Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1235,7 +1287,12 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 00:23:00 on Wagon Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_wagon_star",
+                                "@Air Ride/General/In any mode other than Free Run, reach the goal 3 times!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -1243,7 +1300,12 @@
                     },
                     {
                         "name": "TA: Finish in under 01:05:00 on Slick Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_slick_star",
+                                "@Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -1302,7 +1364,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_sword"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1346,7 +1410,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_wing"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1368,7 +1434,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_sleep"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1390,7 +1458,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_tornado"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1412,7 +1482,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_fire"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1434,7 +1506,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_needle"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1455,7 +1529,9 @@
                 "sections": [
                     {
                         "name": "Sword Challenge: swing sword 10 times and take 1st!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_sword"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1467,31 +1543,41 @@
                     },
                     {
                         "name": "Finish in 1st place with Wing ability!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_wing"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Finish in 1st place with Sleep ability!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_sleep"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Tornado Challenge: defeat 15 enemies as Tornado Kirby!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_tornado"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Finish in 1st place with Fire ability!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_fire"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Finish in 1st place with Needle ability!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_needle"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -1542,7 +1628,18 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_ar_courses|map_air_ride_fantasy_meadows",
+                                "$GATED|progression_ar_courses|map_air_ride_magma_flows",
+                                "$GATED|progression_ar_courses|map_air_ride_sky_sands",
+                                "$GATED|progression_ar_courses|map_air_ride_frozen_hillside",
+                                "$GATED|progression_ar_courses|map_air_ride_beanstalk_park",
+                                "$GATED|progression_ar_courses|map_air_ride_celestial_valley",
+                                "$GATED|progression_ar_courses|map_air_ride_machine_passage",
+                                "$GATED|progression_ar_courses|map_air_ride_checkered_knights"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1723,7 +1820,18 @@
                     },
                     {
                         "name": "Race all of the standard Air Ride courses!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_ar_courses|map_air_ride_fantasy_meadows",
+                                "$GATED|progression_ar_courses|map_air_ride_magma_flows",
+                                "$GATED|progression_ar_courses|map_air_ride_sky_sands",
+                                "$GATED|progression_ar_courses|map_air_ride_frozen_hillside",
+                                "$GATED|progression_ar_courses|map_air_ride_beanstalk_park",
+                                "$GATED|progression_ar_courses|map_air_ride_celestial_valley",
+                                "$GATED|progression_ar_courses|map_air_ride_machine_passage",
+                                "$GATED|progression_ar_courses|map_air_ride_checkered_knights"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1777,7 +1885,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_ar_courses|map_air_ride_celestial_valley"
                 ],
                 "map_locations": [
                     {
@@ -1816,7 +1924,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_slick_star",
+                                "@Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1914,7 +2027,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_jet_star",
+                                "@Air Ride/MACHINE PASSAGE/Race over 4,500 feet in 2 minutes!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2071,7 +2189,12 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_slick_star",
+                                "@Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -2099,7 +2222,12 @@
                     },
                     {
                         "name": "TA: Finish in under 02:58:00 on Jet Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_jet_star",
+                                "@Air Ride/MACHINE PASSAGE/Race over 4,500 feet in 2 minutes!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -2149,7 +2277,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_ar_courses|map_air_ride_beanstalk_park"
                 ],
                 "map_locations": [
                     {
@@ -2188,7 +2316,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_winged_star",
+                                "@Air Ride/Ability Challenges/Finish in 1st place while flying through the air!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2286,7 +2419,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_rocket_star",
+                                "@Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2443,7 +2581,12 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 00:58:00 on Winged Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_winged_star",
+                                "@Air Ride/Ability Challenges/Finish in 1st place while flying through the air!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -2471,7 +2614,12 @@
                     },
                     {
                         "name": "TA: Finish in under 03:00:00 on Rocket Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_rocket_star",
+                                "@Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -2521,7 +2669,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_ar_courses|map_air_ride_sky_sands"
                 ],
                 "map_locations": [
                     {
@@ -2587,7 +2735,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_wagon_star",
+                                "@Air Ride/General/In any mode other than Free Run, reach the goal 3 times!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2783,7 +2936,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_bulk_star",
+                                "@Air Ride/CELESTIAL VALLEY/TA: Finish in under 03:20:00!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2845,7 +3003,12 @@
                     },
                     {
                         "name": "TA: Finish in under 02:40:00 on Wagon Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_wagon_star",
+                                "@Air Ride/General/In any mode other than Free Run, reach the goal 3 times!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -2901,7 +3064,12 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_bulk_star",
+                                "@Air Ride/CELESTIAL VALLEY/TA: Finish in under 03:20:00!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -2921,7 +3089,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_ar_courses|map_air_ride_machine_passage"
                 ],
                 "map_locations": [
                     {
@@ -3107,7 +3275,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_machines|machine_rex_wheelie"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3161,7 +3331,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_swerve_star",
+                                "@Air Ride/SKY SANDS/Finish 2 laps in under 02:05:00!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3257,7 +3432,9 @@
                     },
                     {
                         "name": "TA: Finish in under 02:50:00 on Rex Wheelie!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_machines|machine_rex_wheelie"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -3273,7 +3450,12 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 00:57:00 on Swerve Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_swerve_star",
+                                "@Air Ride/SKY SANDS/Finish 2 laps in under 02:05:00!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -3293,7 +3475,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_ar_courses|map_air_ride_frozen_hillside"
                 ],
                 "map_locations": [
                     {
@@ -3413,7 +3595,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "@Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3489,7 +3676,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_formula_star",
+                                "@Air Ride/FROZEN HILLSIDE/TA: Finish in under 03:14:00!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3589,7 +3781,12 @@
                     },
                     {
                         "name": "TA: Finish in under 03:10:00 on Turbo Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "@Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],
@@ -3611,7 +3808,12 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:10:00 on Formula Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_formula_star",
+                                "@Air Ride/FROZEN HILLSIDE/TA: Finish in under 03:14:00!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -3637,7 +3839,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_ar_courses|map_air_ride_checkered_knights"
                 ],
                 "map_locations": [
                     {
@@ -3828,7 +4030,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_rocket_star",
+                                "@Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3921,7 +4128,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_machines|machine_warp_star"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3997,7 +4206,12 @@
                     },
                     {
                         "name": "FR: Do 1 lap under 01:25:00 on Rocket Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_rocket_star",
+                                "@Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
                         ],
@@ -4023,7 +4237,9 @@
                     },
                     {
                         "name": "TA: Finish in under 03:55:00 on Warpstar!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_machines|machine_warp_star"
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
                         ],

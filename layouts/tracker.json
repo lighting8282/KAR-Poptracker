@@ -29,6 +29,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Patch Unlocks",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "patch_unlocks_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Food",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -108,6 +118,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Legendary Parts",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "legendary_parts_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Character Unlock",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -151,6 +171,16 @@
                                     "content": {
                                         "type": "layout",
                                         "key": "utility_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Seed Settings",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "seed_settings_panel"
                                     }
                                 }
                             ]
@@ -271,6 +301,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Patch Unlocks",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "patch_unlocks_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Food",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -350,6 +390,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Legendary Parts",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "legendary_parts_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Character Unlock",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -393,6 +443,16 @@
                                     "content": {
                                         "type": "layout",
                                         "key": "utility_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Seed Settings",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "seed_settings_panel"
                                     }
                                 }
                             ]
@@ -505,6 +565,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Patch Unlocks",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "patch_unlocks_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Food",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -584,6 +654,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Legendary Parts",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "legendary_parts_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Character Unlock",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -627,6 +707,16 @@
                                     "content": {
                                         "type": "layout",
                                         "key": "utility_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Seed Settings",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "seed_settings_panel"
                                     }
                                 }
                             ]
@@ -739,6 +829,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Patch Unlocks",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "patch_unlocks_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Food",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -818,6 +918,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Legendary Parts",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "legendary_parts_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Character Unlock",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -861,6 +971,16 @@
                                     "content": {
                                         "type": "layout",
                                         "key": "utility_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Seed Settings",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "seed_settings_panel"
                                     }
                                 }
                             ]

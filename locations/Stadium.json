@@ -14,7 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$STADIUMS_AT_LEAST|10"
+                    "$STADIUMS_AT_LEAST|11"
                 ],
                 "map_locations": [
                     {
@@ -40,7 +40,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_2"
+                    "$GATED|progression_stadiums|stadium_drag_race_2"
                 ],
                 "map_locations": [
                     {
@@ -66,7 +66,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_4"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_4",
+                        "@Stadium/DRAG RACE 3 Finish in less than 002700!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -92,7 +95,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_high_jump"
+                    "$GATED|progression_stadiums|stadium_high_jump"
                 ],
                 "map_locations": [
                     {
@@ -118,7 +121,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_target_flight"
+                    "$GATED|progression_stadiums|stadium_target_flight"
                 ],
                 "map_locations": [
                     {
@@ -144,7 +147,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_air_glider"
+                    "$GATED|progression_stadiums|stadium_air_glider"
                 ],
                 "map_locations": [
                     {
@@ -170,7 +173,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_2"
+                    "$GATED|progression_stadiums|stadium_destruction_derby_2"
                 ],
                 "map_locations": [
                     {
@@ -196,7 +199,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_1"
+                    "$GATED|progression_stadiums|stadium_destruction_derby_1"
                 ],
                 "map_locations": [
                     {
@@ -222,7 +225,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_kirby_melee_2"
+                    [
+                        "$GATED|progression_stadiums|stadium_kirby_melee_2",
+                        "@Stadium/KIRBY MELEE 1 In one game, KO over 75 enemies by yourself!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -248,7 +254,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_1"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_1",
+                        "$GATED|progression_machines|machine_formula_star"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -274,7 +283,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_3"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_3",
+                        "$GATED|progression_machines|machine_wheelie_bike"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -300,7 +312,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$STADIUMS_AT_LEAST|20"
+                    "$STADIUMS_AT_LEAST|21"
                 ],
                 "map_locations": [
                     {
@@ -326,7 +338,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_2"
+                    "$GATED|progression_stadiums|stadium_drag_race_2"
                 ],
                 "map_locations": [
                     {
@@ -352,7 +364,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_4"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_4",
+                        "@Stadium/DRAG RACE 3 Finish in less than 002700!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -378,7 +393,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_target_flight"
+                    "$GATED|progression_stadiums|stadium_target_flight"
                 ],
                 "map_locations": [
                     {
@@ -404,7 +419,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_target_flight"
+                    "$GATED|progression_stadiums|stadium_target_flight"
                 ],
                 "map_locations": [
                     {
@@ -430,7 +445,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_air_glider"
+                    "$GATED|progression_stadiums|stadium_air_glider"
                 ],
                 "map_locations": [
                     {
@@ -456,7 +471,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_3"
+                    [
+                        "$GATED|progression_stadiums|stadium_destruction_derby_3",
+                        "@Stadium/DESTRUCTION DERBY 2 In one game, KO a rival 10 times or more!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -482,7 +500,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_1"
+                    "$GATED|progression_stadiums|stadium_destruction_derby_1"
                 ],
                 "map_locations": [
                     {
@@ -508,7 +526,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_4"
+                    [
+                        "$GATED|progression_stadiums|stadium_destruction_derby_4",
+                        "@Stadium/DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -534,7 +555,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_kirby_melee_1"
+                    "$GATED|progression_stadiums|stadium_kirby_melee_1"
                 ],
                 "map_locations": [
                     {
@@ -560,7 +581,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_2"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_2",
+                        "$GATED|progression_machines|machine_wagon_star"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -586,7 +610,11 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_4"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_4",
+                        "$GATED|progression_machines|machine_turbo_star",
+                        "@Stadium/DRAG RACE 3 Finish in less than 002700!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -612,7 +640,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_1"
+                    "$GATED|progression_stadiums|stadium_drag_race_1"
                 ],
                 "map_locations": [
                     {
@@ -638,7 +666,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_3"
+                    "$GATED|progression_stadiums|stadium_drag_race_3"
                 ],
                 "map_locations": [
                     {
@@ -664,7 +692,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_high_jump"
+                    "$GATED|progression_stadiums|stadium_high_jump"
                 ],
                 "map_locations": [
                     {
@@ -690,7 +718,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_target_flight"
+                    "$GATED|progression_stadiums|stadium_target_flight"
                 ],
                 "map_locations": [
                     {
@@ -716,7 +744,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_target_flight"
+                    "$GATED|progression_stadiums|stadium_target_flight"
                 ],
                 "map_locations": [
                     {
@@ -742,7 +770,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_air_glider"
+                    "$GATED|progression_stadiums|stadium_air_glider"
                 ],
                 "map_locations": [
                     {
@@ -768,7 +796,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_4"
+                    [
+                        "$GATED|progression_stadiums|stadium_destruction_derby_4",
+                        "@Stadium/DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -794,7 +825,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_2"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_2",
+                        "$GATED|progression_machines|machine_winged_star"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -820,7 +854,11 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_4"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_4",
+                        "$GATED|progression_machines|machine_rex_wheelie",
+                        "@Stadium/DRAG RACE 3 Finish in less than 002700!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -846,7 +884,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_1"
+                    "$GATED|progression_stadiums|stadium_drag_race_1"
                 ],
                 "map_locations": [
                     {
@@ -872,7 +910,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_3"
+                    "$GATED|progression_stadiums|stadium_drag_race_3"
                 ],
                 "map_locations": [
                     {
@@ -898,7 +936,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_high_jump"
+                    "$GATED|progression_stadiums|stadium_high_jump"
                 ],
                 "map_locations": [
                     {
@@ -924,7 +962,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_air_glider"
+                    "$GATED|progression_stadiums|stadium_air_glider"
                 ],
                 "map_locations": [
                     {
@@ -950,7 +988,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_1"
+                    "$GATED|progression_stadiums|stadium_destruction_derby_1"
                 ],
                 "map_locations": [
                     {
@@ -976,7 +1014,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_5"
+                    [
+                        "$GATED|progression_stadiums|stadium_destruction_derby_5",
+                        "@Stadium/DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1002,7 +1043,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_kirby_melee_1"
+                    "$GATED|progression_stadiums|stadium_kirby_melee_1"
                 ],
                 "map_locations": [
                     {
@@ -1028,7 +1069,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_vs_king_dedede"
+                    "$GATED|progression_stadiums|stadium_vs_king_dedede"
                 ],
                 "map_locations": [
                     {
@@ -1054,7 +1095,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_2"
+                    "$GATED|progression_stadiums|stadium_destruction_derby_2"
                 ],
                 "map_locations": [
                     {
@@ -1080,7 +1121,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_destruction_derby_5"
+                    [
+                        "$GATED|progression_stadiums|stadium_destruction_derby_5",
+                        "@Stadium/DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1106,7 +1150,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_kirby_melee_2"
+                    [
+                        "$GATED|progression_stadiums|stadium_kirby_melee_2",
+                        "@Stadium/KIRBY MELEE 1 In one game, KO over 75 enemies by yourself!"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1132,7 +1179,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_1"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_1",
+                        "$GATED|progression_machines|machine_warp_star"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1158,7 +1208,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_drag_race_3"
+                    [
+                        "$GATED|progression_stadiums|stadium_drag_race_3",
+                        "$GATED|progression_machines|machine_swerve_star"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1271,13 +1324,25 @@
                 "sections": [
                     {
                         "name": "KO enemies over 50 times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_1",
+                            "stadium_destruction_derby_2",
+                            "stadium_destruction_derby_3",
+                            "stadium_destruction_derby_4",
+                            "stadium_destruction_derby_5"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "KO enemies over 150 times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_destruction_derby_1",
+                            "stadium_destruction_derby_2",
+                            "stadium_destruction_derby_3",
+                            "stadium_destruction_derby_4",
+                            "stadium_destruction_derby_5"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -1361,13 +1426,19 @@
                 "sections": [
                     {
                         "name": "KO over 500 enemies!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_kirby_melee_1",
+                            "stadium_kirby_melee_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "KO over 1,500 enemies!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_kirby_melee_1",
+                            "stadium_kirby_melee_2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -1379,7 +1450,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "stadium_target_flight"
+                    "$GATED|progression_stadiums|stadium_target_flight"
                 ],
                 "map_locations": [
                     {
@@ -1420,7 +1491,9 @@
                 "sections": [
                     {
                         "name": "TARGET FLIGHT Get a perfect score (200 points)!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "stadium_target_flight"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }

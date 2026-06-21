@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$GATED_ANY|progression_tr_courses|map_top_ride_grass|map_top_ride_sand|map_top_ride_sky|map_top_ride_fire|map_top_ride_light|map_top_ride_water|map_top_ride_metal"
         ],
         "children": [
             {
@@ -97,7 +97,17 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -119,7 +129,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_tr_items|top_ride_item_hammer"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -141,7 +153,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_tr_items|top_ride_item_invincible_candy"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -163,7 +177,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_bomb"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -185,7 +201,17 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -207,7 +233,17 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -251,7 +287,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_mike"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -327,7 +365,17 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -349,7 +397,17 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -371,7 +429,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$TR_ITEM_ANY"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -415,7 +475,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_fire"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -459,7 +521,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_tr_items|top_ride_item_spinner"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -481,7 +545,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_tr_items|top_ride_item_buzz_saw"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -514,37 +580,73 @@
                     },
                     {
                         "name": "Finish all courses without using Boost!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Take 1st place while holding the Hammer!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_tr_items|top_ride_item_hammer"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get more than 20 Invincible Candy items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_tr_items|top_ride_item_invincible_candy"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In one game, hit enemies 3 times or more with Bomb items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_bomb"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "(No Zero Items rule) Complete all courses without using items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Finish 1st on all courses without Boost!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -556,7 +658,9 @@
                     },
                     {
                         "name": "Get more than 20 Walky items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_mike"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -578,19 +682,41 @@
                     },
                     {
                         "name": "Take 1st place on all courses!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "(No Zero Items rule) Finish 1st on all courses using no items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_tr_courses|map_top_ride_grass",
+                                "$GATED|progression_tr_courses|map_top_ride_sand",
+                                "$GATED|progression_tr_courses|map_top_ride_sky",
+                                "$GATED|progression_tr_courses|map_top_ride_fire",
+                                "$GATED|progression_tr_courses|map_top_ride_light",
+                                "$GATED|progression_tr_courses|map_top_ride_water",
+                                "$GATED|progression_tr_courses|map_top_ride_metal"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get the same item 3 times in one race!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$TR_ITEM_ANY"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -602,7 +728,9 @@
                     },
                     {
                         "name": "Torch 3 or more rivals using one Fire item!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_fire"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -614,13 +742,17 @@
                     },
                     {
                         "name": "Get more than 20 Spinner items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_tr_items|top_ride_item_spinner"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Send 3 or more rivals sailing using one Buzz Saw item!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_tr_items|top_ride_item_buzz_saw"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -692,7 +824,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_tr_courses|map_top_ride_grass"
                 ],
                 "map_locations": [
                     {
@@ -1113,7 +1245,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_tr_courses|map_top_ride_sand"
                 ],
                 "map_locations": [
                     {
@@ -1562,7 +1694,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_tr_courses|map_top_ride_sky"
                 ],
                 "map_locations": [
                     {
@@ -1983,7 +2115,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_tr_courses|map_top_ride_fire"
                 ],
                 "map_locations": [
                     {
@@ -2093,7 +2225,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_fire"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -2336,7 +2470,9 @@
                     },
                     {
                         "name": "Finish 1st while holding the Fire item.",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_fire"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -2404,7 +2540,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_tr_courses|map_top_ride_water"
                 ],
                 "map_locations": [
                     {
@@ -2797,7 +2933,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_tr_courses|map_top_ride_light"
                 ],
                 "map_locations": [
                     {
@@ -3246,7 +3382,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$GATED|progression_tr_courses|map_top_ride_metal"
                 ],
                 "map_locations": [
                     {
@@ -3766,7 +3902,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$TR_ITEM_ANY"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -3793,7 +3931,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$FILL_AT_LEAST|fill_count_tr|99"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -3804,7 +3944,9 @@
                         "sections": [
                             {
                                 "name": "Fill in over 100 Checklist blocks!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$FILL_AT_LEAST|fill_count_tr|99"
+                                ],
                                 "visibility_rules": [
                                     "top_ride_progression_high_effort"
                                 ],
@@ -3835,7 +3977,9 @@
                     },
                     {
                         "name": "Collect 500 items or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$TR_ITEM_ANY"
+                        ],
                         "visibility_rules": [
                             "top_ride_progression_high_effort"
                         ],
@@ -3843,7 +3987,9 @@
                     },
                     {
                         "name": "Fill in over 100 Checklist blocks!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$FILL_AT_LEAST|fill_count_tr|99"
+                        ],
                         "visibility_rules": [
                             "top_ride_progression_high_effort"
                         ],

@@ -53,7 +53,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -80,7 +82,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED_ANY|progression_boxes|box_red|box_green|box_blue"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -107,7 +111,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -161,7 +167,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -210,7 +218,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -281,7 +291,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -303,7 +315,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED_ANY|progression_boxes|box_red|box_green|box_blue"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -330,7 +344,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$FILL_AT_LEAST|fill_count_ct|99"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -341,7 +357,9 @@
                         "sections": [
                             {
                                 "name": "Fill in over 100 Checklist blocks!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$FILL_AT_LEAST|fill_count_ct|99"
+                                ],
                                 "visibility_rules": [
                                     "city_trial_progression_high_effort"
                                 ],
@@ -384,7 +402,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -416,7 +436,9 @@
                     },
                     {
                         "name": "pick up a total of over 1000 items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_high_effort"
                         ],
@@ -424,7 +446,9 @@
                     },
                     {
                         "name": "break more than 1000 boxes!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED_ANY|progression_boxes|box_red|box_green|box_blue"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_high_effort"
                         ],
@@ -432,7 +456,9 @@
                     },
                     {
                         "name": "Get 10 items within the first 20 seconds of the match!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_high_effort"
                         ],
@@ -448,7 +474,9 @@
                     },
                     {
                         "name": "Pick up a total of over 3000 items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_high_effort"
                         ],
@@ -462,7 +490,9 @@
                     },
                     {
                         "name": "Pick up a total of over 100 items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -482,13 +512,17 @@
                     },
                     {
                         "name": "pick up a total of over 500 items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "break more than 500 boxes!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED_ANY|progression_boxes|box_red|box_green|box_blue"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_high_effort"
                         ],
@@ -496,7 +530,9 @@
                     },
                     {
                         "name": "Fill in over 100 Checklist blocks!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$FILL_AT_LEAST|fill_count_ct|99"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_high_effort"
                         ],
@@ -512,7 +548,9 @@
                     },
                     {
                         "name": "In one game, get 50 or more items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$CT_PICKUP_ANY"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_high_effort"
                         ],
@@ -543,7 +581,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_dyna_blade"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -565,7 +605,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_tac"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -587,7 +629,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|special_offense_fireworks"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -609,7 +653,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_dyna_blade"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -631,7 +677,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_meteor_impact"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -653,7 +701,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_huge_pillar"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -675,7 +725,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_bomb"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -702,7 +754,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_huge_pillar"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -724,7 +778,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_sleep"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -750,43 +806,57 @@
                 "sections": [
                     {
                         "name": "Do some damage to Dyna Blade!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_dyna_blade"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Steal over 8 items from Tac by yourself!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_tac"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Use Fireworks to KO rivals 10 times or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|special_offense_fireworks"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get trampled by Dyna Blade!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_dyna_blade"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "The meteor attacks the city 3 or more times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_meteor_impact"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Break 5 or more of the huge pillars that appear!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_huge_pillar"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get the Bomb ability from the Copy Chance Wheel!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_bomb"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_rng"
                         ],
@@ -794,13 +864,17 @@
                     },
                     {
                         "name": "Break a huge pillar within 40 seconds of the time it appears!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_huge_pillar"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get the Sleep ability from the Copy Chance Wheel!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_sleep"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_rng"
                         ],
@@ -831,7 +905,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_secret_chamber"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -874,7 +950,9 @@
                 "sections": [
                     {
                         "name": "Go into the castle chamber when it opens!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_secret_chamber"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1092,7 +1170,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_hotdog"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1163,7 +1243,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_maxim_tomato"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1190,7 +1272,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_restoration_area"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1234,7 +1318,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_energy_drink"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1305,7 +1391,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_sushi"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1345,7 +1433,9 @@
                     },
                     {
                         "name": "In one race, eat 3 or more Hot Dogs!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_hotdog"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_rng"
                         ],
@@ -1365,7 +1455,9 @@
                     },
                     {
                         "name": "In one game, eat 2 or more maxim tomatoes!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_maxim_tomato"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_rng"
                         ],
@@ -1373,7 +1465,9 @@
                     },
                     {
                         "name": "Use up one of the restoration areas!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_events|event_restoration_area"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1385,7 +1479,9 @@
                     },
                     {
                         "name": "In one game, drink 3 or more energy drinks!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_energy_drink"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_rng"
                         ],
@@ -1405,7 +1501,9 @@
                     },
                     {
                         "name": "In one race, eat 3 or more plates of sushi!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_sushi"
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_rng"
                         ],
@@ -1436,7 +1534,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_boost"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1458,7 +1558,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_turn"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1480,7 +1582,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_weight"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1502,7 +1606,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_glide"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1524,7 +1630,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_glide"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1546,7 +1654,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_top_speed"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1568,7 +1678,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_charge"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1590,7 +1702,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_defense"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1611,49 +1725,65 @@
                 "sections": [
                     {
                         "name": "In one game, get over 10 Boost Patches!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_boost"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In one game, get 10 or more Turn Patches!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_turn"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In one game, get 10 or more Weight Patches!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_weight"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In one game, get 10 or more Glide Patches!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_glide"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get 30 or more Glide Patches!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_glide"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In one game, get 10 or more Top Speed Patches!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_top_speed"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In one game, get 10 or more Charge Patches!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_charge"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In one game, get 10 or more Defense Patches!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_defense"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -1682,7 +1812,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_wheelie_bike",
+                                "$GATED|progression_machines|machine_warp_star"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1704,7 +1839,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_slick_star",
+                                "$GATED|progression_machines|machine_formula_star"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1748,7 +1888,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_swerve_star",
+                                "$GATED|progression_machines|machine_wheelie_bike"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1770,7 +1915,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_rocket_star",
+                                "$GATED|progression_machines|machine_slick_star"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1792,7 +1942,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|special_offense_sensor_bomb"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1814,7 +1966,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_warp_star",
+                                "$GATED|progression_machines|machine_swerve_star"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1836,7 +1993,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "$GATED|progression_machines|machine_rocket_star"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1858,7 +2020,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|special_offense_gold_spike"
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1880,7 +2044,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_scooter_bike",
+                                "$GATED|progression_machines|machine_compact_star"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1902,7 +2071,12 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_formula_star",
+                                "$GATED|progression_machines|machine_turbo_star"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -1923,13 +2097,23 @@
                 "sections": [
                     {
                         "name": "In the city, bust Wheelie Bike while riding on Warpstar!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_wheelie_bike",
+                                "$GATED|progression_machines|machine_warp_star"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In the city, bust Slick Star while riding on Formula Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_slick_star",
+                                "$GATED|progression_machines|machine_formula_star"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1941,49 +2125,83 @@
                     },
                     {
                         "name": "In the city, bust Swerve Star while riding on Wheelie Bike!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_swerve_star",
+                                "$GATED|progression_machines|machine_wheelie_bike"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In the city, bust Rocket Star while riding on Slick Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_rocket_star",
+                                "$GATED|progression_machines|machine_slick_star"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Use Sensor Bombs to KO rivals 3 times or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|special_offense_sensor_bomb"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In the city, bust Warpstar while riding on Swerve Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_warp_star",
+                                "$GATED|progression_machines|machine_swerve_star"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In the city, bust Turbo Star while riding on Rocket Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "$GATED|progression_machines|machine_rocket_star"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Use Gold Spikes to KO rivals 3 times or more!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$GATED|progression_ct_items|special_offense_gold_spike"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In the city, bust Wheelie Scooter while riding Compact Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_scooter_bike",
+                                "$GATED|progression_machines|machine_compact_star"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "In the city, bust Formula Star while riding on Turbo Star!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_machines|machine_formula_star",
+                                "$GATED|progression_machines|machine_turbo_star"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -2231,9 +2449,11 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "@Stadium/HIGH JUMP Jump higher than 1,000 feet!",
-                            "@Stadium/DESTRUCTION DERBY (All)/KO enemies over 150 times!",
-                            "@Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
+                            [
+                                "part_dragoon_a",
+                                "part_dragoon_b",
+                                "part_dragoon_c"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -2257,9 +2477,11 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "@City Trial/City/Destroy all of the dilapidated houses!",
-                            "@Stadium/DESTRUCTION DERBY (All)/KO enemies over 150 times!",
-                            "@Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
+                            [
+                                "part_hydra_x",
+                                "part_hydra_y",
+                                "part_hydra_z"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -2282,7 +2504,16 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_ct_items|part_hydra_x",
+                                "$GATED|progression_ct_items|part_hydra_y",
+                                "$GATED|progression_ct_items|part_hydra_z",
+                                "$GATED|progression_ct_items|part_dragoon_a",
+                                "$GATED|progression_ct_items|part_dragoon_b",
+                                "$GATED|progression_ct_items|part_dragoon_c"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "City Trial Checklist",
@@ -2328,7 +2559,16 @@
                     },
                     {
                         "name": "In one match, complete both Dragoon and Hydra!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_ct_items|part_hydra_x",
+                                "$GATED|progression_ct_items|part_hydra_y",
+                                "$GATED|progression_ct_items|part_hydra_z",
+                                "$GATED|progression_ct_items|part_dragoon_a",
+                                "$GATED|progression_ct_items|part_dragoon_b",
+                                "$GATED|progression_ct_items|part_dragoon_c"
+                            ]
+                        ],
                         "visibility_rules": [
                             "city_trial_progression_high_effort"
                         ],
