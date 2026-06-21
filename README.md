@@ -1,8 +1,6 @@
 # Kirby Air Ride – PopTracker Pack
 
-**SIDENOTE:** Most of these icons are for the upcoming release which is slated for July of 2026! 
-
-**SIDENOTE#2:** For any issues, suggestions,etc with the tracker please open up an issues request here on github or feel free to ping me in the KAR channel in the Archipelago Discord!
+**SIDENOTE#:** For any issues, suggestions,etc with the tracker please open up an issues request here on github or feel free to ping me in the KAR channel in the Archipelago Discord!
 
 A [PopTracker](https://github.com/black-sliver/PopTracker) pack for
 **Kirby Air Ride (GameCube, NTSC)** with full [Archipelago](https://archipelago.gg) autotracking
@@ -45,35 +43,39 @@ all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks. (More 
 The tracker is divided into:
 
 **Bottom bar**
-- **Items** — permanent stat patches with active/inactive states
+- **Patches** - Permament patches that stick throughout all modes
+- **Patches Unlock** - Unlocks the aiblity to start stacking permament patches
 - **Stadiums** (×2) — stadium unlock icons grouped by category
 - **Boxes** — stadium unlock icons grouped by category
 - **Special Offense** - Unique and special offense items
 - **Machines** - Generic machiens
 - **CT Vehicles** - Vehciles only available in CT (City Trial)
 - **Characater Unlock** - Unique characteres you can unlock
-- **Kirby Colors8** - Kirb colors you can unlock
+- **Kirby Colors** - Kirb colors you can unlock
 - **Copy Abilities** - Copy abilities
 - **City Trial Events** - Events that happen randomly in CT mode (City Trial)
 - **Utility** - List settings such as deathlink, traplink, energylink and so on
 - **Top Ride Items Only** - Items only found in top ride mode
 - **Top Ride Maps** - Maps just in TR mode. (Top Ride)
 - **Top Ride Machines** - Machines only in TR. (Top Ride)
-- **Air Ride Maps** - Maps just in AR mode. (Air Ride)
+- **Air Ride Maps** - Maps just in AR mode. (Air Ride
+- **Seed Settings** - Based on gating options in user YAML
+- **Legendary Parts** - Pieces of the legendary Dragoon and Hydra
 
 **Map area** (three tabs)
 - **Air Ride** — course select map + checklist grid layer
 - **City Trial** — overworld map + checklist grid layer
 - **Top Ride** — course select map + checklist grid layer
 
-Each tab has two map layers: switch with the arrow controls or by clicking the layer icon.
+Each tab has two map layers: switch by clicking the layer icon.
 
 **City Trial Screenshot:**
-<img width="2560" height="1464" alt="test 2 (all icons highlighted-city trial)" src="https://github.com/user-attachments/assets/c26a97df-3acf-4c14-8dc4-e1bb82206869" />
+<img width="2563" height="866" alt="image" src="https://github.com/user-attachments/assets/15fc8794-b98d-44e9-a11a-01b4a204c271" />
 
 
 **Air Ride Screenshot:**
-<img width="2560" height="1398" alt="test 2 (greyed out icons-air ride)" src="https://github.com/user-attachments/assets/1d858186-3611-420e-8497-1324a6b4d5d9" />
+<img width="2568" height="533" alt="image" src="https://github.com/user-attachments/assets/eac42703-2f07-449b-a8dc-cbc3be2a94a5" />
+
 
 
 ## Notes
