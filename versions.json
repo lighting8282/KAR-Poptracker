@@ -1,9 +1,9 @@
 {
     "versions": [
         {
-            "package_version": "0.2.0",
-            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.2.0/KAR-Poptracker-v0.2.0.zip",
-            "sha256": "90e0421e578096685d63e8841cce13d76fb37e614d7552ba43ab874c7291b81c",
+            "package_version": "0.2.1",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.2.1/KAR-Poptracker-v0.2.1.zip",
+            "sha256": "efbcc4d64b66bf9aeaf9c75052b40237b6d0652e5ea88794cd6dfb5ecaa75d6c",
             "changelog": [
                 "Full check logic mirrored from apworld v1.0.0 - checks now show green only when that category's unlocks are held: machines (incl. 'bust X riding Y' pairs), abilities, events, patches, boxes, City Trial items, Top Ride items, Air Ride/Top Ride courses, stadiums, legendary completion, item-pickup counts, and prerequisite chains",
                 "'Fill in over 100 Checklist blocks' stays out of logic until 99 boxes are filled (per mode; Stadium counts toward City Trial)",
