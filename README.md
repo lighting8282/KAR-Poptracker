@@ -70,11 +70,13 @@ The tracker is divided into:
 Each tab has two map layers: switch by clicking the layer icon.
 
 **City Trial Screenshot:**
-<img width="2563" height="866" alt="image" src="https://github.com/user-attachments/assets/15fc8794-b98d-44e9-a11a-01b4a204c271" />
+<img width="2561" height="1401" alt="image" src="https://github.com/user-attachments/assets/227defc7-ca9f-4cd5-8907-408982181a21" />
+
 
 
 **Air Ride Screenshot:**
-<img width="2568" height="533" alt="image" src="https://github.com/user-attachments/assets/eac42703-2f07-449b-a8dc-cbc3be2a94a5" />
+<img width="2557" height="1401" alt="image" src="https://github.com/user-attachments/assets/6802cdf9-a19e-4f28-9de9-6d87f25a4463" />
+
 
 
 
