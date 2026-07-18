@@ -1,16 +1,13 @@
 {
     "versions": [
         {
-            "package_version": "0.2.1",
-            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.2.1/KAR-Poptracker-v0.2.1.zip",
-            "sha256": "efbcc4d64b66bf9aeaf9c75052b40237b6d0652e5ea88794cd6dfb5ecaa75d6c",
+            "package_version": "0.2.2",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.2.2/KAR-Poptracker-v0.2.2.zip",
+            "sha256": "20256487b34f552b8fd6366c975a8a4fcdfc03e86f5be8c42e7c156b0e4bd331",
             "changelog": [
-                "Full check logic mirrored from apworld v1.0.0 - checks now show green only when that category's unlocks are held: machines (incl. 'bust X riding Y' pairs), abilities, events, patches, boxes, City Trial items, Top Ride items, Air Ride/Top Ride courses, stadiums, legendary completion, item-pickup counts, and prerequisite chains",
-                "'Fill in over 100 Checklist blocks' stays out of logic until 99 boxes are filled (per mode; Stadium counts toward City Trial)",
-                "Seed Settings indicators renamed to progression_* and now drive the check logic",
-                "Added Stadium Prediction event and Invincible Candy Top Ride item",
-                "Top Ride control machines auto-light on connect and grey out when disconnected",
-                "Broadcast view now shows all item panels"
+                "Fixed a crash on connect/location-check caused by a broken tracker address for one Top Ride check",
+                "Fixed stale, non-functional access rules on the Dragoon/Hydra 'Unlock Parts' map entries",
+                "Removed the unused Compact (Small Screen) tracker variant"
             ]
         },
         {
