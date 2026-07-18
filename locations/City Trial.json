@@ -2540,9 +2540,11 @@
                     {
                         "name": "Unlock Dragoon Parts A, B, and C on the Checklist!",
                         "access_rules": [
-                            "@Stadium/HIGH JUMP Jump higher than 1,000 feet!",
-                            "@Stadium/DESTRUCTION DERBY (All)/KO enemies over 150 times!",
-                            "@Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
+                            [
+                                "part_dragoon_a",
+                                "part_dragoon_b",
+                                "part_dragoon_c"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -2550,9 +2552,11 @@
                     {
                         "name": "Unlock Hydra Parts X, Y, and Z on the Checklist!",
                         "access_rules": [
-                            "@City Trial/City/Destroy all of the dilapidated houses!",
-                            "@Stadium/DESTRUCTION DERBY (All)/KO enemies over 150 times!",
-                            "@Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
+                            [
+                                "part_hydra_x",
+                                "part_hydra_y",
+                                "part_hydra_z"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1

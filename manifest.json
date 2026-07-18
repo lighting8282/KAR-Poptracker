@@ -19,13 +19,6 @@
             "flags": [
                 "ap"
             ]
-        },
-        "Compact": {
-            "display_name": "Compact (Small Screen)",
-            "tracker": "Compact",
-            "flags": [
-                "ap"
-            ]
         }
     },
     "min_poptracker_version": "0.31.0"
