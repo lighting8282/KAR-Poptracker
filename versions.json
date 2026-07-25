@@ -1,13 +1,11 @@
 {
     "versions": [
         {
-            "package_version": "0.2.2",
-            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.2.2/KAR-Poptracker-v0.2.2.zip",
-            "sha256": "20256487b34f552b8fd6366c975a8a4fcdfc03e86f5be8c42e7c156b0e4bd331",
+            "package_version": "0.2.3",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.2.3/KAR-Poptracker-v0.2.3.zip",
+            "sha256": "a2407c34a627baf7e945b5496fa5c8af6df1d1f70f7033f5f69d49bf2681a279",
             "changelog": [
-                "Fixed a crash on connect/location-check caused by a broken tracker address for one Top Ride check",
-                "Fixed stale, non-functional access rules on the Dragoon/Hydra 'Unlock Parts' map entries",
-                "Removed the unused Compact (Small Screen) tracker variant"
+                "Fixed one-time give items (Copy Ability gives, Event Triggers, item/food gives, etc.) falsely lighting tracker icons and putting checks in logic - only permanent unlocks and checklist rewards count now"
             ]
         },
         {
