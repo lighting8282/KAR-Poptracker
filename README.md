@@ -78,6 +78,17 @@ Each tab has two map layers: switch by clicking the layer icon.
 <img width="2557" height="1401" alt="image" src="https://github.com/user-attachments/assets/6802cdf9-a19e-4f28-9de9-6d87f25a4463" />
 
 
+**Top Ride Screenshot:**
+<img width="2564" height="871" alt="image" src="https://github.com/user-attachments/assets/a816e396-997d-4f99-a811-5dfff15ce8e4" />
+
+
+
+**Custom AP Checklist Screenshot:**
+<img width="2563" height="867" alt="image" src="https://github.com/user-attachments/assets/65937232-1d12-405c-b858-02540f9b54f4" />
+
+
+
+
 
 
 ## Notes
