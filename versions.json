@@ -1,14 +1,15 @@
 {
     "versions": [
         {
-            "package_version": "0.3.0",
-            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.3.0/KAR-Poptracker-v0.3.0.zip",
-            "sha256": "7d1459203b558c074b4ad25214b887c9312380053fec3480ac42b65159ee24af",
+            "package_version": "0.3.1",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.3.1/KAR-Poptracker-v0.3.1.zip",
+            "sha256": "9c233bf509010c8f0f3b8a95869f88c55953acc8517a658d88f56b158b07d881",
             "changelog": [
                 "New 'Custom' tab tracking the 50 Archipelago-exclusive checks added by the latest apworld (these were previously untracked entirely)",
                 "Updated item mappings for the latest apworld, fixing ids that shifted and could light the wrong icon",
                 "Air Ride machine checks no longer require reaching an unrelated check first, matching the apworld's updated logic",
-                "City Trial checklist art now shows the 0/120 counter and checkbox like the other modes"
+                "City Trial checklist art now shows the 0/120 counter and checkbox like the other modes",
+                "AP Kirbs logo by Swiggity"
             ]
         },
         {
