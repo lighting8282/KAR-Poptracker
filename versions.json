@@ -1,11 +1,14 @@
 {
     "versions": [
         {
-            "package_version": "0.2.3",
-            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.2.3/KAR-Poptracker-v0.2.3.zip",
-            "sha256": "a2407c34a627baf7e945b5496fa5c8af6df1d1f70f7033f5f69d49bf2681a279",
+            "package_version": "0.3.0",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.3.0/KAR-Poptracker-v0.3.0.zip",
+            "sha256": "7d1459203b558c074b4ad25214b887c9312380053fec3480ac42b65159ee24af",
             "changelog": [
-                "Fixed one-time give items (Copy Ability gives, Event Triggers, item/food gives, etc.) falsely lighting tracker icons and putting checks in logic - only permanent unlocks and checklist rewards count now"
+                "New 'Custom' tab tracking the 50 Archipelago-exclusive checks added by the latest apworld (these were previously untracked entirely)",
+                "Updated item mappings for the latest apworld, fixing ids that shifted and could light the wrong icon",
+                "Air Ride machine checks no longer require reaching an unrelated check first, matching the apworld's updated logic",
+                "City Trial checklist art now shows the 0/120 counter and checkbox like the other modes"
             ]
         },
         {
