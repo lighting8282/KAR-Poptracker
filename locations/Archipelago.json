@@ -1,0 +1,1574 @@
+[
+    {
+        "name": "Archipelago",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "City Trial: Visit the flower on top of Castle Hall on foot!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 168,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Visit the flower on top of Castle Hall on foot!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Break all the coral in one game!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 198,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Break all the coral in one game!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Go out of bounds!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 228,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Go out of bounds!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, get 10 or more HP Patches!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_patches|patch_unlock_hp"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 258,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, get 10 or more HP Patches!",
+                        "access_rules": [
+                            "$GATED|progression_patches|patch_unlock_hp"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Collect 5 All Ups in total!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|all_up"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 288,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Collect 5 All Ups in total!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|all_up"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Ice Creams!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_ice_cream_cone"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 318,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Ice Creams!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_ice_cream_cone"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Rice Balls!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_rice_ball"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 348,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Rice Balls!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_rice_ball"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Chickens!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_roast_chicken"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 377,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Chickens!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_roast_chicken"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more plates of Curry!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_curry"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 407,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, eat 3 or more plates of Curry!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_curry"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more bowls of Ramen!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_ramen"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 437,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, eat 3 or more bowls of Ramen!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_ramen"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Omelets!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_omelet"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 467,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Omelets!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_omelet"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Hamburgers!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_hamburger"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 497,
+                        "y": 71
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Hamburgers!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_hamburger"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Apples!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_apple"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 168,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Apples!",
+                        "access_rules": [
+                            "$GATED|progression_ct_items|food_apple"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 1 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 198,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 1 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 2 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 228,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 2 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 3 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 258,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 3 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 4 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 288,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 4 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 5 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 318,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 5 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 6 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 348,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 6 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 7 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 377,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 7 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 8 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 407,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 8 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 9 Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 437,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 9 Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: HIGH JUMP Jump higher than 1,500 feet!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 467,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: HIGH JUMP Jump higher than 1,500 feet!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: AIR GLIDER fly more than 2,000 feet!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 497,
+                        "y": 101
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: AIR GLIDER fly more than 2,000 feet!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: KIRBY MELEE 1 In one game, KO over 100 enemies by yourself!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 168,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: KIRBY MELEE 1 In one game, KO over 100 enemies by yourself!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: KIRBY MELEE 2 In one game, KO over 60 enemies by yourself!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 198,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: KIRBY MELEE 2 In one game, KO over 60 enemies by yourself!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 1 Finish in 1st place on Bulk Star!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_machines|machine_bulk_star"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 228,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 1 Finish in 1st place on Bulk Star!",
+                        "access_rules": [
+                            "$GATED|progression_machines|machine_bulk_star"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: SINGLE RACE 1 Finish in 1st place 3 times as Purple Kirby!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_colors|kirby_purple"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 258,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: SINGLE RACE 1 Finish in 1st place 3 times as Purple Kirby!",
+                        "access_rules": [
+                            "$GATED|progression_colors|kirby_purple"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: In any DRAG RACE, have 2 players finish within 0.10 seconds!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 288,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: In any DRAG RACE, have 2 players finish within 0.10 seconds!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: On any course, have 2 players finish within 0.10 seconds!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 318,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: On any course, have 2 players finish within 0.10 seconds!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: Finish a race as every Kirby color!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    [
+                        "$GATED|progression_colors|kirby_blue",
+                        "$GATED|progression_colors|kirby_brown",
+                        "$GATED|progression_colors|kirby_green",
+                        "$GATED|progression_colors|kirby_pink",
+                        "$GATED|progression_colors|kirby_purple",
+                        "$GATED|progression_colors|kirby_red",
+                        "$GATED|progression_colors|kirby_white",
+                        "$GATED|progression_colors|kirby_yellow"
+                    ]
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 348,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: Finish a race as every Kirby color!",
+                        "access_rules": [
+                            [
+                                "$GATED|progression_colors|kirby_blue",
+                                "$GATED|progression_colors|kirby_brown",
+                                "$GATED|progression_colors|kirby_green",
+                                "$GATED|progression_colors|kirby_pink",
+                                "$GATED|progression_colors|kirby_purple",
+                                "$GATED|progression_colors|kirby_red",
+                                "$GATED|progression_colors|kirby_white",
+                                "$GATED|progression_colors|kirby_yellow"
+                            ]
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Visit the model city on foot!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 377,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Visit the model city on foot!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Visit the flower on top of the volcanic cliffs on foot!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 407,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Visit the flower on top of the volcanic cliffs on foot!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Visit the top of the garden in the sky on foot!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 437,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Visit the top of the garden in the sky on foot!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Fly to the highest point possible!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 467,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Fly to the highest point possible!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: Finish in 1st place as Meta Knight!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_machines|character_unlock_meta_knight"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 497,
+                        "y": 131
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: Finish in 1st place as Meta Knight!",
+                        "access_rules": [
+                            "$GATED|progression_machines|character_unlock_meta_knight"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: Finish in 1st place as King Dedede!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_machines|character_unlock_king_dedede"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 168,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: Finish in 1st place as King Dedede!",
+                        "access_rules": [
+                            "$GATED|progression_machines|character_unlock_king_dedede"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Finish in 1st place!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 198,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: NEBULA BELT Finish in 1st place!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Race over 5,500 feet in 2 minutes!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 228,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: NEBULA BELT Race over 5,500 feet in 2 minutes!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Finish 2 laps in under 02:30:00!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 258,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: NEBULA BELT Finish 2 laps in under 02:30:00!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Finish in 1st place on Wheelie Scooter!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_machines|machine_scooter_bike"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 288,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: NEBULA BELT Finish in 1st place on Wheelie Scooter!",
+                        "access_rules": [
+                            "$GATED|progression_machines|machine_scooter_bike"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Fly 10 seconds on Dragoon, Flight or Winged Star!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 318,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: NEBULA BELT Fly 10 seconds on Dragoon, Flight or Winged Star!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: DESTRUCTION DERBY 3 In one game, KO a rival 10 times or more!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 348,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: DESTRUCTION DERBY 3 In one game, KO a rival 10 times or more!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: DESTRUCTION DERBY (All) As King Dedede, KO 10 Kirbys in one game!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_machines|character_unlock_king_dedede"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 377,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: DESTRUCTION DERBY (All) As King Dedede, KO 10 Kirbys in one game!",
+                        "access_rules": [
+                            "$GATED|progression_machines|character_unlock_king_dedede"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Get the Mic ability from the Copy Chance Wheel!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_abilities|ability_mike"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 407,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Get the Mic ability from the Copy Chance Wheel!",
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_mike"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stadium: KIRBY MELEE (All) In one game, KO 10 enemies as Mic Kirby!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_abilities|ability_mike"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 437,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Stadium: KIRBY MELEE (All) In one game, KO 10 enemies as Mic Kirby!",
+                        "access_rules": [
+                            "$GATED|progression_abilities|ability_mike"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, break 20 or more blue boxes!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_boxes|box_blue"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 467,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, break 20 or more blue boxes!",
+                        "access_rules": [
+                            "$GATED|progression_boxes|box_blue"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, break 10 or more green boxes!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_boxes|box_green"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 497,
+                        "y": 161
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, break 10 or more green boxes!",
+                        "access_rules": [
+                            "$GATED|progression_boxes|box_green"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, break 10 or more red boxes!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$GATED|progression_boxes|box_red"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 168,
+                        "y": 191
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, break 10 or more red boxes!",
+                        "access_rules": [
+                            "$GATED|progression_boxes|box_red"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Air Ride: FANTASY MEADOWS Take the shortcut!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 198,
+                        "y": 191
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Air Ride: FANTASY MEADOWS Take the shortcut!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ],
+        "sections": [
+            {
+                "name": "City Trial: Visit the flower on top of Castle Hall on foot!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Break all the coral in one game!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Go out of bounds!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, get 10 or more HP Patches!",
+                "access_rules": [
+                    "$GATED|progression_patches|patch_unlock_hp"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Collect 5 All Ups in total!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|all_up"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Ice Creams!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_ice_cream_cone"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Rice Balls!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_rice_ball"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Chickens!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_roast_chicken"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more plates of Curry!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_curry"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more bowls of Ramen!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_ramen"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Omelets!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_omelet"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Hamburgers!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_hamburger"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, eat 3 or more Apples!",
+                "access_rules": [
+                    "$GATED|progression_ct_items|food_apple"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 1 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 2 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 3 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 4 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 5 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 6 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 7 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 8 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 9 Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: HIGH JUMP Jump higher than 1,500 feet!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: AIR GLIDER fly more than 2,000 feet!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: KIRBY MELEE 1 In one game, KO over 100 enemies by yourself!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: KIRBY MELEE 2 In one game, KO over 60 enemies by yourself!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 1 Finish in 1st place on Bulk Star!",
+                "access_rules": [
+                    "$GATED|progression_machines|machine_bulk_star"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: SINGLE RACE 1 Finish in 1st place 3 times as Purple Kirby!",
+                "access_rules": [
+                    "$GATED|progression_colors|kirby_purple"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: In any DRAG RACE, have 2 players finish within 0.10 seconds!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: On any course, have 2 players finish within 0.10 seconds!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: Finish a race as every Kirby color!",
+                "access_rules": [
+                    [
+                        "$GATED|progression_colors|kirby_blue",
+                        "$GATED|progression_colors|kirby_brown",
+                        "$GATED|progression_colors|kirby_green",
+                        "$GATED|progression_colors|kirby_pink",
+                        "$GATED|progression_colors|kirby_purple",
+                        "$GATED|progression_colors|kirby_red",
+                        "$GATED|progression_colors|kirby_white",
+                        "$GATED|progression_colors|kirby_yellow"
+                    ]
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Visit the model city on foot!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Visit the flower on top of the volcanic cliffs on foot!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Visit the top of the garden in the sky on foot!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Fly to the highest point possible!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: Finish in 1st place as Meta Knight!",
+                "access_rules": [
+                    "$GATED|progression_machines|character_unlock_meta_knight"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: Finish in 1st place as King Dedede!",
+                "access_rules": [
+                    "$GATED|progression_machines|character_unlock_king_dedede"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Finish in 1st place!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Race over 5,500 feet in 2 minutes!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Finish 2 laps in under 02:30:00!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Finish in 1st place on Wheelie Scooter!",
+                "access_rules": [
+                    "$GATED|progression_machines|machine_scooter_bike"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: NEBULA BELT Fly 10 seconds on Dragoon, Flight or Winged Star!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: DESTRUCTION DERBY 3 In one game, KO a rival 10 times or more!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: DESTRUCTION DERBY (All) As King Dedede, KO 10 Kirbys in one game!",
+                "access_rules": [
+                    "$GATED|progression_machines|character_unlock_king_dedede"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Get the Mic ability from the Copy Chance Wheel!",
+                "access_rules": [
+                    "$GATED|progression_abilities|ability_mike"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stadium: KIRBY MELEE (All) In one game, KO 10 enemies as Mic Kirby!",
+                "access_rules": [
+                    "$GATED|progression_abilities|ability_mike"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, break 20 or more blue boxes!",
+                "access_rules": [
+                    "$GATED|progression_boxes|box_blue"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, break 10 or more green boxes!",
+                "access_rules": [
+                    "$GATED|progression_boxes|box_green"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, break 10 or more red boxes!",
+                "access_rules": [
+                    "$GATED|progression_boxes|box_red"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Air Ride: FANTASY MEADOWS Take the shortcut!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

@@ -34,5 +34,17 @@
         "location_size": 16,
         "location_border_thickness": 2,
         "img": "images/maps/City Trial Checklist.png"
+    },
+    {
+        "name": "Archipelago Checklist",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "images/maps/Archipelago Checklist.png"
+    },
+    {
+        "name": "Archipelago",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "images/maps/Archipelago.png"
     }
 ]

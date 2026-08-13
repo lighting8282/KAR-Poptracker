@@ -31,6 +31,16 @@
                         "Top Ride Checklist"
                     ]
                 }
+            },
+            {
+                "title": "Custom",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Archipelago",
+                        "Archipelago Checklist"
+                    ]
+                }
             }
         ]
     },
@@ -64,6 +74,16 @@
                     "maps": [
                         "Top Ride",
                         "Top Ride Checklist"
+                    ]
+                }
+            },
+            {
+                "title": "Custom",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Archipelago",
+                        "Archipelago Checklist"
                     ]
                 }
             }
