@@ -1795,7 +1795,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    [
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1918,7 +1920,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_rocket_star",
-                                "$GATED|progression_machines|machine_slick_star"
+                                "$GATED|progression_machines|machine_slick_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "map_locations": [
@@ -1931,7 +1934,11 @@
                         "sections": [
                             {
                                 "name": "In the city, bust Rocket Star while riding on Slick Star!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -2139,7 +2146,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_rocket_star",
-                                "$GATED|progression_machines|machine_slick_star"
+                                "$GATED|progression_machines|machine_slick_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "visibility_rules": [],

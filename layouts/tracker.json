@@ -165,6 +165,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Base Abilities",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "base_abilities_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Utility",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -437,6 +447,16 @@
                                 },
                                 {
                                     "type": "group",
+                                    "header": "Base Abilities",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "base_abilities_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
                                     "header": "Utility",
                                     "h_alignment": "left",
                                     "margin": "0,0,3,0",
@@ -697,6 +717,16 @@
                                     "content": {
                                         "type": "layout",
                                         "key": "copy_abilities_panel"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Base Abilities",
+                                    "h_alignment": "left",
+                                    "margin": "0,0,3,0",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "base_abilities_panel"
                                     }
                                 },
                                 {

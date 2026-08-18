@@ -5,7 +5,9 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            [
+                "$GATED|progression_base_abilities|base_ability_charge"
+            ]
         ],
         "children": [
             {
@@ -613,7 +615,8 @@
                     [
                         "$GATED|progression_stadiums|stadium_drag_race_4",
                         "$GATED|progression_machines|machine_turbo_star",
-                        "@Stadium/DRAG RACE 3 Finish in less than 002700!"
+                        "@Stadium/DRAG RACE 3 Finish in less than 002700!",
+                        "$GATED|progression_base_abilities|base_ability_charge"
                     ]
                 ],
                 "map_locations": [
@@ -627,7 +630,10 @@
                     {
                         "name": "DRAG RACE 4 Finish in less than 003300 on Turbo Star!",
                         "access_rules": [
-                            "stadium_drag_race_4"
+                            [
+                                "stadium_drag_race_4",
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1688,7 +1694,10 @@
             {
                 "name": "DRAG RACE 4 Finish in less than 003300 on Turbo Star!",
                 "access_rules": [
-                    "stadium_drag_race_4"
+                    [
+                        "stadium_drag_race_4",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "visibility_rules": [],
                 "item_count": 1

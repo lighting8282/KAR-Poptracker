@@ -538,6 +538,7 @@ function applyProgressionSettings(slot_data)
     local gated = {
         ["machines_gated"]            = "progression_machines",
         ["abilities_gated"]           = "progression_abilities",
+        ["base_abilities_gated"]      = "progression_base_abilities",
         ["colors_gated"]              = "progression_colors",
         ["city_trial_stadiums_gated"] = "progression_stadiums",
         ["city_trial_patches_gated"]  = "progression_patches",

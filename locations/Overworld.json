@@ -78,88 +78,88 @@
                         "ref": "Air Ride/MAGMA FLOWS/Race over 4,800 feet in 2 minutes!"
                     },
                     {
-                        "name": "MAGMA FLOWS - Finish in under 030400!",
-                        "ref": "Air Ride/MAGMA FLOWS/Finish in under 030400!"
+                        "name": "MAGMA FLOWS - TA: Finish in under 03:04:00!",
+                        "ref": "Air Ride/MAGMA FLOWS/TA: Finish in under 03:04:00!"
                     },
                     {
-                        "name": "MAGMA FLOWS - Finish 1 lap in under 010100!",
-                        "ref": "Air Ride/MAGMA FLOWS/Finish 1 lap in under 010100!"
+                        "name": "MAGMA FLOWS - FR: Finish 1 lap in under 01:01:00!",
+                        "ref": "Air Ride/MAGMA FLOWS/FR: Finish 1 lap in under 01:01:00!"
                     },
                     {
                         "name": "MAGMA FLOWS - Use all of the Boost Panels and finish in 1st place!",
                         "ref": "Air Ride/MAGMA FLOWS/Use all of the Boost Panels and finish in 1st place!"
                     },
                     {
-                        "name": "MAGMA FLOWS - Finish 2 laps in under 022000!",
-                        "ref": "Air Ride/MAGMA FLOWS/Finish 2 laps in under 022000!"
+                        "name": "MAGMA FLOWS - Finish 2 laps in under 02:20:00!",
+                        "ref": "Air Ride/MAGMA FLOWS/Finish 2 laps in under 02:20:00!"
                     },
                     {
-                        "name": "MAGMA FLOWS - Do 1 lap under 010200 on Turbo Star!",
-                        "ref": "Air Ride/MAGMA FLOWS/Do 1 lap under 010200 on Turbo Star!"
+                        "name": "MAGMA FLOWS - FR: Do 1 lap under 01:02:00 on Turbo Star!",
+                        "ref": "Air Ride/MAGMA FLOWS/FR: Do 1 lap under 01:02:00 on Turbo Star!"
                     },
                     {
                         "name": "MAGMA FLOWS - Use all the volcano rails and finish in 1st place!",
                         "ref": "Air Ride/MAGMA FLOWS/Use all the volcano rails and finish in 1st place!"
                     },
                     {
-                        "name": "MAGMA FLOWS - Finish 2 laps in under 020100!",
-                        "ref": "Air Ride/MAGMA FLOWS/Finish 2 laps in under 020100!"
+                        "name": "MAGMA FLOWS - Finish 2 laps in under 02:01:00!",
+                        "ref": "Air Ride/MAGMA FLOWS/Finish 2 laps in under 02:01:00!"
                     },
                     {
-                        "name": "MAGMA FLOWS - Finish in under 032000!",
-                        "ref": "Air Ride/MAGMA FLOWS/Finish in under 032000!"
+                        "name": "MAGMA FLOWS - TA: Finish in under 03:20:00!",
+                        "ref": "Air Ride/MAGMA FLOWS/TA: Finish in under 03:20:00!"
                     },
                     {
-                        "name": "MAGMA FLOWS - Finish 1 lap in under 011000!",
-                        "ref": "Air Ride/MAGMA FLOWS/Finish 1 lap in under 011000!"
+                        "name": "MAGMA FLOWS - FR: Finish 1 lap in under 01:10:00!",
+                        "ref": "Air Ride/MAGMA FLOWS/FR: Finish 1 lap in under 01:10:00!"
                     },
                     {
                         "name": "MAGMA FLOWS - Bump into a flaming dragon!",
                         "ref": "Air Ride/MAGMA FLOWS/Bump into a flaming dragon!"
                     },
                     {
-                        "name": "MAGMA FLOWS - Finish in under 031500 on Shadow Star!",
-                        "ref": "Air Ride/MAGMA FLOWS/Finish in under 031500 on Shadow Star!"
+                        "name": "MAGMA FLOWS - TA: Finish in under 03:15:00 on Shadow Star!",
+                        "ref": "Air Ride/MAGMA FLOWS/TA: Finish in under 03:15:00 on Shadow Star!"
                     },
                     {
                         "name": "FANTASY MEADOWS - Race over 4,500 feet in 2 minutes!",
                         "ref": "Air Ride/FANTASY MEADOWS/Race over 4,500 feet in 2 minutes!"
                     },
                     {
-                        "name": "FANTASY MEADOWS - Finish in under 010000!",
-                        "ref": "Air Ride/FANTASY MEADOWS/Finish in under 010000!"
+                        "name": "FANTASY MEADOWS - TA: Finish in under 01:00:00!",
+                        "ref": "Air Ride/FANTASY MEADOWS/TA: Finish in under 01:00:00!"
                     },
                     {
-                        "name": "FANTASY MEADOWS - Finish 1 lap in under 002100!",
-                        "ref": "Air Ride/FANTASY MEADOWS/Finish 1 lap in under 002100!"
+                        "name": "FANTASY MEADOWS - FR: Finish 1 lap in under 00:21:00!",
+                        "ref": "Air Ride/FANTASY MEADOWS/FR: Finish 1 lap in under 00:21:00!"
                     },
                     {
                         "name": "FANTASY MEADOWS - Race 1 lap without dropping below 20 mph!",
                         "ref": "Air Ride/FANTASY MEADOWS/Race 1 lap without dropping below 20 mph!"
                     },
                     {
-                        "name": "FANTASY MEADOWS - Finish 3 laps in under 012000!",
-                        "ref": "Air Ride/FANTASY MEADOWS/Finish 3 laps in under 012000!"
+                        "name": "FANTASY MEADOWS - Finish 3 laps in under 01:20:00!",
+                        "ref": "Air Ride/FANTASY MEADOWS/Finish 3 laps in under 01:20:00!"
                     },
                     {
-                        "name": "FANTASY MEADOWS - Do 1 lap under 002300 on Wagon Star!",
-                        "ref": "Air Ride/FANTASY MEADOWS/Do 1 lap under 002300 on Wagon Star!"
+                        "name": "FANTASY MEADOWS - FR: Do 1 lap under 00:23:00 on Wagon Star!",
+                        "ref": "Air Ride/FANTASY MEADOWS/FR: Do 1 lap under 00:23:00 on Wagon Star!"
                     },
                     {
-                        "name": "FANTASY MEADOWS - Finish in under 010500 on Slick Star!",
-                        "ref": "Air Ride/FANTASY MEADOWS/Finish in under 010500 on Slick Star!"
+                        "name": "FANTASY MEADOWS - TA: Finish in under 01:05:00 on Slick Star!",
+                        "ref": "Air Ride/FANTASY MEADOWS/TA: Finish in under 01:05:00 on Slick Star!"
                     },
                     {
-                        "name": "FANTASY MEADOWS - Finish 3 laps in under 010300!",
-                        "ref": "Air Ride/FANTASY MEADOWS/Finish 3 laps in under 010300!"
+                        "name": "FANTASY MEADOWS - Finish 3 laps in under 01:03:00!",
+                        "ref": "Air Ride/FANTASY MEADOWS/Finish 3 laps in under 01:03:00!"
                     },
                     {
-                        "name": "FANTASY MEADOWS - Finish in under 011200!",
-                        "ref": "Air Ride/FANTASY MEADOWS/Finish in under 011200!"
+                        "name": "FANTASY MEADOWS - TA: Finish in under 01:12:00!",
+                        "ref": "Air Ride/FANTASY MEADOWS/TA: Finish in under 01:12:00!"
                     },
                     {
-                        "name": "FANTASY MEADOWS - Finish 1 lap in under 002400!",
-                        "ref": "Air Ride/FANTASY MEADOWS/Finish 1 lap in under 002400!"
+                        "name": "FANTASY MEADOWS - FR: Finish 1 lap in under 00:24:00!",
+                        "ref": "Air Ride/FANTASY MEADOWS/FR: Finish 1 lap in under 00:24:00!"
                     },
                     {
                         "name": "FANTASY MEADOWS - Swallow over 20 enemies and take 1st place!",
@@ -230,12 +230,12 @@
                         "ref": "Air Ride/General/Finish in 1st place while taking damage!"
                     },
                     {
-                        "name": "CELESTIAL VALLEY - Finish 2 laps in under 015600!",
-                        "ref": "Air Ride/CELESTIAL VALLEY/Finish 2 laps in under 015600!"
+                        "name": "CELESTIAL VALLEY - Finish 2 laps in under 01:56:00!",
+                        "ref": "Air Ride/CELESTIAL VALLEY/Finish 2 laps in under 01:56:00!"
                     },
                     {
-                        "name": "CELESTIAL VALLEY - Do 1 lap under 010200 on Slick Star!",
-                        "ref": "Air Ride/CELESTIAL VALLEY/Do 1 lap under 010200 on Slick Star!"
+                        "name": "CELESTIAL VALLEY - FR: Do 1 lap under 01:02:00 on Slick Star!",
+                        "ref": "Air Ride/CELESTIAL VALLEY/FR: Do 1 lap under 01:02:00 on Slick Star!"
                     },
                     {
                         "name": "CELESTIAL VALLEY - Use the Copy Chance Wheel on top of the tree!",
@@ -246,200 +246,200 @@
                         "ref": "Air Ride/CELESTIAL VALLEY/Race over 6,000 feet in 2 minutes!"
                     },
                     {
-                        "name": "CELESTIAL VALLEY - Finish in under 032000!",
-                        "ref": "Air Ride/CELESTIAL VALLEY/Finish in under 032000!"
+                        "name": "CELESTIAL VALLEY - TA: Finish in under 03:20:00!",
+                        "ref": "Air Ride/CELESTIAL VALLEY/TA: Finish in under 03:20:00!"
                     },
                     {
-                        "name": "CELESTIAL VALLEY - Finish in under 025800 on Jet Star!",
-                        "ref": "Air Ride/CELESTIAL VALLEY/Finish in under 025800 on Jet Star!"
+                        "name": "CELESTIAL VALLEY - TA: Finish in under 02:58:00 on Jet Star!",
+                        "ref": "Air Ride/CELESTIAL VALLEY/TA: Finish in under 02:58:00 on Jet Star!"
                     },
                     {
-                        "name": "CELESTIAL VALLEY - Finish 2 laps in under 022000!",
-                        "ref": "Air Ride/CELESTIAL VALLEY/Finish 2 laps in under 022000!"
+                        "name": "CELESTIAL VALLEY - Finish 2 laps in under 02:20:00!",
+                        "ref": "Air Ride/CELESTIAL VALLEY/Finish 2 laps in under 02:20:00!"
                     },
                     {
-                        "name": "CELESTIAL VALLEY - Finish in under 025600!",
-                        "ref": "Air Ride/CELESTIAL VALLEY/Finish in under 025600!"
+                        "name": "CELESTIAL VALLEY - TA: Finish in under 02:56:00!",
+                        "ref": "Air Ride/CELESTIAL VALLEY/TA: Finish in under 02:56:00!"
                     },
                     {
-                        "name": "CELESTIAL VALLEY - Finish 1 lap in under 011000!",
-                        "ref": "Air Ride/CELESTIAL VALLEY/Finish 1 lap in under 011000!"
+                        "name": "CELESTIAL VALLEY - FR: Finish 1 lap in under 01:10:00!",
+                        "ref": "Air Ride/CELESTIAL VALLEY/FR: Finish 1 lap in under 01:10:00!"
                     },
                     {
                         "name": "CELESTIAL VALLEY - Over one race, ride on both the left and right bridge railings!",
                         "ref": "Air Ride/CELESTIAL VALLEY/Over one race, ride on both the left and right bridge railings!"
                     },
                     {
-                        "name": "CELESTIAL VALLEY - Finish 1 lap in under 005700!",
-                        "ref": "Air Ride/CELESTIAL VALLEY/Finish 1 lap in under 005700!"
+                        "name": "CELESTIAL VALLEY - FR: Finish 1 lap in under 00:57:00!",
+                        "ref": "Air Ride/CELESTIAL VALLEY/FR: Finish 1 lap in under 00:57:00!"
                     },
                     {
-                        "name": "BEANSTALK PARK - Finish 2 laps in under 015600!",
-                        "ref": "Air Ride/BEANSTALK PARK/Finish 2 laps in under 015600!"
+                        "name": "BEANSTALK PARK - Finish 2 laps in under 01:56:00!",
+                        "ref": "Air Ride/BEANSTALK PARK/Finish 2 laps in under 01:56:00!"
                     },
                     {
-                        "name": "BEANSTALK PARK - Do 1 lap under 005800 on Winged Star!",
-                        "ref": "Air Ride/BEANSTALK PARK/Do 1 lap under 005800 on Winged Star!"
+                        "name": "BEANSTALK PARK - FR: Do 1 lap under 00:58:00 on Winged Star!",
+                        "ref": "Air Ride/BEANSTALK PARK/FR: Do 1 lap under 00:58:00 on Winged Star!"
                     },
                     {
-                        "name": "BEANSTALK PARK - Finish 2 laps in under 021800!",
-                        "ref": "Air Ride/BEANSTALK PARK/Finish 2 laps in under 021800!"
+                        "name": "BEANSTALK PARK - Finish 2 laps in under 02:18:00!",
+                        "ref": "Air Ride/BEANSTALK PARK/Finish 2 laps in under 02:18:00!"
                     },
                     {
-                        "name": "BEANSTALK PARK - Finish in under 031000!",
-                        "ref": "Air Ride/BEANSTALK PARK/Finish in under 031000!"
+                        "name": "BEANSTALK PARK - TA: Finish in under 03:10:00!",
+                        "ref": "Air Ride/BEANSTALK PARK/TA: Finish in under 03:10:00!"
                     },
                     {
                         "name": "BEANSTALK PARK - Race over 3 laps without riding the Ferris wheel!",
                         "ref": "Air Ride/BEANSTALK PARK/Race over 3 laps without riding the Ferris wheel!"
                     },
                     {
-                        "name": "BEANSTALK PARK - Finish in under 030000 on Rocket Star!",
-                        "ref": "Air Ride/BEANSTALK PARK/Finish in under 030000 on Rocket Star!"
+                        "name": "BEANSTALK PARK - TA: Finish in under 03:00:00 on Rocket Star!",
+                        "ref": "Air Ride/BEANSTALK PARK/TA: Finish in under 03:00:00 on Rocket Star!"
                     },
                     {
                         "name": "BEANSTALK PARK - Race over 5,500 feet in 2 minutes!",
                         "ref": "Air Ride/BEANSTALK PARK/Race over 5,500 feet in 2 minutes!"
                     },
                     {
-                        "name": "BEANSTALK PARK - Finish in under 025500!",
-                        "ref": "Air Ride/BEANSTALK PARK/Finish in under 025500!"
+                        "name": "BEANSTALK PARK - TA: Finish in under 02:55:00!",
+                        "ref": "Air Ride/BEANSTALK PARK/TA: Finish in under 02:55:00!"
                     },
                     {
-                        "name": "BEANSTALK PARK - Finish 1 lap in under 010700!",
-                        "ref": "Air Ride/BEANSTALK PARK/Finish 1 lap in under 010700!"
+                        "name": "BEANSTALK PARK - FR: Finish 1 lap in under 01:07:00!",
+                        "ref": "Air Ride/BEANSTALK PARK/FR: Finish 1 lap in under 01:07:00!"
                     },
                     {
                         "name": "BEANSTALK PARK - Swallow over 20 enemies and take 1st place!",
                         "ref": "Air Ride/BEANSTALK PARK/Swallow over 20 enemies and take 1st place!"
                     },
                     {
-                        "name": "BEANSTALK PARK - Finish 1 lap in under 005800!",
-                        "ref": "Air Ride/BEANSTALK PARK/Finish 1 lap in under 005800!"
+                        "name": "BEANSTALK PARK - FR: Finish 1 lap in under 00:58:00!",
+                        "ref": "Air Ride/BEANSTALK PARK/FR: Finish 1 lap in under 00:58:00!"
                     },
                     {
-                        "name": "SKY SANDS - Finish in under 024000!",
-                        "ref": "Air Ride/SKY SANDS/Finish in under 024000!"
+                        "name": "SKY SANDS - TA: Finish in under 02:40:00!",
+                        "ref": "Air Ride/SKY SANDS/TA: Finish in under 02:40:00!"
                     },
                     {
                         "name": "SKY SANDS - Enter the quicksand 3 times and finish in 1st place!",
                         "ref": "Air Ride/SKY SANDS/Enter the quicksand 3 times and finish in 1st place!"
                     },
                     {
-                        "name": "SKY SANDS - Finish in under 024000 on Wagon Star!",
-                        "ref": "Air Ride/SKY SANDS/Finish in under 024000 on Wagon Star!"
+                        "name": "SKY SANDS - TA: Finish in under 02:40:00 on Wagon Star!",
+                        "ref": "Air Ride/SKY SANDS/TA: Finish in under 02:40:00 on Wagon Star!"
                     },
                     {
-                        "name": "SKY SANDS - Finish 2 laps in under 014500!",
-                        "ref": "Air Ride/SKY SANDS/Finish 2 laps in under 014500!"
+                        "name": "SKY SANDS - Finish 2 laps in under 01:45:00!",
+                        "ref": "Air Ride/SKY SANDS/Finish 2 laps in under 01:45:00!"
                     },
                     {
-                        "name": "SKY SANDS - Finish 1 lap in under 010500!",
-                        "ref": "Air Ride/SKY SANDS/Finish 1 lap in under 010500!"
+                        "name": "SKY SANDS - FR: Finish 1 lap in under 01:05:00!",
+                        "ref": "Air Ride/SKY SANDS/FR: Finish 1 lap in under 01:05:00!"
                     },
                     {
                         "name": "SKY SANDS - Race over 4,000 feet in 2 minutes!",
                         "ref": "Air Ride/SKY SANDS/Race over 4,000 feet in 2 minutes!"
                     },
                     {
-                        "name": "SKY SANDS - Finish 1 lap in under 005300!",
-                        "ref": "Air Ride/SKY SANDS/Finish 1 lap in under 005300!"
+                        "name": "SKY SANDS - FR: Finish 1 lap in under 00:53:00!",
+                        "ref": "Air Ride/SKY SANDS/FR: Finish 1 lap in under 00:53:00!"
                     },
                     {
                         "name": "SKY SANDS - Open the trapdoor exactly 3 times and finish in 1st place!",
                         "ref": "Air Ride/SKY SANDS/Open the trapdoor exactly 3 times and finish in 1st place!"
                     },
                     {
-                        "name": "SKY SANDS - Finish 2 laps in under 020500!",
-                        "ref": "Air Ride/SKY SANDS/Finish 2 laps in under 020500!"
+                        "name": "SKY SANDS - Finish 2 laps in under 02:05:00!",
+                        "ref": "Air Ride/SKY SANDS/Finish 2 laps in under 02:05:00!"
                     },
                     {
-                        "name": "SKY SANDS - Finish in under 031000!",
-                        "ref": "Air Ride/SKY SANDS/Finish in under 031000!"
+                        "name": "SKY SANDS - TA: Finish in under 03:10:00!",
+                        "ref": "Air Ride/SKY SANDS/TA: Finish in under 03:10:00!"
                     },
                     {
-                        "name": "SKY SANDS - Do 1 lap under 010500 on Bulk Star!",
-                        "ref": "Air Ride/SKY SANDS/Do 1 lap under 010500 on Bulk Star!"
+                        "name": "SKY SANDS - FR: Do 1 lap under 01:05:00 on Bulk Star!",
+                        "ref": "Air Ride/SKY SANDS/FR: Do 1 lap under 01:05:00 on Bulk Star!"
                     },
                     {
                         "name": "SKY SANDS - Break all of the coral and finish in 1st place!",
                         "ref": "Air Ride/SKY SANDS/Break all of the coral and finish in 1st place!"
                     },
                     {
-                        "name": "MACHINE PASSAGE - Finish in under 024800!",
-                        "ref": "Air Ride/MACHINE PASSAGE/Finish in under 024800!"
+                        "name": "MACHINE PASSAGE - TA: Finish in under 02:48:00!",
+                        "ref": "Air Ride/MACHINE PASSAGE/TA: Finish in under 02:48:00!"
                     },
                     {
                         "name": "MACHINE PASSAGE - Race over 4,500 feet in 2 minutes!",
                         "ref": "Air Ride/MACHINE PASSAGE/Race over 4,500 feet in 2 minutes!"
                     },
                     {
-                        "name": "MACHINE PASSAGE - Finish 2 laps in under 014800!",
-                        "ref": "Air Ride/MACHINE PASSAGE/Finish 2 laps in under 014800!"
+                        "name": "MACHINE PASSAGE - Finish 2 laps in under 01:48:00!",
+                        "ref": "Air Ride/MACHINE PASSAGE/Finish 2 laps in under 01:48:00!"
                     },
                     {
-                        "name": "MACHINE PASSAGE - Finish 1 lap in under 010500!",
-                        "ref": "Air Ride/MACHINE PASSAGE/Finish 1 lap in under 010500!"
+                        "name": "MACHINE PASSAGE - FR: Finish 1 lap in under 01:05:00!",
+                        "ref": "Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 01:05:00!"
                     },
                     {
                         "name": "MACHINE PASSAGE - Finish in 1st place without touching the walls even once!",
                         "ref": "Air Ride/MACHINE PASSAGE/Finish in 1st place without touching the walls even once!"
                     },
                     {
-                        "name": "MACHINE PASSAGE - Finish 2 laps in under 021000!",
-                        "ref": "Air Ride/MACHINE PASSAGE/Finish 2 laps in under 021000!"
+                        "name": "MACHINE PASSAGE - Finish 2 laps in under 02:10:00!",
+                        "ref": "Air Ride/MACHINE PASSAGE/Finish 2 laps in under 02:10:00!"
                     },
                     {
-                        "name": "MACHINE PASSAGE - Finish 1 lap in under 005600!",
-                        "ref": "Air Ride/MACHINE PASSAGE/Finish 1 lap in under 005600!"
+                        "name": "MACHINE PASSAGE - FR: Finish 1 lap in under 00:56:00!",
+                        "ref": "Air Ride/MACHINE PASSAGE/FR: Finish 1 lap in under 00:56:00!"
                     },
                     {
-                        "name": "MACHINE PASSAGE - Finish in under 025000 on Rex Wheelie!",
-                        "ref": "Air Ride/MACHINE PASSAGE/Finish in under 025000 on Rex Wheelie!"
+                        "name": "MACHINE PASSAGE - TA: Finish in under 02:50:00 on Rex Wheelie!",
+                        "ref": "Air Ride/MACHINE PASSAGE/TA: Finish in under 02:50:00 on Rex Wheelie!"
                     },
                     {
-                        "name": "MACHINE PASSAGE - Finish in under 031000!",
-                        "ref": "Air Ride/MACHINE PASSAGE/Finish in under 031000!"
+                        "name": "MACHINE PASSAGE - TA: Finish in under 03:10:00!",
+                        "ref": "Air Ride/MACHINE PASSAGE/TA: Finish in under 03:10:00!"
                     },
                     {
-                        "name": "MACHINE PASSAGE - Do 1 lap under 005700 on Swerve Star!",
-                        "ref": "Air Ride/MACHINE PASSAGE/Do 1 lap under 005700 on Swerve Star!"
+                        "name": "MACHINE PASSAGE - FR: Do 1 lap under 00:57:00 on Swerve Star!",
+                        "ref": "Air Ride/MACHINE PASSAGE/FR: Do 1 lap under 00:57:00 on Swerve Star!"
                     },
                     {
                         "name": "MACHINE PASSAGE - Shoot 3 characters out of the cannon at one time!",
                         "ref": "Air Ride/MACHINE PASSAGE/Shoot 3 characters out of the cannon at one time!"
                     },
                     {
-                        "name": "FROZEN HILLSIDE - Finish 1 lap in under 011000!",
-                        "ref": "Air Ride/FROZEN HILLSIDE/Finish 1 lap in under 011000!"
+                        "name": "FROZEN HILLSIDE - FR: Finish 1 lap in under 01:10:00!",
+                        "ref": "Air Ride/FROZEN HILLSIDE/FR: Finish 1 lap in under 01:10:00!"
                     },
                     {
-                        "name": "FROZEN HILLSIDE - Race 2 laps in under 022000!",
-                        "ref": "Air Ride/FROZEN HILLSIDE/Race 2 laps in under 022000!"
+                        "name": "FROZEN HILLSIDE - Race 2 laps in under 02:20:00!",
+                        "ref": "Air Ride/FROZEN HILLSIDE/Race 2 laps in under 02:20:00!"
                     },
                     {
-                        "name": "FROZEN HILLSIDE - Finish in under 031400!",
-                        "ref": "Air Ride/FROZEN HILLSIDE/Finish in under 031400!"
+                        "name": "FROZEN HILLSIDE - TA: Finish in under 03:14:00!",
+                        "ref": "Air Ride/FROZEN HILLSIDE/TA: Finish in under 03:14:00!"
                     },
                     {
-                        "name": "FROZEN HILLSIDE - Finish 1 lap in under 005800!",
-                        "ref": "Air Ride/FROZEN HILLSIDE/Finish 1 lap in under 005800!"
+                        "name": "FROZEN HILLSIDE - FR: Finish 1 lap in under 00:58:00!",
+                        "ref": "Air Ride/FROZEN HILLSIDE/FR: Finish 1 lap in under 00:58:00!"
                     },
                     {
-                        "name": "FROZEN HILLSIDE - Finish in under 031000 on Turbo Star!",
-                        "ref": "Air Ride/FROZEN HILLSIDE/Finish in under 031000 on Turbo Star!"
+                        "name": "FROZEN HILLSIDE - TA: Finish in under 03:10:00 on Turbo Star!",
+                        "ref": "Air Ride/FROZEN HILLSIDE/TA: Finish in under 03:10:00 on Turbo Star!"
                     },
                     {
-                        "name": "FROZEN HILLSIDE - Finish 2 laps in under 015600!",
-                        "ref": "Air Ride/FROZEN HILLSIDE/Finish 2 laps in under 015600!"
+                        "name": "FROZEN HILLSIDE - Finish 2 laps in under 01:56:00!",
+                        "ref": "Air Ride/FROZEN HILLSIDE/Finish 2 laps in under 01:56:00!"
                     },
                     {
-                        "name": "FROZEN HILLSIDE - Finish in under 025000!",
-                        "ref": "Air Ride/FROZEN HILLSIDE/Finish in under 025000!"
+                        "name": "FROZEN HILLSIDE - TA: Finish in under 02:50:00!",
+                        "ref": "Air Ride/FROZEN HILLSIDE/TA: Finish in under 02:50:00!"
                     },
                     {
-                        "name": "FROZEN HILLSIDE - Do 1 lap under 011000 on Formula Star!",
-                        "ref": "Air Ride/FROZEN HILLSIDE/Do 1 lap under 011000 on Formula Star!"
+                        "name": "FROZEN HILLSIDE - FR: Do 1 lap under 01:10:00 on Formula Star!",
+                        "ref": "Air Ride/FROZEN HILLSIDE/FR: Do 1 lap under 01:10:00 on Formula Star!"
                     },
                     {
                         "name": "FROZEN HILLSIDE - Split at least 20 ice platforms and finish in 1st place!",
@@ -450,59 +450,59 @@
                         "ref": "Air Ride/FROZEN HILLSIDE/Race over 5,300 feet in 2 minutes!"
                     },
                     {
-                        "name": "CHECKER KNIGHTS - Finish 1 lap in under 013500!",
-                        "ref": "Air Ride/CHECKER KNIGHTS/Finish 1 lap in under 013500!"
+                        "name": "CHECKER KNIGHTS - FR: Finish 1 lap in under 01:35:00!",
+                        "ref": "Air Ride/CHECKER KNIGHTS/FR: Finish 1 lap in under 01:35:00!"
                     },
                     {
                         "name": "CHECKER KNIGHTS - Break at least 2 walls and finish in 1st place!",
                         "ref": "Air Ride/CHECKER KNIGHTS/Break at least 2 walls and finish in 1st place!"
                     },
                     {
-                        "name": "CHECKER KNIGHTS - Finish in under 043000!",
-                        "ref": "Air Ride/CHECKER KNIGHTS/Finish in under 043000!"
+                        "name": "CHECKER KNIGHTS - TA: Finish in under 04:30:00!",
+                        "ref": "Air Ride/CHECKER KNIGHTS/TA: Finish in under 04:30:00!"
                     },
                     {
-                        "name": "CHECKER KNIGHTS - Finish 1 lap in under 012000!",
-                        "ref": "Air Ride/CHECKER KNIGHTS/Finish 1 lap in under 012000!"
+                        "name": "CHECKER KNIGHTS - FR: Finish 1 lap in under 01:20:00!",
+                        "ref": "Air Ride/CHECKER KNIGHTS/FR: Finish 1 lap in under 01:20:00!"
                     },
                     {
                         "name": "CHECKER KNIGHTS - Swallow over 20 enemies and finish in 1st place!",
                         "ref": "Air Ride/CHECKER KNIGHTS/Swallow over 20 enemies and finish in 1st place!"
                     },
                     {
-                        "name": "CHECKER KNIGHTS - Finish 2 laps in under 024000!",
-                        "ref": "Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 024000!"
+                        "name": "CHECKER KNIGHTS - Finish 2 laps in under 02:40:00!",
+                        "ref": "Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 02:40:00!"
                     },
                     {
-                        "name": "CHECKER KNIGHTS - Finish in under 040000!",
-                        "ref": "Air Ride/CHECKER KNIGHTS/Finish in under 040000!"
+                        "name": "CHECKER KNIGHTS - TA: Finish in under 04:00:00!",
+                        "ref": "Air Ride/CHECKER KNIGHTS/TA: Finish in under 04:00:00!"
                     },
                     {
-                        "name": "CHECKER KNIGHTS - Do 1 lap under 012500 on Rocket Star!",
-                        "ref": "Air Ride/CHECKER KNIGHTS/Do 1 lap under 012500 on Rocket Star!"
+                        "name": "CHECKER KNIGHTS - FR: Do 1 lap under 01:25:00 on Rocket Star!",
+                        "ref": "Air Ride/CHECKER KNIGHTS/FR: Do 1 lap under 01:25:00 on Rocket Star!"
                     },
                     {
                         "name": "CHECKER KNIGHTS - Race over 5,500 feet in 2 minutes!",
                         "ref": "Air Ride/CHECKER KNIGHTS/Race over 5,500 feet in 2 minutes!"
                     },
                     {
-                        "name": "CHECKER KNIGHTS - Finish 2 laps in under 030500!",
-                        "ref": "Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 030500!"
+                        "name": "CHECKER KNIGHTS - Finish 2 laps in under 03:05:00!",
+                        "ref": "Air Ride/CHECKER KNIGHTS/Finish 2 laps in under 03:05:00!"
                     },
                     {
                         "name": "CHECKER KNIGHTS - Use spin panels 7 times or more and take 1st place!",
                         "ref": "Air Ride/CHECKER KNIGHTS/Use spin panels 7 times or more and take 1st place!"
                     },
                     {
-                        "name": "CHECKER KNIGHTS - Finish in under 035500 on Warpstar!",
-                        "ref": "Air Ride/CHECKER KNIGHTS/Finish in under 035500 on Warpstar!"
+                        "name": "CHECKER KNIGHTS - TA: Finish in under 03:55:00 on Warpstar!",
+                        "ref": "Air Ride/CHECKER KNIGHTS/TA: Finish in under 03:55:00 on Warpstar!"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 380,
-                        "y": 1334,
+                        "x": 2453,
+                        "y": 2393,
                         "size": 6
                     }
                 ]
@@ -800,8 +800,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1081,
-                        "y": 717,
+                        "x": 1157,
+                        "y": 1457,
                         "size": 6
                     }
                 ]
@@ -815,6 +815,186 @@
                     " "
                 ],
                 "sections": [
+                    {
+                        "name": "play in over 10 stadium modes!",
+                        "ref": "Stadium/play in over 10 stadium modes!"
+                    },
+                    {
+                        "name": "DRAG RACE 2 Finish in less than 002400!",
+                        "ref": "Stadium/DRAG RACE 2 Finish in less than 002400!"
+                    },
+                    {
+                        "name": "DRAG RACE 4 Finish in less than 002400!",
+                        "ref": "Stadium/DRAG RACE 4 Finish in less than 002400!"
+                    },
+                    {
+                        "name": "HIGH JUMP Stay airborne longer than 10 seconds!",
+                        "ref": "Stadium/HIGH JUMP Stay airborne longer than 10 seconds!"
+                    },
+                    {
+                        "name": "TARGET FLIGHT stay airborne longer than 15 seconds!",
+                        "ref": "Stadium/TARGET FLIGHT stay airborne longer than 15 seconds!"
+                    },
+                    {
+                        "name": "AIR GLIDER fly more than 660 feet!",
+                        "ref": "Stadium/AIR GLIDER fly more than 660 feet!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 2 In one game, KO your rivals 5 or more times!",
+                        "ref": "Stadium/DESTRUCTION DERBY 2 In one game, KO your rivals 5 or more times!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 1 bust all the rocks on the field!",
+                        "ref": "Stadium/DESTRUCTION DERBY 1 bust all the rocks on the field!"
+                    },
+                    {
+                        "name": "KIRBY MELEE 2 In one game, KO enemies over 30 times!",
+                        "ref": "Stadium/KIRBY MELEE 2 In one game, KO enemies over 30 times!"
+                    },
+                    {
+                        "name": "DRAG RACE 1 Finish in less than 001700 on Formula Star!",
+                        "ref": "Stadium/DRAG RACE 1 Finish in less than 001700 on Formula Star!"
+                    },
+                    {
+                        "name": "DRAG RACE 3 Finish in less than 003100 on Wheelie Bike!",
+                        "ref": "Stadium/DRAG RACE 3 Finish in less than 003100 on Wheelie Bike!"
+                    },
+                    {
+                        "name": "play in over 20 stadium modes!",
+                        "ref": "Stadium/play in over 20 stadium modes!"
+                    },
+                    {
+                        "name": "DRAG RACE 2 Finish in less than 002000!",
+                        "ref": "Stadium/DRAG RACE 2 Finish in less than 002000!"
+                    },
+                    {
+                        "name": "DRAG RACE 4 Finish in less than 001900!",
+                        "ref": "Stadium/DRAG RACE 4 Finish in less than 001900!"
+                    },
+                    {
+                        "name": "TARGET FLIGHT In one game, get over 150 points!",
+                        "ref": "Stadium/TARGET FLIGHT In one game, get over 150 points!"
+                    },
+                    {
+                        "name": "TARGET FLIGHT play 15 times or more!",
+                        "ref": "Stadium/TARGET FLIGHT play 15 times or more!"
+                    },
+                    {
+                        "name": "AIR GLIDER fly more than 1,300 feet!",
+                        "ref": "Stadium/AIR GLIDER fly more than 1,300 feet!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times!",
+                        "ref": "Stadium/DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 1 In one game, KO a rival 10 times or more!",
+                        "ref": "Stadium/DESTRUCTION DERBY 1 In one game, KO a rival 10 times or more!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more!",
+                        "ref": "Stadium/DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more!"
+                    },
+                    {
+                        "name": "KIRBY MELEE 1 In one game, KO over 75 enemies by yourself!",
+                        "ref": "Stadium/KIRBY MELEE 1 In one game, KO over 75 enemies by yourself!"
+                    },
+                    {
+                        "name": "DRAG RACE 2 Finish in less than 002700 on Wagon Star!",
+                        "ref": "Stadium/DRAG RACE 2 Finish in less than 002700 on Wagon Star!"
+                    },
+                    {
+                        "name": "DRAG RACE 4 Finish in less than 003300 on Turbo Star!",
+                        "ref": "Stadium/DRAG RACE 4 Finish in less than 003300 on Turbo Star!"
+                    },
+                    {
+                        "name": "DRAG RACE 1 Finish in less than 002400!",
+                        "ref": "Stadium/DRAG RACE 1 Finish in less than 002400!"
+                    },
+                    {
+                        "name": "DRAG RACE 3 Finish in less than 003500!",
+                        "ref": "Stadium/DRAG RACE 3 Finish in less than 003500!"
+                    },
+                    {
+                        "name": "HIGH JUMP Jump higher than 500 feet!",
+                        "ref": "Stadium/HIGH JUMP Jump higher than 500 feet!"
+                    },
+                    {
+                        "name": "TARGET FLIGHT In one game, get exactly 90 points!",
+                        "ref": "Stadium/TARGET FLIGHT In one game, get exactly 90 points!"
+                    },
+                    {
+                        "name": "TARGET FLIGHT get more than 1,500 points!",
+                        "ref": "Stadium/TARGET FLIGHT get more than 1,500 points!"
+                    },
+                    {
+                        "name": "AIR GLIDER stay airborne longer than 30 seconds!",
+                        "ref": "Stadium/AIR GLIDER stay airborne longer than 30 seconds!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 4 In one game, KO your rivals 5 or more times!",
+                        "ref": "Stadium/DESTRUCTION DERBY 4 In one game, KO your rivals 5 or more times!"
+                    },
+                    {
+                        "name": "DRAG RACE 2 Finish in less than 002900 on Winged Star!",
+                        "ref": "Stadium/DRAG RACE 2 Finish in less than 002900 on Winged Star!"
+                    },
+                    {
+                        "name": "DRAG RACE 4 Finish in less than 002400 on Rex Wheelie!",
+                        "ref": "Stadium/DRAG RACE 4 Finish in less than 002400 on Rex Wheelie!"
+                    },
+                    {
+                        "name": "DRAG RACE 1 Finish in less than 002000!",
+                        "ref": "Stadium/DRAG RACE 1 Finish in less than 002000!"
+                    },
+                    {
+                        "name": "DRAG RACE 3 Finish in less than 002700!",
+                        "ref": "Stadium/DRAG RACE 3 Finish in less than 002700!"
+                    },
+                    {
+                        "name": "HIGH JUMP Jump higher than 1,000 feet!",
+                        "ref": "Stadium/HIGH JUMP Jump higher than 1,000 feet!"
+                    },
+                    {
+                        "name": "AIR GLIDER fly more than 330 feet!",
+                        "ref": "Stadium/AIR GLIDER fly more than 330 feet!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 1 In one game, KO your rivals 5 or more times!",
+                        "ref": "Stadium/DESTRUCTION DERBY 1 In one game, KO your rivals 5 or more times!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 5 In one game, KO your rivals 5 or more times!",
+                        "ref": "Stadium/DESTRUCTION DERBY 5 In one game, KO your rivals 5 or more times!"
+                    },
+                    {
+                        "name": "KIRBY MELEE 1 In one game, KO enemies over 50 times!",
+                        "ref": "Stadium/KIRBY MELEE 1 In one game, KO enemies over 50 times!"
+                    },
+                    {
+                        "name": "VS. KING DEDEDE KO King Dedede in less than a minute!",
+                        "ref": "Stadium/VS. KING DEDEDE KO King Dedede in less than a minute!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 2 In one game, KO a rival 10 times or more!",
+                        "ref": "Stadium/DESTRUCTION DERBY 2 In one game, KO a rival 10 times or more!"
+                    },
+                    {
+                        "name": "DESTRUCTION DERBY 5 In one game, KO a rival 10 times or more!",
+                        "ref": "Stadium/DESTRUCTION DERBY 5 In one game, KO a rival 10 times or more!"
+                    },
+                    {
+                        "name": "KIRBY MELEE 2 In one game, KO over 40 enemies by yourself!",
+                        "ref": "Stadium/KIRBY MELEE 2 In one game, KO over 40 enemies by yourself!"
+                    },
+                    {
+                        "name": "DRAG RACE 1 Finish in less than 002600 on Warpstar!",
+                        "ref": "Stadium/DRAG RACE 1 Finish in less than 002600 on Warpstar!"
+                    },
+                    {
+                        "name": "DRAG RACE 3 Finish in less than 002800 on Swerve Star!",
+                        "ref": "Stadium/DRAG RACE 3 Finish in less than 002800 on Swerve Star!"
+                    },
                     {
                         "name": "DESTRUCTION DERBY (All) - KO enemies over 50 times!",
                         "ref": "Stadium/DESTRUCTION DERBY (All)/KO enemies over 50 times!"
@@ -832,195 +1012,15 @@
                         "ref": "Stadium/KIRBY MELEE (All)/KO over 1,500 enemies!"
                     },
                     {
-                        "name": "TARGET FLIGHT In one game, get a perfect score - 200 points!",
-                        "ref": "Stadium/TARGET FLIGHT In one game, get a perfect score/200 points!"
-                    },
-                    {
-                        "name": "Stadium - play in over 10 stadium modes!",
-                        "ref": "Stadium/play in over 10 stadium modes!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 2 Finish in less than 002400!",
-                        "ref": "Stadium/DRAG RACE 2 Finish in less than 002400!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 4 Finish in less than 002400!",
-                        "ref": "Stadium/DRAG RACE 4 Finish in less than 002400!"
-                    },
-                    {
-                        "name": "Stadium - HIGH JUMP Stay airborne longer than 10 seconds!",
-                        "ref": "Stadium/HIGH JUMP Stay airborne longer than 10 seconds!"
-                    },
-                    {
-                        "name": "Stadium - TARGET FLIGHT stay airborne longer than 15 seconds!",
-                        "ref": "Stadium/TARGET FLIGHT stay airborne longer than 15 seconds!"
-                    },
-                    {
-                        "name": "Stadium - AIR GLIDER fly more than 660 feet!",
-                        "ref": "Stadium/AIR GLIDER fly more than 660 feet!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 2 In one game, KO your rivals 5 or more times!",
-                        "ref": "Stadium/DESTRUCTION DERBY 2 In one game, KO your rivals 5 or more times!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 1 bust all the rocks on the field!",
-                        "ref": "Stadium/DESTRUCTION DERBY 1 bust all the rocks on the field!"
-                    },
-                    {
-                        "name": "Stadium - KIRBY MELEE 2 In one game, KO enemies over 30 times!",
-                        "ref": "Stadium/KIRBY MELEE 2 In one game, KO enemies over 30 times!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 1 Finish in less than 001700 on Formula Star!",
-                        "ref": "Stadium/DRAG RACE 1 Finish in less than 001700 on Formula Star!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 3 Finish in less than 003100 on Wheelie Bike!",
-                        "ref": "Stadium/DRAG RACE 3 Finish in less than 003100 on Wheelie Bike!"
-                    },
-                    {
-                        "name": "Stadium - play in over 20 stadium modes!",
-                        "ref": "Stadium/play in over 20 stadium modes!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 2 Finish in less than 002000!",
-                        "ref": "Stadium/DRAG RACE 2 Finish in less than 002000!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 4 Finish in less than 001900!",
-                        "ref": "Stadium/DRAG RACE 4 Finish in less than 001900!"
-                    },
-                    {
-                        "name": "Stadium - TARGET FLIGHT In one game, get over 150 points!",
-                        "ref": "Stadium/TARGET FLIGHT In one game, get over 150 points!"
-                    },
-                    {
-                        "name": "Stadium - TARGET FLIGHT play 15 times or more!",
-                        "ref": "Stadium/TARGET FLIGHT play 15 times or more!"
-                    },
-                    {
-                        "name": "Stadium - AIR GLIDER fly more than 1,300 feet!",
-                        "ref": "Stadium/AIR GLIDER fly more than 1,300 feet!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times!",
-                        "ref": "Stadium/DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 1 In one game, KO a rival 10 times or more!",
-                        "ref": "Stadium/DESTRUCTION DERBY 1 In one game, KO a rival 10 times or more!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more!",
-                        "ref": "Stadium/DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more!"
-                    },
-                    {
-                        "name": "Stadium - KIRBY MELEE 1 In one game, KO over 75 enemies by yourself!",
-                        "ref": "Stadium/KIRBY MELEE 1 In one game, KO over 75 enemies by yourself!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 2 Finish in less than 002700 on Wagon Star!",
-                        "ref": "Stadium/DRAG RACE 2 Finish in less than 002700 on Wagon Star!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 4 Finish in less than 003300 on Turbo Star!",
-                        "ref": "Stadium/DRAG RACE 4 Finish in less than 003300 on Turbo Star!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 1 Finish in less than 002400!",
-                        "ref": "Stadium/DRAG RACE 1 Finish in less than 002400!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 3 Finish in less than 003500!",
-                        "ref": "Stadium/DRAG RACE 3 Finish in less than 003500!"
-                    },
-                    {
-                        "name": "Stadium - HIGH JUMP Jump higher than 500 feet!",
-                        "ref": "Stadium/HIGH JUMP Jump higher than 500 feet!"
-                    },
-                    {
-                        "name": "Stadium - TARGET FLIGHT In one game, get exactly 90 points!",
-                        "ref": "Stadium/TARGET FLIGHT In one game, get exactly 90 points!"
-                    },
-                    {
-                        "name": "Stadium - TARGET FLIGHT get more than 1,500 points!",
-                        "ref": "Stadium/TARGET FLIGHT get more than 1,500 points!"
-                    },
-                    {
-                        "name": "Stadium - AIR GLIDER stay airborne longer than 30 seconds!",
-                        "ref": "Stadium/AIR GLIDER stay airborne longer than 30 seconds!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 4 In one game, KO your rivals 5 or more times!",
-                        "ref": "Stadium/DESTRUCTION DERBY 4 In one game, KO your rivals 5 or more times!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 2 Finish in less than 002900 on Winged Star!",
-                        "ref": "Stadium/DRAG RACE 2 Finish in less than 002900 on Winged Star!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 4 Finish in less than 002400 on Rex Wheelie!",
-                        "ref": "Stadium/DRAG RACE 4 Finish in less than 002400 on Rex Wheelie!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 1 Finish in less than 002000!",
-                        "ref": "Stadium/DRAG RACE 1 Finish in less than 002000!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 3 Finish in less than 002700!",
-                        "ref": "Stadium/DRAG RACE 3 Finish in less than 002700!"
-                    },
-                    {
-                        "name": "Stadium - HIGH JUMP Jump higher than 1,000 feet!",
-                        "ref": "Stadium/HIGH JUMP Jump higher than 1,000 feet!"
-                    },
-                    {
-                        "name": "Stadium - AIR GLIDER fly more than 330 feet!",
-                        "ref": "Stadium/AIR GLIDER fly more than 330 feet!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 1 In one game, KO your rivals 5 or more times!",
-                        "ref": "Stadium/DESTRUCTION DERBY 1 In one game, KO your rivals 5 or more times!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 5 In one game, KO your rivals 5 or more times!",
-                        "ref": "Stadium/DESTRUCTION DERBY 5 In one game, KO your rivals 5 or more times!"
-                    },
-                    {
-                        "name": "Stadium - KIRBY MELEE 1 In one game, KO enemies over 50 times!",
-                        "ref": "Stadium/KIRBY MELEE 1 In one game, KO enemies over 50 times!"
-                    },
-                    {
-                        "name": "Stadium - VS. KING DEDEDE KO King Dedede in less than a minute!",
-                        "ref": "Stadium/VS. KING DEDEDE KO King Dedede in less than a minute!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 2 In one game, KO a rival 10 times or more!",
-                        "ref": "Stadium/DESTRUCTION DERBY 2 In one game, KO a rival 10 times or more!"
-                    },
-                    {
-                        "name": "Stadium - DESTRUCTION DERBY 5 In one game, KO a rival 10 times or more!",
-                        "ref": "Stadium/DESTRUCTION DERBY 5 In one game, KO a rival 10 times or more!"
-                    },
-                    {
-                        "name": "Stadium - KIRBY MELEE 2 In one game, KO over 40 enemies by yourself!",
-                        "ref": "Stadium/KIRBY MELEE 2 In one game, KO over 40 enemies by yourself!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 1 Finish in less than 002600 on Warpstar!",
-                        "ref": "Stadium/DRAG RACE 1 Finish in less than 002600 on Warpstar!"
-                    },
-                    {
-                        "name": "Stadium - DRAG RACE 3 Finish in less than 002800 on Swerve Star!",
-                        "ref": "Stadium/DRAG RACE 3 Finish in less than 002800 on Swerve Star!"
+                        "name": "TARGET FLIGHT Get a perfect score (200 points)! - TARGET FLIGHT Get a perfect score (200 points)!",
+                        "ref": "Stadium/TARGET FLIGHT Get a perfect score (200 points)!/TARGET FLIGHT Get a perfect score (200 points)!"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1637,
-                        "y": 764,
+                        "x": 1439,
+                        "y": 582,
                         "size": 6
                     }
                 ]
@@ -1034,6 +1034,10 @@
                     " "
                 ],
                 "sections": [
+                    {
+                        "name": "Race one lap without hitting a wall and finish 1st!",
+                        "ref": "Top Ride/Race one lap without hitting a wall and finish 1st!/Race one lap without hitting a wall and finish 1st!"
+                    },
                     {
                         "name": "General - Cross the goal 20 or more times!",
                         "ref": "Top Ride/General/Cross the goal 20 or more times!"
@@ -1115,8 +1119,8 @@
                         "ref": "Top Ride/General/Send 3 or more rivals sailing using one Buzz Saw item!"
                     },
                     {
-                        "name": "Free Run - Race more than 100 laps!",
-                        "ref": "Top Ride/Free Run/Race more than 100 laps!"
+                        "name": "Free Run - FR: Race more than 100 laps!",
+                        "ref": "Top Ride/Free Run/FR: Race more than 100 laps!"
                     },
                     {
                         "name": "GRASS - Finish 1st with CPUs set to level 5!",
@@ -1127,8 +1131,8 @@
                         "ref": "Top Ride/GRASS/Finish 1st and hit 5 or more Dash Panels!"
                     },
                     {
-                        "name": "GRASS - Do one lap in under 000450!",
-                        "ref": "Top Ride/GRASS/Do one lap in under 000450!"
+                        "name": "GRASS - FR: Do one lap in under 00:04:50!",
+                        "ref": "Top Ride/GRASS/FR: Do one lap in under 00:04:50!"
                     },
                     {
                         "name": "GRASS - Take 1st place 10 times or more!",
@@ -1139,52 +1143,52 @@
                         "ref": "Top Ride/GRASS/In one race, drop 30 or more tree bombs!"
                     },
                     {
-                        "name": "GRASS - Do one lap in under 000600!",
-                        "ref": "Top Ride/GRASS/Do one lap in under 000600!"
+                        "name": "GRASS - FR: Do one lap in under 00:06:00!",
+                        "ref": "Top Ride/GRASS/FR: Do one lap in under 00:06:00!"
                     },
                     {
                         "name": "GRASS - Take 1st place without using items!",
                         "ref": "Top Ride/GRASS/Take 1st place without using items!"
                     },
                     {
-                        "name": "GRASS - Finish 7 laps in under 004300!",
-                        "ref": "Top Ride/GRASS/Finish 7 laps in under 004300!"
+                        "name": "GRASS - Finish 7 laps in under 00:43:00!",
+                        "ref": "Top Ride/GRASS/Finish 7 laps in under 00:43:00!"
                     },
                     {
                         "name": "GRASS - Finish 1st 5 seconds faster than #2!",
                         "ref": "Top Ride/GRASS/Finish 1st 5 seconds faster than #2!"
                     },
                     {
-                        "name": "GRASS - Finish in under 002800!",
-                        "ref": "Top Ride/GRASS/Finish in under 002800!"
+                        "name": "GRASS - TA: Finish in under 00:28:00!",
+                        "ref": "Top Ride/GRASS/TA: Finish in under 00:28:00!"
                     },
                     {
                         "name": "GRASS - Take 1st place without using Boost!",
                         "ref": "Top Ride/GRASS/Take 1st place without using Boost!"
                     },
                     {
-                        "name": "GRASS - Race more than 100 laps!",
-                        "ref": "Top Ride/GRASS/Race more than 100 laps!"
+                        "name": "GRASS - FR: Race more than 100 laps!",
+                        "ref": "Top Ride/GRASS/FR: Race more than 100 laps!"
                     },
                     {
-                        "name": "GRASS - Finish in under 003300!",
-                        "ref": "Top Ride/GRASS/Finish in under 003300!"
+                        "name": "GRASS - TA: Finish in under 00:33:00!",
+                        "ref": "Top Ride/GRASS/TA: Finish in under 00:33:00!"
                     },
                     {
                         "name": "SAND - Take 1st place without using Boost!",
                         "ref": "Top Ride/SAND/Take 1st place without using Boost!"
                     },
                     {
-                        "name": "SAND - Race more than 100 laps!",
-                        "ref": "Top Ride/SAND/Race more than 100 laps!"
+                        "name": "SAND - FR: Race more than 100 laps!",
+                        "ref": "Top Ride/SAND/FR: Race more than 100 laps!"
                     },
                     {
                         "name": "SAND - Finish 1st 5 seconds faster than #2!",
                         "ref": "Top Ride/SAND/Finish 1st 5 seconds faster than #2!"
                     },
                     {
-                        "name": "SAND - Finish in under 003500!",
-                        "ref": "Top Ride/SAND/Finish in under 003500!"
+                        "name": "SAND - TA: Finish in under 00:35:00!",
+                        "ref": "Top Ride/SAND/TA: Finish in under 00:35:00!"
                     },
                     {
                         "name": "SAND - Finish 1st with CPUs set to level 5!",
@@ -1195,8 +1199,8 @@
                         "ref": "Top Ride/SAND/Take 1st and catch the worm 3 or more times!"
                     },
                     {
-                        "name": "SAND - Do one lap in under 000500!",
-                        "ref": "Top Ride/SAND/Do one lap in under 000500!"
+                        "name": "SAND - FR: Do one lap in under 00:05:00!",
+                        "ref": "Top Ride/SAND/FR: Do one lap in under 00:05:00!"
                     },
                     {
                         "name": "SAND - Take 1st place 10 times or more!",
@@ -1207,24 +1211,24 @@
                         "ref": "Top Ride/SAND/Drop into Ant Doom 50 times or more!"
                     },
                     {
-                        "name": "SAND - Do one lap in under 000650!",
-                        "ref": "Top Ride/SAND/Do one lap in under 000650!"
+                        "name": "SAND - FR: Do one lap in under 00:06:50!",
+                        "ref": "Top Ride/SAND/FR: Do one lap in under 00:06:50!"
                     },
                     {
                         "name": "SAND - Take 1st place without using items!",
                         "ref": "Top Ride/SAND/Take 1st place without using items!"
                     },
                     {
-                        "name": "SAND - Finish 7 laps in under 005200!",
-                        "ref": "Top Ride/SAND/Finish 7 laps in under 005200!"
+                        "name": "SAND - Finish 7 laps in under 00:52:00!",
+                        "ref": "Top Ride/SAND/Finish 7 laps in under 00:52:00!"
                     },
                     {
                         "name": "SAND - Drop into Ant Doom 20 times in one game!",
                         "ref": "Top Ride/SAND/Drop into Ant Doom 20 times in one game!"
                     },
                     {
-                        "name": "SAND - Finish in under 002900!",
-                        "ref": "Top Ride/SAND/Finish in under 002900!"
+                        "name": "SAND - TA: Finish in under 00:29:00!",
+                        "ref": "Top Ride/SAND/TA: Finish in under 00:29:00!"
                     },
                     {
                         "name": "SKY - Take 1st place 10 times or more!",
@@ -1235,36 +1239,36 @@
                         "ref": "Top Ride/SKY/Finish 1st without using the Jump Plate!"
                     },
                     {
-                        "name": "SKY - Do one lap in under 001100!",
-                        "ref": "Top Ride/SKY/Do one lap in under 001100!"
+                        "name": "SKY - FR: Do one lap in under 00:11:00!",
+                        "ref": "Top Ride/SKY/FR: Do one lap in under 00:11:00!"
                     },
                     {
                         "name": "SKY - Take 1st place without using items!",
                         "ref": "Top Ride/SKY/Take 1st place without using items!"
                     },
                     {
-                        "name": "SKY - Finish 6 laps in under 010200!",
-                        "ref": "Top Ride/SKY/Finish 6 laps in under 010200!"
+                        "name": "SKY - Finish 6 laps in under 01:02:00!",
+                        "ref": "Top Ride/SKY/Finish 6 laps in under 01:02:00!"
                     },
                     {
                         "name": "SKY - Finish 1st 5 seconds faster than #2!",
                         "ref": "Top Ride/SKY/Finish 1st 5 seconds faster than #2!"
                     },
                     {
-                        "name": "SKY - Finish in under 004700!",
-                        "ref": "Top Ride/SKY/Finish in under 004700!"
+                        "name": "SKY - TA: Finish in under 00:47:00!",
+                        "ref": "Top Ride/SKY/TA: Finish in under 00:47:00!"
                     },
                     {
                         "name": "SKY - Take 1st place without using Boost!",
                         "ref": "Top Ride/SKY/Take 1st place without using Boost!"
                     },
                     {
-                        "name": "SKY - Race more than 100 laps!",
-                        "ref": "Top Ride/SKY/Race more than 100 laps!"
+                        "name": "SKY - FR: Race more than 100 laps!",
+                        "ref": "Top Ride/SKY/FR: Race more than 100 laps!"
                     },
                     {
-                        "name": "SKY - Finish in under 005700!",
-                        "ref": "Top Ride/SKY/Finish in under 005700!"
+                        "name": "SKY - TA: Finish in under 00:57:00!",
+                        "ref": "Top Ride/SKY/TA: Finish in under 00:57:00!"
                     },
                     {
                         "name": "SKY - Finish 1st with CPUs set to level 5!",
@@ -1275,8 +1279,8 @@
                         "ref": "Top Ride/SKY/Take 1st and hit the Isle Knob 5 or more times!"
                     },
                     {
-                        "name": "SKY - Do one lap in under 000900!",
-                        "ref": "Top Ride/SKY/Do one lap in under 000900!"
+                        "name": "SKY - FR: Do one lap in under 00:09:00!",
+                        "ref": "Top Ride/SKY/FR: Do one lap in under 00:09:00!"
                     },
                     {
                         "name": "FIRE - Finish 1st with CPUs set to level 5!",
@@ -1287,8 +1291,8 @@
                         "ref": "Top Ride/FIRE/Cause a huge eruption 3 times or more!"
                     },
                     {
-                        "name": "FIRE - Finish in under 004600!",
-                        "ref": "Top Ride/FIRE/Finish in under 004600!"
+                        "name": "FIRE - TA: Finish in under 00:46:00!",
+                        "ref": "Top Ride/FIRE/TA: Finish in under 00:46:00!"
                     },
                     {
                         "name": "FIRE - Take 1st place 10 times or more!",
@@ -1299,48 +1303,48 @@
                         "ref": "Top Ride/FIRE/Finish 1st while holding the Fire item."
                     },
                     {
-                        "name": "FIRE - Do one lap in under 000650!",
-                        "ref": "Top Ride/FIRE/Do one lap in under 000650!"
+                        "name": "FIRE - FR: Do one lap in under 00:06:50!",
+                        "ref": "Top Ride/FIRE/FR: Do one lap in under 00:06:50!"
                     },
                     {
                         "name": "FIRE - Take 1st place without using items!",
                         "ref": "Top Ride/FIRE/Take 1st place without using items!"
                     },
                     {
-                        "name": "FIRE - Finish 6 laps in under 005300!",
-                        "ref": "Top Ride/FIRE/Finish 6 laps in under 005300!"
+                        "name": "FIRE - Finish 6 laps in under 00:53:00!",
+                        "ref": "Top Ride/FIRE/Finish 6 laps in under 00:53:00!"
                     },
                     {
                         "name": "FIRE - Finish 1st 5 seconds faster than #2!",
                         "ref": "Top Ride/FIRE/Finish 1st 5 seconds faster than #2!"
                     },
                     {
-                        "name": "FIRE - Do one lap in under 000800!",
-                        "ref": "Top Ride/FIRE/Do one lap in under 000800!"
+                        "name": "FIRE - FR: Do one lap in under 00:08:00!",
+                        "ref": "Top Ride/FIRE/FR: Do one lap in under 00:08:00!"
                     },
                     {
                         "name": "FIRE - Take 1st place without using Boost!",
                         "ref": "Top Ride/FIRE/Take 1st place without using Boost!"
                     },
                     {
-                        "name": "FIRE - Race more than 100 laps!",
-                        "ref": "Top Ride/FIRE/Race more than 100 laps!"
+                        "name": "FIRE - FR: Race more than 100 laps!",
+                        "ref": "Top Ride/FIRE/FR: Race more than 100 laps!"
                     },
                     {
-                        "name": "FIRE - Finish in under 003900!",
-                        "ref": "Top Ride/FIRE/Finish in under 003900!"
+                        "name": "FIRE - TA: Finish in under 00:39:00!",
+                        "ref": "Top Ride/FIRE/TA: Finish in under 00:39:00!"
                     },
                     {
                         "name": "WATER - Take 1st place without using Boost!",
                         "ref": "Top Ride/WATER/Take 1st place without using Boost!"
                     },
                     {
-                        "name": "WATER - Race more than 100 laps!",
-                        "ref": "Top Ride/WATER/Race more than 100 laps!"
+                        "name": "WATER - FR: Race more than 100 laps!",
+                        "ref": "Top Ride/WATER/FR: Race more than 100 laps!"
                     },
                     {
-                        "name": "WATER - Do one lap in under 001050!",
-                        "ref": "Top Ride/WATER/Do one lap in under 001050!"
+                        "name": "WATER - FR: Do one lap in under 00:10:50!",
+                        "ref": "Top Ride/WATER/FR: Do one lap in under 00:10:50!"
                     },
                     {
                         "name": "WATER - Finish 1st with CPUs set to level 5!",
@@ -1351,8 +1355,8 @@
                         "ref": "Top Ride/WATER/Take 1st and enter the falls 5 times or more!"
                     },
                     {
-                        "name": "WATER - Do one lap in under 001200!",
-                        "ref": "Top Ride/WATER/Do one lap in under 001200!"
+                        "name": "WATER - FR: Do one lap in under 00:12:00!",
+                        "ref": "Top Ride/WATER/FR: Do one lap in under 00:12:00!"
                     },
                     {
                         "name": "WATER - Take 1st place 10 times or more!",
@@ -1363,36 +1367,36 @@
                         "ref": "Top Ride/WATER/Finish 1st 5 seconds faster than #2!"
                     },
                     {
-                        "name": "WATER - Finish in under 005600!",
-                        "ref": "Top Ride/WATER/Finish in under 005600!"
+                        "name": "WATER - TA: Finish in under 00:56:00!",
+                        "ref": "Top Ride/WATER/TA: Finish in under 00:56:00!"
                     },
                     {
                         "name": "WATER - Take 1st place without using items!",
                         "ref": "Top Ride/WATER/Take 1st place without using items!"
                     },
                     {
-                        "name": "WATER - Finish 5 laps in under 010200!",
-                        "ref": "Top Ride/WATER/Finish 5 laps in under 010200!"
+                        "name": "WATER - Finish 5 laps in under 01:02:00!",
+                        "ref": "Top Ride/WATER/Finish 5 laps in under 01:02:00!"
                     },
                     {
-                        "name": "WATER - Finish in under 010600!",
-                        "ref": "Top Ride/WATER/Finish in under 010600!"
+                        "name": "WATER - TA: Finish in under 01:06:00!",
+                        "ref": "Top Ride/WATER/TA: Finish in under 01:06:00!"
                     },
                     {
                         "name": "LIGHT - Take 1st place without using Boost!",
                         "ref": "Top Ride/LIGHT/Take 1st place without using Boost!"
                     },
                     {
-                        "name": "LIGHT - Race more than 100 laps!",
-                        "ref": "Top Ride/LIGHT/Race more than 100 laps!"
+                        "name": "LIGHT - FR: Race more than 100 laps!",
+                        "ref": "Top Ride/LIGHT/FR: Race more than 100 laps!"
                     },
                     {
                         "name": "LIGHT - Finish 1st 5 seconds faster than #2!",
                         "ref": "Top Ride/LIGHT/Finish 1st 5 seconds faster than #2!"
                     },
                     {
-                        "name": "LIGHT - Finish in under 003300!",
-                        "ref": "Top Ride/LIGHT/Finish in under 003300!"
+                        "name": "LIGHT - TA: Finish in under 00:33:00!",
+                        "ref": "Top Ride/LIGHT/TA: Finish in under 00:33:00!"
                     },
                     {
                         "name": "LIGHT - Finish 1st with CPUs set to level 5!",
@@ -1403,8 +1407,8 @@
                         "ref": "Top Ride/LIGHT/Ride the grind rail 50 times or more!"
                     },
                     {
-                        "name": "LIGHT - Finish in under 003800!",
-                        "ref": "Top Ride/LIGHT/Finish in under 003800!"
+                        "name": "LIGHT - TA: Finish in under 00:38:00!",
+                        "ref": "Top Ride/LIGHT/TA: Finish in under 00:38:00!"
                     },
                     {
                         "name": "LIGHT - Take 1st place 10 times or more!",
@@ -1415,24 +1419,24 @@
                         "ref": "Top Ride/LIGHT/Take 1st place and grind the rail 5 times or more!"
                     },
                     {
-                        "name": "LIGHT - Do one lap in under 000600!",
-                        "ref": "Top Ride/LIGHT/Do one lap in under 000600!"
+                        "name": "LIGHT - FR: Do one lap in under 00:06:00!",
+                        "ref": "Top Ride/LIGHT/FR: Do one lap in under 00:06:00!"
                     },
                     {
                         "name": "LIGHT - Take 1st place without using items!",
                         "ref": "Top Ride/LIGHT/Take 1st place without using items!"
                     },
                     {
-                        "name": "LIGHT - Finish 6 laps in under 004300!",
-                        "ref": "Top Ride/LIGHT/Finish 6 laps in under 004300!"
+                        "name": "LIGHT - Finish 6 laps in under 00:43:00!",
+                        "ref": "Top Ride/LIGHT/Finish 6 laps in under 00:43:00!"
                     },
                     {
                         "name": "LIGHT - Finish 1st and bust 6 or more columns!",
                         "ref": "Top Ride/LIGHT/Finish 1st and bust 6 or more columns!"
                     },
                     {
-                        "name": "LIGHT - Do one lap in under 000750!",
-                        "ref": "Top Ride/LIGHT/Do one lap in under 000750!"
+                        "name": "LIGHT - FR: Do one lap in under 00:07:50!",
+                        "ref": "Top Ride/LIGHT/FR: Do one lap in under 00:07:50!"
                     },
                     {
                         "name": "METAL - Take 1st place 10 times or more!",
@@ -1443,40 +1447,40 @@
                         "ref": "Top Ride/METAL/Take 1st and hit the switch 10 times or more!"
                     },
                     {
-                        "name": "METAL - Finish in under 005100!",
-                        "ref": "Top Ride/METAL/Finish in under 005100!"
+                        "name": "METAL - TA: Finish in under 00:51:00!",
+                        "ref": "Top Ride/METAL/TA: Finish in under 00:51:00!"
                     },
                     {
                         "name": "METAL - Take 1st place without using items!",
                         "ref": "Top Ride/METAL/Take 1st place without using items!"
                     },
                     {
-                        "name": "METAL - Finish 5 laps in under 005800!",
-                        "ref": "Top Ride/METAL/Finish 5 laps in under 005800!"
+                        "name": "METAL - Finish 5 laps in under 00:58:00!",
+                        "ref": "Top Ride/METAL/Finish 5 laps in under 00:58:00!"
                     },
                     {
                         "name": "METAL - Take 1st and break 5 or more gear walls!",
                         "ref": "Top Ride/METAL/Take 1st and break 5 or more gear walls!"
                     },
                     {
-                        "name": "METAL - Finish in under 005700!",
-                        "ref": "Top Ride/METAL/Finish in under 005700!"
+                        "name": "METAL - TA: Finish in under 00:57:00!",
+                        "ref": "Top Ride/METAL/TA: Finish in under 00:57:00!"
                     },
                     {
                         "name": "METAL - Take 1st place without using Boost!",
                         "ref": "Top Ride/METAL/Take 1st place without using Boost!"
                     },
                     {
-                        "name": "METAL - Race more than 100 laps!",
-                        "ref": "Top Ride/METAL/Race more than 100 laps!"
+                        "name": "METAL - FR: Race more than 100 laps!",
+                        "ref": "Top Ride/METAL/FR: Race more than 100 laps!"
                     },
                     {
                         "name": "METAL - Finish 1st 5 seconds faster than #2!",
                         "ref": "Top Ride/METAL/Finish 1st 5 seconds faster than #2!"
                     },
                     {
-                        "name": "METAL - Do one lap in under 000950!",
-                        "ref": "Top Ride/METAL/Do one lap in under 000950!"
+                        "name": "METAL - FR: Do one lap in under 00:09:50!",
+                        "ref": "Top Ride/METAL/FR: Do one lap in under 00:09:50!"
                     },
                     {
                         "name": "METAL - Finish 1st with CPUs set to level 5!",
@@ -1487,16 +1491,16 @@
                         "ref": "Top Ride/METAL/Take 1st without breaking any gear walls!"
                     },
                     {
-                        "name": "METAL - Do one lap in under 001150!",
-                        "ref": "Top Ride/METAL/Do one lap in under 001150!"
+                        "name": "METAL - FR: Do one lap in under 00:11:50!",
+                        "ref": "Top Ride/METAL/FR: Do one lap in under 00:11:50!"
                     },
                     {
                         "name": "High Effort - Race over 300 laps!",
                         "ref": "Top Ride/High Effort/Race over 300 laps!"
                     },
                     {
-                        "name": "High Effort - Time Attack: Cross the goal 30 or more times!",
-                        "ref": "Top Ride/High Effort/Time Attack: Cross the goal 30 or more times!"
+                        "name": "High Effort - TA: Time Attack: Cross the goal 30 or more times!",
+                        "ref": "Top Ride/High Effort/TA: Time Attack: Cross the goal 30 or more times!"
                     },
                     {
                         "name": "High Effort - Collect 500 items or more!",
@@ -1509,18 +1513,225 @@
                     {
                         "name": "Multiplayer - Compete in more than 50 multiplayer races!",
                         "ref": "Top Ride/Multiplayer/Compete in more than 50 multiplayer races!"
-                    },
-                    {
-                        "name": "Top Ride - Race one lap without hitting a wall and finish 1st!",
-                        "ref": "Top Ride/Race one lap without hitting a wall and finish 1st!"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 674,
-                        "y": 1812,
+                        "x": 305,
+                        "y": 1290,
                         "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Archipelago",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Visit the flower on top of Castle Hall on foot!",
+                        "ref": "Archipelago/City Trial: Visit the flower on top of Castle Hall on foot!"
+                    },
+                    {
+                        "name": "City Trial: Break all the coral in one game!",
+                        "ref": "Archipelago/City Trial: Break all the coral in one game!"
+                    },
+                    {
+                        "name": "City Trial: Go out of bounds!",
+                        "ref": "Archipelago/City Trial: Go out of bounds!"
+                    },
+                    {
+                        "name": "City Trial: In one game, get 10 or more HP Patches!",
+                        "ref": "Archipelago/City Trial: In one game, get 10 or more HP Patches!"
+                    },
+                    {
+                        "name": "City Trial: Collect 5 All Ups in total!",
+                        "ref": "Archipelago/City Trial: Collect 5 All Ups in total!"
+                    },
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Ice Creams!",
+                        "ref": "Archipelago/City Trial: In one game, eat 3 or more Ice Creams!"
+                    },
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Rice Balls!",
+                        "ref": "Archipelago/City Trial: In one game, eat 3 or more Rice Balls!"
+                    },
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Chickens!",
+                        "ref": "Archipelago/City Trial: In one game, eat 3 or more Chickens!"
+                    },
+                    {
+                        "name": "City Trial: In one game, eat 3 or more plates of Curry!",
+                        "ref": "Archipelago/City Trial: In one game, eat 3 or more plates of Curry!"
+                    },
+                    {
+                        "name": "City Trial: In one game, eat 3 or more bowls of Ramen!",
+                        "ref": "Archipelago/City Trial: In one game, eat 3 or more bowls of Ramen!"
+                    },
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Omelets!",
+                        "ref": "Archipelago/City Trial: In one game, eat 3 or more Omelets!"
+                    },
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Hamburgers!",
+                        "ref": "Archipelago/City Trial: In one game, eat 3 or more Hamburgers!"
+                    },
+                    {
+                        "name": "City Trial: In one game, eat 3 or more Apples!",
+                        "ref": "Archipelago/City Trial: In one game, eat 3 or more Apples!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 1 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 1 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 2 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 2 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 3 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 3 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 4 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 4 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 5 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 5 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 6 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 6 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 7 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 7 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 8 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 8 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 9 Finish in 1st place!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 9 Finish in 1st place!"
+                    },
+                    {
+                        "name": "Stadium: HIGH JUMP Jump higher than 1,500 feet!",
+                        "ref": "Archipelago/Stadium: HIGH JUMP Jump higher than 1,500 feet!"
+                    },
+                    {
+                        "name": "Stadium: AIR GLIDER fly more than 2,000 feet!",
+                        "ref": "Archipelago/Stadium: AIR GLIDER fly more than 2,000 feet!"
+                    },
+                    {
+                        "name": "Stadium: KIRBY MELEE 1 In one game, KO over 100 enemies by yourself!",
+                        "ref": "Archipelago/Stadium: KIRBY MELEE 1 In one game, KO over 100 enemies by yourself!"
+                    },
+                    {
+                        "name": "Stadium: KIRBY MELEE 2 In one game, KO over 60 enemies by yourself!",
+                        "ref": "Archipelago/Stadium: KIRBY MELEE 2 In one game, KO over 60 enemies by yourself!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 1 Finish in 1st place on Bulk Star!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 1 Finish in 1st place on Bulk Star!"
+                    },
+                    {
+                        "name": "Stadium: SINGLE RACE 1 Finish in 1st place 3 times as Purple Kirby!",
+                        "ref": "Archipelago/Stadium: SINGLE RACE 1 Finish in 1st place 3 times as Purple Kirby!"
+                    },
+                    {
+                        "name": "Stadium: In any DRAG RACE, have 2 players finish within 0.10 seconds!",
+                        "ref": "Archipelago/Stadium: In any DRAG RACE, have 2 players finish within 0.10 seconds!"
+                    },
+                    {
+                        "name": "Air Ride: On any course, have 2 players finish within 0.10 seconds!",
+                        "ref": "Archipelago/Air Ride: On any course, have 2 players finish within 0.10 seconds!"
+                    },
+                    {
+                        "name": "Air Ride: Finish a race as every Kirby color!",
+                        "ref": "Archipelago/Air Ride: Finish a race as every Kirby color!"
+                    },
+                    {
+                        "name": "City Trial: Visit the model city on foot!",
+                        "ref": "Archipelago/City Trial: Visit the model city on foot!"
+                    },
+                    {
+                        "name": "City Trial: Visit the flower on top of the volcanic cliffs on foot!",
+                        "ref": "Archipelago/City Trial: Visit the flower on top of the volcanic cliffs on foot!"
+                    },
+                    {
+                        "name": "City Trial: Visit the top of the garden in the sky on foot!",
+                        "ref": "Archipelago/City Trial: Visit the top of the garden in the sky on foot!"
+                    },
+                    {
+                        "name": "City Trial: Fly to the highest point possible!",
+                        "ref": "Archipelago/City Trial: Fly to the highest point possible!"
+                    },
+                    {
+                        "name": "Air Ride: Finish in 1st place as Meta Knight!",
+                        "ref": "Archipelago/Air Ride: Finish in 1st place as Meta Knight!"
+                    },
+                    {
+                        "name": "Air Ride: Finish in 1st place as King Dedede!",
+                        "ref": "Archipelago/Air Ride: Finish in 1st place as King Dedede!"
+                    },
+                    {
+                        "name": "Air Ride: NEBULA BELT Finish in 1st place!",
+                        "ref": "Archipelago/Air Ride: NEBULA BELT Finish in 1st place!"
+                    },
+                    {
+                        "name": "Air Ride: NEBULA BELT Race over 5,500 feet in 2 minutes!",
+                        "ref": "Archipelago/Air Ride: NEBULA BELT Race over 5,500 feet in 2 minutes!"
+                    },
+                    {
+                        "name": "Air Ride: NEBULA BELT Finish 2 laps in under 02:30:00!",
+                        "ref": "Archipelago/Air Ride: NEBULA BELT Finish 2 laps in under 02:30:00!"
+                    },
+                    {
+                        "name": "Air Ride: NEBULA BELT Finish in 1st place on Wheelie Scooter!",
+                        "ref": "Archipelago/Air Ride: NEBULA BELT Finish in 1st place on Wheelie Scooter!"
+                    },
+                    {
+                        "name": "Air Ride: NEBULA BELT Fly 10 seconds on Dragoon, Flight or Winged Star!",
+                        "ref": "Archipelago/Air Ride: NEBULA BELT Fly 10 seconds on Dragoon, Flight or Winged Star!"
+                    },
+                    {
+                        "name": "Stadium: DESTRUCTION DERBY 3 In one game, KO a rival 10 times or more!",
+                        "ref": "Archipelago/Stadium: DESTRUCTION DERBY 3 In one game, KO a rival 10 times or more!"
+                    },
+                    {
+                        "name": "Stadium: DESTRUCTION DERBY (All) As King Dedede, KO 10 Kirbys in one game!",
+                        "ref": "Archipelago/Stadium: DESTRUCTION DERBY (All) As King Dedede, KO 10 Kirbys in one game!"
+                    },
+                    {
+                        "name": "City Trial: Get the Mic ability from the Copy Chance Wheel!",
+                        "ref": "Archipelago/City Trial: Get the Mic ability from the Copy Chance Wheel!"
+                    },
+                    {
+                        "name": "Stadium: KIRBY MELEE (All) In one game, KO 10 enemies as Mic Kirby!",
+                        "ref": "Archipelago/Stadium: KIRBY MELEE (All) In one game, KO 10 enemies as Mic Kirby!"
+                    },
+                    {
+                        "name": "City Trial: In one game, break 20 or more blue boxes!",
+                        "ref": "Archipelago/City Trial: In one game, break 20 or more blue boxes!"
+                    },
+                    {
+                        "name": "City Trial: In one game, break 10 or more green boxes!",
+                        "ref": "Archipelago/City Trial: In one game, break 10 or more green boxes!"
+                    },
+                    {
+                        "name": "City Trial: In one game, break 10 or more red boxes!",
+                        "ref": "Archipelago/City Trial: In one game, break 10 or more red boxes!"
+                    },
+                    {
+                        "name": "Air Ride: FANTASY MEADOWS Take the shortcut!",
+                        "ref": "Archipelago/Air Ride: FANTASY MEADOWS Take the shortcut!"
                     }
                 ]
             }

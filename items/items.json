@@ -2204,5 +2204,37 @@
         "max_quantity": 200,
         "initial_quantity": 0,
         "increment": 1
+    },
+    {
+        "name": "base_ability_inhale",
+        "type": "toggle",
+        "img": "images/items/base_ability_inhale_active.png",
+        "img_inactive": "images/items/base_ability_inhale_inactive.png",
+        "initial_active_state": false,
+        "codes": "base_ability_inhale"
+    },
+    {
+        "name": "base_ability_quick_spin",
+        "type": "toggle",
+        "img": "images/items/base_ability_quick_spin_active.png",
+        "img_inactive": "images/items/base_ability_quick_spin_inactive.png",
+        "initial_active_state": false,
+        "codes": "base_ability_quick_spin"
+    },
+    {
+        "name": "base_ability_charge",
+        "type": "toggle",
+        "img": "images/items/base_ability_charge_active.png",
+        "img_inactive": "images/items/base_ability_charge_inactive.png",
+        "initial_active_state": false,
+        "codes": "base_ability_charge"
+    },
+    {
+        "name": "progression_base_abilities",
+        "type": "toggle",
+        "img": "images/items/progression_base_abilities_active.png",
+        "img_inactive": "images/items/progression_base_abilities_inactive.png",
+        "initial_active_state": false,
+        "codes": "progression_base_abilities"
     }
 ]

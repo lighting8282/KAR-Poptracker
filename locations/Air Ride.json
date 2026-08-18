@@ -14,7 +14,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    [
+                        "$GATED|progression_base_abilities|base_ability_inhale"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -197,7 +199,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -208,7 +214,11 @@
                         "sections": [
                             {
                                 "name": "Swallow 200 or more enemies!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [
                                     "air_ride_progression_high_effort"
                                 ],
@@ -327,7 +337,11 @@
                     },
                     {
                         "name": "Swallow 200 or more enemies!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "visibility_rules": [
                             "air_ride_progression_high_effort"
                         ],
@@ -357,7 +371,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    [
+                        "$GATED|progression_base_abilities|base_ability_inhale"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -375,7 +391,10 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_sword"
+                            [
+                                "$GATED|progression_abilities|ability_sword",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -387,7 +406,11 @@
                         "sections": [
                             {
                                 "name": "Swallow Sword Knight 3 times and take 1st!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -398,7 +421,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -409,7 +436,11 @@
                         "sections": [
                             {
                                 "name": "Swallow 5 consecutive garbage enemies and take 1st!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -421,7 +452,10 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_wheel"
+                            [
+                                "$GATED|progression_abilities|ability_wheel",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -433,7 +467,11 @@
                         "sections": [
                             {
                                 "name": "Swallow Wheelie 3 times and take 1st!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -445,7 +483,10 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_freeze"
+                            [
+                                "$GATED|progression_abilities|ability_freeze",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -457,7 +498,11 @@
                         "sections": [
                             {
                                 "name": "Swallow Chilly 3 times and take 1st!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -469,7 +514,10 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_plasma"
+                            [
+                                "$GATED|progression_abilities|ability_plasma",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -481,7 +529,11 @@
                         "sections": [
                             {
                                 "name": "Swallow Plasma Wisp 3 times and take 1st!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -492,21 +544,31 @@
                     {
                         "name": "Swallow Sword Knight 3 times and take 1st!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_sword"
+                            [
+                                "$GATED|progression_abilities|ability_sword",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Swallow 5 consecutive garbage enemies and take 1st!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Swallow Wheelie 3 times and take 1st!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_wheel"
+                            [
+                                "$GATED|progression_abilities|ability_wheel",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -514,7 +576,10 @@
                     {
                         "name": "Swallow Chilly 3 times and take 1st!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_freeze"
+                            [
+                                "$GATED|progression_abilities|ability_freeze",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -522,7 +587,10 @@
                     {
                         "name": "Swallow Plasma Wisp 3 times and take 1st!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_plasma"
+                            [
+                                "$GATED|progression_abilities|ability_plasma",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -535,7 +603,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_ar_courses|map_air_ride_magma_flows"
+                    [
+                        "$GATED|progression_ar_courses|map_air_ride_magma_flows",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -674,7 +745,8 @@
                         "overlay_background": "#000000",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_turbo_star"
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "map_locations": [
@@ -687,7 +759,11 @@
                         "sections": [
                             {
                                 "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
                                 ],
@@ -889,7 +965,8 @@
                         "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_turbo_star"
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "visibility_rules": [
@@ -951,7 +1028,11 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_ar_courses|map_air_ride_fantasy_meadows"
+                    [
+                        "$GATED|progression_ar_courses|map_air_ride_fantasy_meadows",
+                        "$GATED|progression_base_abilities|base_ability_inhale",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1121,7 +1202,8 @@
                         "overlay_background": "#000000",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_slick_star"
+                                "$GATED|progression_machines|machine_slick_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "map_locations": [
@@ -1134,7 +1216,11 @@
                         "sections": [
                             {
                                 "name": "TA: Finish in under 01:05:00 on Slick Star!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
                                 ],
@@ -1226,7 +1312,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1237,7 +1327,11 @@
                         "sections": [
                             {
                                 "name": "Swallow over 20 enemies and take 1st place!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1295,7 +1389,8 @@
                         "name": "TA: Finish in under 01:05:00 on Slick Star!",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_slick_star"
+                                "$GATED|progression_machines|machine_slick_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "visibility_rules": [
@@ -1327,7 +1422,11 @@
                     },
                     {
                         "name": "Swallow over 20 enemies and take 1st place!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -1581,7 +1680,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    [
+                        "$GATED|progression_base_abilities|base_ability_quick_spin"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1598,7 +1699,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1609,7 +1714,11 @@
                         "sections": [
                             {
                                 "name": "Hit 20 or more rivals with your Quick Spin!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_quick_spin"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1741,7 +1850,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1752,7 +1865,11 @@
                         "sections": [
                             {
                                 "name": "Defeat 10 or more enemies using the Quick Spin!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_quick_spin"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1806,7 +1923,11 @@
                 "sections": [
                     {
                         "name": "Hit 20 or more rivals with your Quick Spin!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1853,7 +1974,11 @@
                     },
                     {
                         "name": "Defeat 10 or more enemies using the Quick Spin!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1877,7 +2002,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_ar_courses|map_air_ride_celestial_valley"
+                    [
+                        "$GATED|progression_ar_courses|map_air_ride_celestial_valley",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1918,7 +2046,8 @@
                         "overlay_background": "#000000",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_slick_star"
+                                "$GATED|progression_machines|machine_slick_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "map_locations": [
@@ -1931,7 +2060,11 @@
                         "sections": [
                             {
                                 "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
                                 ],
@@ -2181,7 +2314,8 @@
                         "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_slick_star"
+                                "$GATED|progression_machines|machine_slick_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "visibility_rules": [
@@ -2265,7 +2399,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_ar_courses|map_air_ride_beanstalk_park"
+                    [
+                        "$GATED|progression_ar_courses|map_air_ride_beanstalk_park",
+                        "$GATED|progression_base_abilities|base_ability_inhale"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -2513,7 +2650,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -2524,7 +2665,11 @@
                         "sections": [
                             {
                                 "name": "Swallow over 20 enemies and take 1st place!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -2633,7 +2778,11 @@
                     },
                     {
                         "name": "Swallow over 20 enemies and take 1st place!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -3453,7 +3602,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_ar_courses|map_air_ride_frozen_hillside"
+                    [
+                        "$GATED|progression_ar_courses|map_air_ride_frozen_hillside",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -3575,7 +3727,8 @@
                         "overlay_background": "#000000",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_turbo_star"
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "map_locations": [
@@ -3588,7 +3741,11 @@
                         "sections": [
                             {
                                 "name": "TA: Finish in under 03:10:00 on Turbo Star!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
                                 ],
@@ -3759,7 +3916,8 @@
                         "name": "TA: Finish in under 03:10:00 on Turbo Star!",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_turbo_star"
+                                "$GATED|progression_machines|machine_turbo_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "visibility_rules": [
@@ -3813,7 +3971,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_ar_courses|map_air_ride_checkered_knights"
+                    [
+                        "$GATED|progression_ar_courses|map_air_ride_checkered_knights",
+                        "$GATED|progression_base_abilities|base_ability_inhale"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -3933,7 +4094,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -3944,7 +4109,11 @@
                         "sections": [
                             {
                                 "name": "Swallow over 20 enemies and finish in 1st place!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -4159,7 +4328,11 @@
                     },
                     {
                         "name": "Swallow over 20 enemies and finish in 1st place!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },

@@ -5,7 +5,9 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            [
+                "$GATED|progression_base_abilities|base_ability_inhale"
+            ]
         ],
         "children": [
             {
@@ -1094,7 +1096,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_abilities|ability_mike"
+                    [
+                        "$GATED|progression_abilities|ability_mike",
+                        "$GATED|progression_base_abilities|base_ability_inhale"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1107,7 +1112,10 @@
                     {
                         "name": "Stadium: KIRBY MELEE (All) In one game, KO 10 enemies as Mic Kirby!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_mike"
+                            [
+                                "$GATED|progression_abilities|ability_mike",
+                                "$GATED|progression_base_abilities|base_ability_inhale"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1534,7 +1542,10 @@
             {
                 "name": "Stadium: KIRBY MELEE (All) In one game, KO 10 enemies as Mic Kirby!",
                 "access_rules": [
-                    "$GATED|progression_abilities|ability_mike"
+                    [
+                        "$GATED|progression_abilities|ability_mike",
+                        "$GATED|progression_base_abilities|base_ability_inhale"
+                    ]
                 ],
                 "visibility_rules": [],
                 "item_count": 1

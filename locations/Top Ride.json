@@ -36,7 +36,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    [
+                        "$GATED|progression_base_abilities|base_ability_quick_spin"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -75,7 +77,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -86,7 +92,11 @@
                         "sections": [
                             {
                                 "name": "Do 20 or more Quick Spins in one lap and finish 1st!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_quick_spin"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -499,7 +509,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -510,7 +524,11 @@
                         "sections": [
                             {
                                 "name": "Take 1st place while doing a Quick Spin!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_quick_spin"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -574,7 +592,11 @@
                     },
                     {
                         "name": "Do 20 or more Quick Spins in one lap and finish 1st!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -736,7 +758,11 @@
                     },
                     {
                         "name": "Take 1st place while doing a Quick Spin!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -824,7 +850,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_tr_courses|map_top_ride_grass"
+                    [
+                        "$GATED|progression_tr_courses|map_top_ride_grass",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -841,7 +870,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -852,7 +885,11 @@
                         "sections": [
                             {
                                 "name": "Finish 1st with CPUs set to level 5!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1151,7 +1188,11 @@
                 "sections": [
                     {
                         "name": "Finish 1st with CPUs set to level 5!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1245,7 +1286,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_tr_courses|map_top_ride_sand"
+                    [
+                        "$GATED|progression_tr_courses|map_top_ride_sand",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1360,7 +1404,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -1371,7 +1419,11 @@
                         "sections": [
                             {
                                 "name": "Finish 1st with CPUs set to level 5!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1622,7 +1674,11 @@
                     },
                     {
                         "name": "Finish 1st with CPUs set to level 5!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1694,7 +1750,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_tr_courses|map_top_ride_sky"
+                    [
+                        "$GATED|progression_tr_courses|map_top_ride_sky",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1951,7 +2010,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -1962,7 +2025,11 @@
                         "sections": [
                             {
                                 "name": "Finish 1st with CPUs set to level 5!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -2089,7 +2156,11 @@
                     },
                     {
                         "name": "Finish 1st with CPUs set to level 5!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -2115,7 +2186,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_tr_courses|map_top_ride_fire"
+                    [
+                        "$GATED|progression_tr_courses|map_top_ride_fire",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -2132,7 +2206,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -2143,7 +2221,11 @@
                         "sections": [
                             {
                                 "name": "Finish 1st with CPUs set to level 5!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -2444,7 +2526,11 @@
                 "sections": [
                     {
                         "name": "Finish 1st with CPUs set to level 5!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -2540,7 +2626,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_tr_courses|map_top_ride_water"
+                    [
+                        "$GATED|progression_tr_courses|map_top_ride_water",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -2633,7 +2722,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -2644,7 +2737,11 @@
                         "sections": [
                             {
                                 "name": "Finish 1st with CPUs set to level 5!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -2867,7 +2964,11 @@
                     },
                     {
                         "name": "Finish 1st with CPUs set to level 5!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -2933,7 +3034,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_tr_courses|map_top_ride_light"
+                    [
+                        "$GATED|progression_tr_courses|map_top_ride_light",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -3048,7 +3152,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -3059,7 +3167,11 @@
                         "sections": [
                             {
                                 "name": "Finish 1st with CPUs set to level 5!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -3310,7 +3422,11 @@
                     },
                     {
                         "name": "Finish 1st with CPUs set to level 5!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -3382,7 +3498,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_tr_courses|map_top_ride_metal"
+                    [
+                        "$GATED|progression_tr_courses|map_top_ride_metal",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -3661,7 +3780,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -3672,7 +3795,11 @@
                         "sections": [
                             {
                                 "name": "Finish 1st with CPUs set to level 5!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -3805,7 +3932,11 @@
                     },
                     {
                         "name": "Finish 1st with CPUs set to level 5!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
