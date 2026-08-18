@@ -1,15 +1,14 @@
 {
     "versions": [
         {
-            "package_version": "0.3.1",
-            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.3.1/KAR-Poptracker-v0.3.1.zip",
-            "sha256": "9c233bf509010c8f0f3b8a95869f88c55953acc8517a658d88f56b158b07d881",
+            "package_version": "0.4.0",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.4.0/KAR-Poptracker-v0.4.0.zip",
+            "sha256": "579f479c511905e83f2ddc0214490a9f8a8705a477fcfe264e78219e543d43e4",
             "changelog": [
-                "New 'Custom' tab tracking the 50 Archipelago-exclusive checks added by the latest apworld (these were previously untracked entirely)",
-                "Updated item mappings for the latest apworld, fixing ids that shifted and could light the wrong icon",
-                "Air Ride machine checks no longer require reaching an unrelated check first, matching the apworld's updated logic",
-                "City Trial checklist art now shows the 0/120 counter and checkbox like the other modes",
-                "AP Kirbs logo by Swiggity"
+                "New Base Abilities section tracking Inhale, Quick Spin and Machine Charge, with 27 checks now correctly gated behind them",
+                "Base Abilities added to the Seed Settings panel so you can see when your seed gates them",
+                "Fixed the three mode progression icons that were rendering blank",
+                "Rebuilt the internal location reference list, which had fallen out of date and did not include the Custom checks"
             ]
         },
         {
