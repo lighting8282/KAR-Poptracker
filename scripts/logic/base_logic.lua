@@ -85,23 +85,22 @@ function CT_PICKUP_ANY()
 end
 
 -- Top Ride "collect N items" / "same item 3x in one race" cells. They need SOME Top Ride item type
--- able to spawn. 15 item types are mask-gated (top_ride_items_gated); 4 ability-themed types
--- (Freeze Fan/Fire/Bomb/Walky) are gated by the copy-ability unlock (abilities_gated). Only when BOTH
--- gates are on does nothing spawn until one such unlock is held; if either gate is off, that group
--- always spawns so an item is always available. Mirrors the apworld _TR_ANY_ITEM_LOCATIONS rule.
--- (Two TR item types -- Step-boom, Who?-Paint -- have no tracker code yet and are omitted; harmless
--- to a 19-way any-of for these high-count cells.)
+-- able to spawn. The apworld builds this from every TR item unlock, plus the ability-themed keys when
+-- abilities are gated, and applies it whenever top_ride_items_gated is on. Ability codes are listed
+-- unconditionally here: if abilities are not gated no ability unlock items exist, so those entries
+-- simply never match. (Step-boom and Who?-Paint have no tracker code yet and are omitted.)
 -- Usage: "$TR_ITEM_ANY"
 local TR_COUNTING_ITEMS = {
-    "top_ride_item_big_cake", "top_ride_item_buzz_saw", "top_ride_item_charge_up", "top_ride_item_chickie",
-    "top_ride_item_drill", "top_ride_item_hammer", "top_ride_item_invincible_candy", "top_ride_item_krako",
-    "top_ride_item_lantern", "top_ride_item_missile", "top_ride_item_party_ball", "top_ride_item_smokescreen",
-    "top_ride_item_speed_down", "top_ride_item_speed_up", "top_ride_item_spinner",
+    "top_ride_item_big_cake", "top_ride_item_bomb", "top_ride_item_buzz_saw", "top_ride_item_charge_up",
+    "top_ride_item_chickie", "top_ride_item_drill", "top_ride_item_fire", "top_ride_item_freeze_fan",
+    "top_ride_item_hammer", "top_ride_item_invincible_candy", "top_ride_item_krako",
+    "top_ride_item_lantern", "top_ride_item_mike", "top_ride_item_missile", "top_ride_item_party_ball",
+    "top_ride_item_smokescreen", "top_ride_item_speed_down", "top_ride_item_speed_up",
+    "top_ride_item_spinner",
     "ability_freeze", "ability_fire", "ability_bomb", "ability_mike",
 }
 function TR_ITEM_ANY()
-    if Tracker:ProviderCountForCode("progression_tr_items") == 0
-        or Tracker:ProviderCountForCode("progression_abilities") == 0 then
+    if Tracker:ProviderCountForCode("progression_tr_items") == 0 then
         return ACCESS_NORMAL
     end
     for _, code in ipairs(TR_COUNTING_ITEMS) do
