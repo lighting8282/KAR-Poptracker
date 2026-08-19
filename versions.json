@@ -1,14 +1,13 @@
 {
     "versions": [
         {
-            "package_version": "0.4.0",
-            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.4.0/KAR-Poptracker-v0.4.0.zip",
-            "sha256": "579f479c511905e83f2ddc0214490a9f8a8705a477fcfe264e78219e543d43e4",
+            "package_version": "0.4.1",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.4.1/KAR-Poptracker-v0.4.1.zip",
+            "sha256": "d5df02706b69a1442ab70ea82408c91b2c3f04fa597ee49f21e02edd5e845ca3",
             "changelog": [
-                "New Base Abilities section tracking Inhale, Quick Spin and Machine Charge, with 27 checks now correctly gated behind them",
-                "Base Abilities added to the Seed Settings panel so you can see when your seed gates them",
-                "Fixed the three mode progression icons that were rendering blank",
-                "Rebuilt the internal location reference list, which had fallen out of date and did not include the Custom checks"
+                "Fire, Bomb, Freeze Fan and Walky Top Ride items now light up when you receive them - they previously never did",
+                "Fixed the Top Ride item-count checks showing as in logic on seeds that gate only Top Ride items",
+                "Removed two icons that could never be obtained (grey Kirby and Party Bomb)"
             ]
         },
         {
