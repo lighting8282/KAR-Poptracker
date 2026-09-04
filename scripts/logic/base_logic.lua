@@ -88,25 +88,52 @@ end
 -- able to spawn. The apworld builds this from every TR item unlock, plus the ability-themed keys when
 -- abilities are gated, and applies it whenever top_ride_items_gated is on. Ability codes are listed
 -- unconditionally here: if abilities are not gated no ability unlock items exist, so those entries
--- simply never match. (Step-boom and Who?-Paint have no tracker code yet and are omitted.)
+-- simply never match.
 -- Usage: "$TR_ITEM_ANY"
-local TR_COUNTING_ITEMS = {
+--
+-- TR_ITEM_TYPES is the 21 Top Ride item types, matching the apworld's TR_ITEM_UNLOCK set (ids 900-921,
+-- no 912). Step-boom ships under the source-art filename "party bomb"; it is id 914.
+local TR_ITEM_TYPES = {
     "top_ride_item_big_cake", "top_ride_item_bomb", "top_ride_item_buzz_saw", "top_ride_item_charge_up",
     "top_ride_item_chickie", "top_ride_item_drill", "top_ride_item_fire", "top_ride_item_freeze_fan",
     "top_ride_item_hammer", "top_ride_item_invincible_candy", "top_ride_item_krako",
     "top_ride_item_lantern", "top_ride_item_mike", "top_ride_item_missile", "top_ride_item_party_ball",
     "top_ride_item_smokescreen", "top_ride_item_speed_down", "top_ride_item_speed_up",
-    "top_ride_item_spinner",
-    "ability_freeze", "ability_fire", "ability_bomb", "ability_mike",
+    "top_ride_item_spinner", "top_ride_item_step_boom", "top_ride_item_who_paint",
 }
+local TR_ABILITY_ITEM_KEYS = { "ability_freeze", "ability_fire", "ability_bomb", "ability_mike" }
 function TR_ITEM_ANY()
     if Tracker:ProviderCountForCode("progression_tr_items") == 0 then
         return ACCESS_NORMAL
     end
-    for _, code in ipairs(TR_COUNTING_ITEMS) do
-        if Tracker:ProviderCountForCode(code) > 0 then
-            return ACCESS_NORMAL
+    for _, list in ipairs({TR_ITEM_TYPES, TR_ABILITY_ITEM_KEYS}) do
+        for _, code in ipairs(list) do
+            if Tracker:ProviderCountForCode(code) > 0 then
+                return ACCESS_NORMAL
+            end
         end
+    end
+    return ACCESS_NONE
+end
+
+-- "Get over 18 different types of items!" -- needs n DISTINCT Top Ride item types able to spawn
+-- (HasFromListUnique in the apworld; "over 18" means 19 of the 21). This counts held TYPES, not copies,
+-- so the ability-themed keys are deliberately excluded: the matching TR item unlock already scores that
+-- type, and counting both keys would score one type twice.
+-- Usage: "$TR_TYPES_AT_LEAST|19"
+function TR_TYPES_AT_LEAST(n)
+    if Tracker:ProviderCountForCode("progression_tr_items") == 0 then
+        return ACCESS_NORMAL
+    end
+    n = tonumber(n) or 0
+    local held = 0
+    for _, code in ipairs(TR_ITEM_TYPES) do
+        if Tracker:ProviderCountForCode(code) > 0 then
+            held = held + 1
+        end
+    end
+    if held >= n then
+        return ACCESS_NORMAL
     end
     return ACCESS_NONE
 end

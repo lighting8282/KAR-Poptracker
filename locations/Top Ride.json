@@ -321,7 +321,9 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$TR_TYPES_AT_LEAST|19"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Top Ride Checklist",
@@ -332,7 +334,9 @@
                         "sections": [
                             {
                                 "name": "Get over 18 different types of items!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$TR_TYPES_AT_LEAST|19"
+                                ],
                                 "visibility_rules": [
                                     "top_ride_progression_high_effort"
                                 ],
@@ -688,7 +692,9 @@
                     },
                     {
                         "name": "Get over 18 different types of items!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$TR_TYPES_AT_LEAST|19"
+                        ],
                         "visibility_rules": [
                             "top_ride_progression_high_effort"
                         ],

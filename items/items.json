@@ -1527,12 +1527,20 @@
         "codes": "top_ride_item_party_ball"
     },
     {
-        "name": "top_ride_item_party_bomb",
+        "name": "top_ride_item_step_boom",
         "type": "toggle",
-        "img": "images/items/top_ride_item_party_bomb_active.png",
-        "img_inactive": "images/items/top_ride_item_party_bomb_inactive.png",
+        "img": "images/items/top_ride_item_step_boom_active.png",
+        "img_inactive": "images/items/top_ride_item_step_boom_inactive.png",
         "initial_active_state": false,
-        "codes": "top_ride_item_party_bomb"
+        "codes": "top_ride_item_step_boom"
+    },
+    {
+        "name": "top_ride_item_who_paint",
+        "type": "toggle",
+        "img": "images/items/top_ride_item_who_paint_active.png",
+        "img_inactive": "images/items/top_ride_item_who_paint_inactive.png",
+        "initial_active_state": false,
+        "codes": "top_ride_item_who_paint"
     },
     {
         "name": "top_ride_item_smokescreen",

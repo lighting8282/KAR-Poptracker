@@ -372,7 +372,11 @@
                 "overlay_background": "#000000",
                 "access_rules": [
                     [
-                        "$GATED|progression_base_abilities|base_ability_inhale"
+                        "$GATED|progression_base_abilities|base_ability_inhale",
+                        "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights",
+                        "$GATED_ANY|progression_ar_courses|map_air_ride_sky_sands|map_air_ride_machine_passage|map_air_ride_checkered_knights",
+                        "$GATED_ANY|progression_ar_courses|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights",
+                        "$GATED_ANY|progression_ar_courses|map_air_ride_magma_flows|map_air_ride_celestial_valley|map_air_ride_machine_passage|map_air_ride_checkered_knights"
                     ]
                 ],
                 "map_locations": [
@@ -393,7 +397,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_abilities|ability_sword",
-                                "$GATED|progression_base_abilities|base_ability_inhale"
+                                "$GATED|progression_base_abilities|base_ability_inhale",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights"
                             ]
                         ],
                         "map_locations": [
@@ -408,7 +413,8 @@
                                 "name": "Swallow Sword Knight 3 times and take 1st!",
                                 "access_rules": [
                                     [
-                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                        "$GATED|progression_base_abilities|base_ability_inhale",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights"
                                     ]
                                 ],
                                 "visibility_rules": [],
@@ -454,7 +460,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_abilities|ability_wheel",
-                                "$GATED|progression_base_abilities|base_ability_inhale"
+                                "$GATED|progression_base_abilities|base_ability_inhale",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_sky_sands|map_air_ride_machine_passage|map_air_ride_checkered_knights"
                             ]
                         ],
                         "map_locations": [
@@ -469,7 +476,8 @@
                                 "name": "Swallow Wheelie 3 times and take 1st!",
                                 "access_rules": [
                                     [
-                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                        "$GATED|progression_base_abilities|base_ability_inhale",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_sky_sands|map_air_ride_machine_passage|map_air_ride_checkered_knights"
                                     ]
                                 ],
                                 "visibility_rules": [],
@@ -485,7 +493,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_abilities|ability_freeze",
-                                "$GATED|progression_base_abilities|base_ability_inhale"
+                                "$GATED|progression_base_abilities|base_ability_inhale",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights"
                             ]
                         ],
                         "map_locations": [
@@ -500,7 +509,8 @@
                                 "name": "Swallow Chilly 3 times and take 1st!",
                                 "access_rules": [
                                     [
-                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                        "$GATED|progression_base_abilities|base_ability_inhale",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights"
                                     ]
                                 ],
                                 "visibility_rules": [],
@@ -516,7 +526,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_abilities|ability_plasma",
-                                "$GATED|progression_base_abilities|base_ability_inhale"
+                                "$GATED|progression_base_abilities|base_ability_inhale",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_magma_flows|map_air_ride_celestial_valley|map_air_ride_machine_passage|map_air_ride_checkered_knights"
                             ]
                         ],
                         "map_locations": [
@@ -531,7 +542,8 @@
                                 "name": "Swallow Plasma Wisp 3 times and take 1st!",
                                 "access_rules": [
                                     [
-                                        "$GATED|progression_base_abilities|base_ability_inhale"
+                                        "$GATED|progression_base_abilities|base_ability_inhale",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_magma_flows|map_air_ride_celestial_valley|map_air_ride_machine_passage|map_air_ride_checkered_knights"
                                     ]
                                 ],
                                 "visibility_rules": [],
@@ -546,7 +558,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_abilities|ability_sword",
-                                "$GATED|progression_base_abilities|base_ability_inhale"
+                                "$GATED|progression_base_abilities|base_ability_inhale",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights"
                             ]
                         ],
                         "visibility_rules": [],
@@ -567,7 +580,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_abilities|ability_wheel",
-                                "$GATED|progression_base_abilities|base_ability_inhale"
+                                "$GATED|progression_base_abilities|base_ability_inhale",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_sky_sands|map_air_ride_machine_passage|map_air_ride_checkered_knights"
                             ]
                         ],
                         "visibility_rules": [],
@@ -578,7 +592,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_abilities|ability_freeze",
-                                "$GATED|progression_base_abilities|base_ability_inhale"
+                                "$GATED|progression_base_abilities|base_ability_inhale",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights"
                             ]
                         ],
                         "visibility_rules": [],
@@ -589,7 +604,8 @@
                         "access_rules": [
                             [
                                 "$GATED|progression_abilities|ability_plasma",
-                                "$GATED|progression_base_abilities|base_ability_inhale"
+                                "$GATED|progression_base_abilities|base_ability_inhale",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_magma_flows|map_air_ride_celestial_valley|map_air_ride_machine_passage|map_air_ride_checkered_knights"
                             ]
                         ],
                         "visibility_rules": [],
@@ -1438,7 +1454,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    [
+                        "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_celestial_valley|map_air_ride_sky_sands|map_air_ride_beanstalk_park|map_air_ride_machine_passage|map_air_ride_nebula_belt"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1479,7 +1497,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_celestial_valley|map_air_ride_sky_sands|map_air_ride_beanstalk_park|map_air_ride_machine_passage|map_air_ride_nebula_belt"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1490,7 +1512,11 @@
                         "sections": [
                             {
                                 "name": "Finish in 1st place while flying through the air!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_celestial_valley|map_air_ride_sky_sands|map_air_ride_beanstalk_park|map_air_ride_machine_passage|map_air_ride_nebula_belt"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1628,7 +1654,11 @@
                     },
                     {
                         "name": "Finish in 1st place while flying through the air!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_celestial_valley|map_air_ride_sky_sands|map_air_ride_beanstalk_park|map_air_ride_machine_passage|map_air_ride_nebula_belt"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -1681,7 +1711,8 @@
                 "overlay_background": "#000000",
                 "access_rules": [
                     [
-                        "$GATED|progression_base_abilities|base_ability_quick_spin"
+                        "$GATED|progression_base_abilities|base_ability_quick_spin",
+                        "$GATED_ANY|progression_ar_courses|map_air_ride_celestial_valley|map_air_ride_beanstalk_park"
                     ]
                 ],
                 "map_locations": [
@@ -1828,7 +1859,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_celestial_valley|map_air_ride_beanstalk_park"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1839,7 +1874,11 @@
                         "sections": [
                             {
                                 "name": "In one game, drop from the cliffs 3 times!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_celestial_valley|map_air_ride_beanstalk_park"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1968,7 +2007,11 @@
                     },
                     {
                         "name": "In one game, drop from the cliffs 3 times!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_celestial_valley|map_air_ride_beanstalk_park"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },

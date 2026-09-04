@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "0.4.2",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.4.2/KAR-Poptracker-v0.4.2.zip",
+            "sha256": "726cd9a57eed7c1363a6de9a6f031fc982335bf320380ca5a78b9b468ea4b1f0",
+            "changelog": [
+                "Fixed \"Get over 18 different types of items!\" showing as in logic from the start - it had no requirement at all, and now needs 19 of the 21 Top Ride item types",
+                "Step-boom and Who? Paint are now tracked and shown - Step-boom was in the pack under the wrong name (Party Bomb) and Who? Paint was missing entirely",
+                "Top Ride item-count checks now count all 21 item types instead of 19",
+                "Swallow Sword Knight now requires one of the six courses the enemy actually appears on - it was reachable with only Beanstalk Park unlocked"
+            ]
+        },
+        {
             "package_version": "0.4.1",
             "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.4.1/KAR-Poptracker-v0.4.1.zip",
             "sha256": "d5df02706b69a1442ab70ea82408c91b2c3f04fa597ee49f21e02edd5e845ca3",

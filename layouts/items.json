@@ -977,10 +977,10 @@
                         "top_ride_item_fire",
                         "top_ride_item_freeze_fan",
                         "top_ride_item_hammer",
-                        "top_ride_item_krako"
+                        "top_ride_item_krako",
+                        "top_ride_item_lantern"
                     ],
                     [
-                        "top_ride_item_lantern",
                         "top_ride_item_mike",
                         "top_ride_item_missile",
                         "top_ride_item_party_ball",
@@ -988,6 +988,8 @@
                         "top_ride_item_speed_up",
                         "top_ride_item_speed_down",
                         "top_ride_item_spinner",
+                        "top_ride_item_step_boom",
+                        "top_ride_item_who_paint",
                         "top_ride_item_invincible_candy"
                     ]
                 ]
