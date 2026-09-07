@@ -37,9 +37,12 @@ datapackage_url.json
 # Audio files
 audio/
 
-# Source/reference images (not needed for tracker)
-images/Stadiums/
-images/Events/
+# Source/reference art is tracked on purpose: images/Events, images/Misc Icons and
+# images/Stadiums hold the originals the shipped icons were cut from, and existed on
+# one machine only. They are not referenced by the pack and are excluded from the
+# release zip by the build's explicit file list, so tracking them costs nothing at
+# runtime. The one thing still kept out is the 27 MB GKY.7z texture dump, via *.7z
+# above - it is redundant with the extracted stadium images beside it.
 
 # Old/backup icon versions
 images/items/*(old)*
@@ -48,10 +51,7 @@ images/items/*(old)*
 bottom_section_preview.png
 drag_race_1_preview.png
 test*/
-GameCube*.png
-GameCube*.PNG
+/GameCube*.png
+/GameCube*.PNG
 test*.PNG
 test*.png
-
-# Source/reference icons (not needed for tracker)
-images/Misc Icons/
