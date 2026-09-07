@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "package_version": "0.5.1",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.1/KAR-Poptracker-v0.5.1.zip",
+            "sha256": "7c371ca5a6f1a29db54f00df4b6f99c5e3c300ab39fb8208043842e0796e8021",
+            "changelog": [
+                "Fixed the City Trial checklist map failing to load on Linux and macOS - the file was shipped in the wrong letter case",
+                "Windows was unaffected; everything else in v0.5.0 is unchanged"
+            ]
+        },
+        {
             "package_version": "0.5.0",
             "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.0/KAR-Poptracker-v0.5.0.zip",
             "sha256": "d8db7d32a6b28ccfc58a2b1a275e572c53a491dc570d03a47fbbec2e1b4a6a9e",
