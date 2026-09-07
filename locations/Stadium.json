@@ -4,11 +4,7 @@
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
-        "access_rules": [
-            [
-                "$GATED|progression_base_abilities|base_ability_charge"
-            ]
-        ],
+        "access_rules": [],
         "children": [
             {
                 "name": "play in over 10 stadium modes!",
@@ -1075,7 +1071,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_stadiums|stadium_vs_king_dedede"
+                    [
+                        "$GOAL_GATED_ALL|progression_stadiums|goal_gated_vs_king_dedede|stadium_vs_king_dedede"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1088,7 +1086,9 @@
                     {
                         "name": "VS. KING DEDEDE KO King Dedede in less than a minute!",
                         "access_rules": [
-                            "stadium_vs_king_dedede"
+                            [
+                                "$GOAL_GATED_ALL|progression_stadiums|goal_gated_vs_king_dedede|stadium_vs_king_dedede"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1833,7 +1833,9 @@
             {
                 "name": "VS. KING DEDEDE KO King Dedede in less than a minute!",
                 "access_rules": [
-                    "stadium_vs_king_dedede"
+                    [
+                        "$GOAL_GATED_ALL|progression_stadiums|goal_gated_vs_king_dedede|stadium_vs_king_dedede"
+                    ]
                 ],
                 "visibility_rules": [],
                 "item_count": 1

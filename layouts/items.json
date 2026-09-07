@@ -689,7 +689,8 @@
                         "machine_warp_star",
                         "machine_wheelie_bike",
                         "machine_rex_wheelie",
-                        "machine_scooter_bike"
+                        "machine_scooter_bike",
+                        "machine_archipelago_star"
                     ]
                 ]
             }
@@ -1300,6 +1301,16 @@
                         "part_hydra_x",
                         "part_hydra_y",
                         "part_hydra_z"
+                    ],
+                    [
+                        "part_ap_sphere_rose",
+                        "part_ap_sphere_green",
+                        "part_ap_sphere_violet"
+                    ],
+                    [
+                        "part_ap_sphere_tan",
+                        "part_ap_sphere_blue",
+                        "part_ap_sphere_yellow"
                     ]
                 ]
             }

@@ -1676,6 +1676,14 @@
         "codes": "machine_wheelie_bike"
     },
     {
+        "name": "machine_archipelago_star",
+        "type": "toggle",
+        "img": "images/items/machine_archipelago_star_active.png",
+        "img_inactive": "images/items/machine_archipelago_star_inactive.png",
+        "initial_active_state": false,
+        "codes": "machine_archipelago_star"
+    },
+    {
         "name": "event_air_ride_formation",
         "type": "toggle",
         "img": "images/items/event_air_ride_formation_active.png",
@@ -2088,6 +2096,54 @@
         "codes": "part_hydra_z"
     },
     {
+        "name": "part_ap_sphere_rose",
+        "type": "toggle",
+        "img": "images/items/part_ap_sphere_rose_active.png",
+        "img_inactive": "images/items/part_ap_sphere_rose_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_ap_sphere_rose"
+    },
+    {
+        "name": "part_ap_sphere_green",
+        "type": "toggle",
+        "img": "images/items/part_ap_sphere_green_active.png",
+        "img_inactive": "images/items/part_ap_sphere_green_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_ap_sphere_green"
+    },
+    {
+        "name": "part_ap_sphere_violet",
+        "type": "toggle",
+        "img": "images/items/part_ap_sphere_violet_active.png",
+        "img_inactive": "images/items/part_ap_sphere_violet_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_ap_sphere_violet"
+    },
+    {
+        "name": "part_ap_sphere_tan",
+        "type": "toggle",
+        "img": "images/items/part_ap_sphere_tan_active.png",
+        "img_inactive": "images/items/part_ap_sphere_tan_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_ap_sphere_tan"
+    },
+    {
+        "name": "part_ap_sphere_blue",
+        "type": "toggle",
+        "img": "images/items/part_ap_sphere_blue_active.png",
+        "img_inactive": "images/items/part_ap_sphere_blue_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_ap_sphere_blue"
+    },
+    {
+        "name": "part_ap_sphere_yellow",
+        "type": "toggle",
+        "img": "images/items/part_ap_sphere_yellow_active.png",
+        "img_inactive": "images/items/part_ap_sphere_yellow_inactive.png",
+        "initial_active_state": false,
+        "codes": "part_ap_sphere_yellow"
+    },
+    {
         "name": "progression_machines",
         "type": "toggle",
         "img": "images/items/progression_machines_active.png",
@@ -2244,5 +2300,39 @@
         "img_inactive": "images/items/progression_base_abilities_inactive.png",
         "initial_active_state": false,
         "codes": "progression_base_abilities"
+    },
+    {
+        "name": "goal_gated_ap_star_pieces",
+        "type": "toggle",
+        "img": "images/items/blank.png",
+        "img_inactive": "images/items/blank.png",
+        "initial_active_state": false,
+        "codes": "goal_gated_ap_star_pieces"
+    },
+    {
+        "name": "goal_gated_legendary_pieces",
+        "type": "toggle",
+        "img": "images/items/blank.png",
+        "img_inactive": "images/items/blank.png",
+        "initial_active_state": false,
+        "codes": "goal_gated_legendary_pieces"
+    },
+    {
+        "name": "goal_gated_vs_king_dedede",
+        "type": "toggle",
+        "img": "images/items/blank.png",
+        "img_inactive": "images/items/blank.png",
+        "initial_active_state": false,
+        "codes": "goal_gated_vs_king_dedede"
+    },
+    {
+        "name": "ap_patch_count",
+        "type": "consumable",
+        "img": "images/items/blank.png",
+        "codes": "ap_patch_count",
+        "min_quantity": 0,
+        "max_quantity": 200,
+        "initial_quantity": 0,
+        "increment": 1
     }
 ]

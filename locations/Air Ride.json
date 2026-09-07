@@ -1474,7 +1474,11 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_sword"
+                            [
+                                "$GATED|progression_abilities|ability_sword",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights|map_air_ride_nebula_belt",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -1486,7 +1490,13 @@
                         "sections": [
                             {
                                 "name": "Sword Challenge: swing sword 10 times and take 1st!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_abilities|ability_sword",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights|map_air_ride_nebula_belt",
+                                        "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1528,7 +1538,11 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_wing"
+                            [
+                                "$GATED|progression_abilities|ability_wing",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_magma_flows|map_air_ride_beanstalk_park|map_air_ride_celestial_valley|map_air_ride_checkered_knights|map_air_ride_nebula_belt",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -1540,7 +1554,13 @@
                         "sections": [
                             {
                                 "name": "Finish in 1st place with Wing ability!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_abilities|ability_wing",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_magma_flows|map_air_ride_beanstalk_park|map_air_ride_celestial_valley|map_air_ride_checkered_knights|map_air_ride_nebula_belt",
+                                        "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1552,7 +1572,11 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_sleep"
+                            [
+                                "$GATED|progression_abilities|ability_sleep",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_beanstalk_park|map_air_ride_checkered_knights|map_air_ride_nebula_belt|map_air_ride_celestial_valley",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -1564,7 +1588,13 @@
                         "sections": [
                             {
                                 "name": "Finish in 1st place with Sleep ability!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_abilities|ability_sleep",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_beanstalk_park|map_air_ride_checkered_knights|map_air_ride_nebula_belt|map_air_ride_celestial_valley",
+                                        "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1576,7 +1606,11 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_tornado"
+                            [
+                                "$GATED|progression_abilities|ability_tornado",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_sky_sands|map_air_ride_beanstalk_park|map_air_ride_celestial_valley|map_air_ride_checkered_knights",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -1588,7 +1622,13 @@
                         "sections": [
                             {
                                 "name": "Tornado Challenge: defeat 15 enemies as Tornado Kirby!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_abilities|ability_tornado",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_sky_sands|map_air_ride_beanstalk_park|map_air_ride_celestial_valley|map_air_ride_checkered_knights",
+                                        "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_celestial_valley"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1600,7 +1640,10 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_fire"
+                            [
+                                "$GATED|progression_abilities|ability_fire",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -1612,7 +1655,11 @@
                         "sections": [
                             {
                                 "name": "Finish in 1st place with Fire ability!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1624,7 +1671,11 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_needle"
+                            [
+                                "$GATED|progression_abilities|ability_needle",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_machine_passage|map_air_ride_nebula_belt",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "map_locations": [
                             {
@@ -1636,7 +1687,13 @@
                         "sections": [
                             {
                                 "name": "Finish in 1st place with Needle ability!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_abilities|ability_needle",
+                                        "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_machine_passage|map_air_ride_nebula_belt",
+                                        "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -1647,7 +1704,11 @@
                     {
                         "name": "Sword Challenge: swing sword 10 times and take 1st!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_sword"
+                            [
+                                "$GATED|progression_abilities|ability_sword",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_checkered_knights|map_air_ride_nebula_belt",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1665,7 +1726,11 @@
                     {
                         "name": "Finish in 1st place with Wing ability!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_wing"
+                            [
+                                "$GATED|progression_abilities|ability_wing",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_magma_flows|map_air_ride_beanstalk_park|map_air_ride_celestial_valley|map_air_ride_checkered_knights|map_air_ride_nebula_belt",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1673,7 +1738,11 @@
                     {
                         "name": "Finish in 1st place with Sleep ability!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_sleep"
+                            [
+                                "$GATED|progression_abilities|ability_sleep",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_magma_flows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_beanstalk_park|map_air_ride_checkered_knights|map_air_ride_nebula_belt|map_air_ride_celestial_valley",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1681,7 +1750,11 @@
                     {
                         "name": "Tornado Challenge: defeat 15 enemies as Tornado Kirby!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_tornado"
+                            [
+                                "$GATED|progression_abilities|ability_tornado",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_sky_sands|map_air_ride_beanstalk_park|map_air_ride_celestial_valley|map_air_ride_checkered_knights",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1689,7 +1762,10 @@
                     {
                         "name": "Finish in 1st place with Fire ability!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_fire"
+                            [
+                                "$GATED|progression_abilities|ability_fire",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1697,7 +1773,11 @@
                     {
                         "name": "Finish in 1st place with Needle ability!",
                         "access_rules": [
-                            "$GATED|progression_abilities|ability_needle"
+                            [
+                                "$GATED|progression_abilities|ability_needle",
+                                "$GATED_ANY|progression_ar_courses|map_air_ride_fantasy_meadows|map_air_ride_sky_sands|map_air_ride_frozen_hillside|map_air_ride_celestial_valley|map_air_ride_machine_passage|map_air_ride_nebula_belt",
+                                "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1837,7 +1917,11 @@
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "map_locations": [
                             {
                                 "map": "Air Ride Checklist",
@@ -1848,7 +1932,11 @@
                         "sections": [
                             {
                                 "name": "Cross the finish line while spinning and take 1st place!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_quick_spin"
+                                    ]
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -2001,7 +2089,11 @@
                     },
                     {
                         "name": "Cross the finish line while spinning and take 1st place!",
-                        "access_rules": [],
+                        "access_rules": [
+                            [
+                                "$GATED|progression_base_abilities|base_ability_quick_spin"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -3113,7 +3205,8 @@
                         "overlay_background": "#000000",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_bulk_star"
+                                "$GATED|progression_machines|machine_bulk_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "map_locations": [
@@ -3126,7 +3219,11 @@
                         "sections": [
                             {
                                 "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
-                                "access_rules": [],
+                                "access_rules": [
+                                    [
+                                        "$GATED|progression_base_abilities|base_ability_charge"
+                                    ]
+                                ],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
                                 ],
@@ -3239,7 +3336,8 @@
                         "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
                         "access_rules": [
                             [
-                                "$GATED|progression_machines|machine_bulk_star"
+                                "$GATED|progression_machines|machine_bulk_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
                             ]
                         ],
                         "visibility_rules": [

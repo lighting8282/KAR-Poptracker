@@ -548,8 +548,24 @@ function applyProgressionSettings(slot_data)
         ["air_ride_courses_gated"]    = "progression_ar_courses",
         ["top_ride_courses_gated"]    = "progression_tr_courses",
         ["top_ride_items_gated"]      = "progression_tr_items",
+        -- Dropped in apworld 1.2.0 (replaced by a checklist_rewards bitmask). Kept so seeds generated on
+        -- 1.1.1 still light the indicator; on 1.2.0 the key is absent and it simply reads off.
         ["checklist_rewards_gated"]   = "progression_rewards",
+        -- apworld 1.2.0: goal keys withheld from an UNGATED category's pre-fill, so the goal is not free
+        -- at connect. Each is 0 when its category is gated, because the category flag already covers it.
+        -- Not shown anywhere; they only feed $GOAL_GATED_ALL on the assemble / VS DEDEDE cells.
+        ["ap_star_pieces_goal_gated"]   = "goal_gated_ap_star_pieces",
+        ["legendary_pieces_goal_gated"] = "goal_gated_legendary_pieces",
+        ["vs_king_dedede_goal_gated"]   = "goal_gated_vs_king_dedede",
     }
+
+    -- apworld 1.2.0: a seed mints only the first `ap_patches` of the 200-wide AP Patch location table.
+    -- Copy the count into a consumable so "$AP_PATCH_VISIBLE|n" can hide the cells this seed never made.
+    -- Absent on 1.1.1 seeds, which had no AP Patches at all -- nil reads as 0 and hides all 200.
+    local patch_obj = Tracker:FindObjectForCode("ap_patch_count")
+    if patch_obj then
+        patch_obj.AcquiredCount = tonumber(slot_data["ap_patches"]) or 0
+    end
     for flag, code in pairs(gated) do
         local item = Tracker:FindObjectForCode(code)
         if item then

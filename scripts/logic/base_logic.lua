@@ -49,6 +49,59 @@ function GATED_ALL(setting_code, ...)
     return ACCESS_NORMAL
 end
 
+-- Two-gate "any-of" reachability. Like GATED_ANY but the requirement only bites when BOTH categories
+-- are gated this seed; either one off and the term is free. Used for the box-break cells, where a color
+-- needs something able to spawn inside it: the contents gate (city_trial_items_gated) plus the gate on
+-- that color's own contents -- patches for blue, abilities for red. Mirrors the apworld's nested
+-- `if gated("city_trial_items_gated"): if gated("city_trial_patches_gated"): ...`.
+-- Usage: "$GATED2_ANY|progression_ct_items|progression_patches|patch_unlock_hp|food_apple"
+function GATED2_ANY(setting_a, setting_b, ...)
+    if Tracker:ProviderCountForCode(setting_a) == 0
+        or Tracker:ProviderCountForCode(setting_b) == 0 then
+        return ACCESS_NORMAL
+    end
+    for _, code in ipairs({...}) do
+        if Tracker:ProviderCountForCode(code) > 0 then
+            return ACCESS_NORMAL
+        end
+    end
+    return ACCESS_NONE
+end
+
+-- AP Patch visibility (apworld 1.2.0). A seed mints only the first `ap_patches` of the 200-wide AP Patch
+-- location table, so patch #n exists only when the seed asked for at least n. The autotracker copies the
+-- ap_patches slot_data value into the ap_patch_count consumable; this hides every cell past it.
+--
+-- Visibility only -- AP Patches carry no access rule. Their group regions chain off City Trial through
+-- free events, so every patch is reachable as soon as City Trial is; the grouping exists to shape fill
+-- spheres, not to gate anything.
+-- Usage in visibility_rules: "$AP_PATCH_VISIBLE|37"
+function AP_PATCH_VISIBLE(n)
+    n = tonumber(n) or 0
+    if Tracker:ProviderCountForCode("ap_patch_count") >= n then
+        return ACCESS_NORMAL
+    end
+    return ACCESS_NONE
+end
+
+-- Goal-key reachability (apworld 1.2.0). A set of items can be required in two ways: its whole category
+-- is gated, or -- with that gate off -- the seed's goal makes just those items keys and the mod withholds
+-- them (the *_goal_gated slot_data flags). Either way every listed code is needed; with neither in play
+-- the items always spawn and the cell is free. Used by the assemble cells and VS KING DEDEDE.
+-- Usage: "$GOAL_GATED_ALL|progression_ct_items|goal_gated_ap_star_pieces|part_ap_sphere_rose|..."
+function GOAL_GATED_ALL(setting_code, goal_flag_code, ...)
+    if Tracker:ProviderCountForCode(setting_code) == 0
+        and Tracker:ProviderCountForCode(goal_flag_code) == 0 then
+        return ACCESS_NORMAL
+    end
+    for _, code in ipairs({...}) do
+        if Tracker:ProviderCountForCode(code) == 0 then
+            return ACCESS_NONE
+        end
+    end
+    return ACCESS_NORMAL
+end
+
 -- Item-pickup count cells ("get / pick up N items"). The in-game counter advances for any counting
 -- item type. Those types are locked across THREE gates -- CT items, patches and abilities. Only when
 -- ALL THREE are gated does nothing count until one such unlock is held; if any of the three gates is
@@ -111,6 +164,33 @@ function TR_ITEM_ANY()
             if Tracker:ProviderCountForCode(code) > 0 then
                 return ACCESS_NORMAL
             end
+        end
+    end
+    return ACCESS_NONE
+end
+
+-- Air Ride ability cells ("finish 1st with <ability>", Sword/Tornado challenges). The ability has two
+-- sources: swallow that ability's enemy, which needs Inhale, or drive over a ground copy panel, which
+-- needs neither Inhale nor an enemy. So the cell is reachable with Inhale OR with any course that
+-- carries a panel. Mirrors the apworld's `inhale | HasAny(*panels)`.
+--
+-- The apworld only applies this when BOTH base abilities and AR courses are gated:
+--   * base abilities ungated -> Inhale is always held, so the Inhale half always passes;
+--   * courses ungated        -> every course is open, so a panel course is always available.
+-- Either gate being off makes the term free, which is why both are checked before anything else.
+-- The cell's own course-subset rule ($GATED_ANY over enemy+panel courses) is separate and still applies.
+-- Usage: "$AR_ABILITY_INHALE_OR_PANEL|map_air_ride_nebula_belt|map_air_ride_celestial_valley"
+function AR_ABILITY_INHALE_OR_PANEL(...)
+    if Tracker:ProviderCountForCode("progression_base_abilities") == 0
+        or Tracker:ProviderCountForCode("progression_ar_courses") == 0 then
+        return ACCESS_NORMAL
+    end
+    if Tracker:ProviderCountForCode("base_ability_inhale") > 0 then
+        return ACCESS_NORMAL
+    end
+    for _, code in ipairs({...}) do
+        if Tracker:ProviderCountForCode(code) > 0 then
+            return ACCESS_NORMAL
         end
     end
     return ACCESS_NONE

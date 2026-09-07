@@ -1,6 +1,21 @@
 {
     "versions": [
         {
+            "package_version": "0.5.0",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.0/KAR-Poptracker-v0.5.0.zip",
+            "sha256": "d8db7d32a6b28ccfc58a2b1a275e572c53a491dc570d03a47fbbec2e1b4a6a9e",
+            "changelog": [
+                "REQUIRES apworld v1.2.0 - on an older apworld the logic will be wrong",
+                "Added the Archipelago Star: the machine, the 6 Archipelago Spheres, and both assemble checks",
+                "Added AP Patch tracking - up to 200 checks, shown to match however many your seed rolled",
+                "Ability challenges (Sword, Sleep, Wing, Needle, Tornado) now require a course the ability can actually be obtained on, or a copy-panel course instead of Inhale",
+                "Fixed every Archipelago check needing Inhale and every Stadium check needing Charge - those rules were wrongly on the mode itself instead of the individual checks",
+                "Box-break checks now also require something able to spawn inside that box colour",
+                "Assemble and VS KING DEDEDE checks now account for goal-held keys on ungated seeds",
+                "Added the missing Quick Spin and Charge requirements on three checks"
+            ]
+        },
+        {
             "package_version": "0.4.2",
             "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.4.2/KAR-Poptracker-v0.4.2.zip",
             "sha256": "726cd9a57eed7c1363a6de9a6f031fc982335bf320380ca5a78b9b468ea4b1f0",

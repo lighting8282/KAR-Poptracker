@@ -4,11 +4,7 @@
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
-        "access_rules": [
-            [
-                "$GATED|progression_base_abilities|base_ability_inhale"
-            ]
-        ],
+        "access_rules": [],
         "children": [
             {
                 "name": "City Trial: Visit the flower on top of Castle Hall on foot!",
@@ -628,7 +624,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_machines|machine_bulk_star"
+                    [
+                        "$GATED|progression_machines|machine_bulk_star",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -641,7 +640,10 @@
                     {
                         "name": "Stadium: SINGLE RACE 1 Finish in 1st place on Bulk Star!",
                         "access_rules": [
-                            "$GATED|progression_machines|machine_bulk_star"
+                            [
+                                "$GATED|progression_machines|machine_bulk_star",
+                                "$GATED|progression_base_abilities|base_ability_charge"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1128,7 +1130,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_boxes|box_blue"
+                    [
+                        "$GATED|progression_boxes|box_blue",
+                        "$GATED2_ANY|progression_ct_items|progression_patches|patch_unlock_weight|patch_unlock_boost|patch_unlock_top_speed|patch_unlock_turn|patch_unlock_charge|patch_unlock_glide|patch_unlock_offense|patch_unlock_defense|patch_unlock_hp|food_maxim_tomato|food_energy_drink|food_ice_cream_cone|food_rice_ball|food_roast_chicken|food_curry|food_ramen|food_omelet|food_hamburger|food_sushi|food_hotdog|food_apple"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1141,7 +1146,10 @@
                     {
                         "name": "City Trial: In one game, break 20 or more blue boxes!",
                         "access_rules": [
-                            "$GATED|progression_boxes|box_blue"
+                            [
+                                "$GATED|progression_boxes|box_blue",
+                                "$GATED2_ANY|progression_ct_items|progression_patches|patch_unlock_weight|patch_unlock_boost|patch_unlock_top_speed|patch_unlock_turn|patch_unlock_charge|patch_unlock_glide|patch_unlock_offense|patch_unlock_defense|patch_unlock_hp|food_maxim_tomato|food_energy_drink|food_ice_cream_cone|food_rice_ball|food_roast_chicken|food_curry|food_ramen|food_omelet|food_hamburger|food_sushi|food_hotdog|food_apple"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1154,7 +1162,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_boxes|box_green"
+                    [
+                        "$GATED|progression_boxes|box_green",
+                        "$GATED_ANY|progression_ct_items|special_offense_speed_up|special_offense_attack_up|special_offense_defense_up|special_offense_run_amok|special_offense_no_charge|special_offense_candy|special_offense_fireworks|special_offense_panic_spin|special_offense_sensor_bomb|special_offense_gold_spike"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1167,7 +1178,10 @@
                     {
                         "name": "City Trial: In one game, break 10 or more green boxes!",
                         "access_rules": [
-                            "$GATED|progression_boxes|box_green"
+                            [
+                                "$GATED|progression_boxes|box_green",
+                                "$GATED_ANY|progression_ct_items|special_offense_speed_up|special_offense_attack_up|special_offense_defense_up|special_offense_run_amok|special_offense_no_charge|special_offense_candy|special_offense_fireworks|special_offense_panic_spin|special_offense_sensor_bomb|special_offense_gold_spike"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1180,7 +1194,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$GATED|progression_boxes|box_red"
+                    [
+                        "$GATED|progression_boxes|box_red",
+                        "$GATED2_ANY|progression_ct_items|progression_abilities|ability_fire|ability_wheel|ability_sleep|ability_sword|ability_bomb|ability_plasma|ability_needle|ability_mike|ability_freeze|ability_tornado|ability_wing|part_hydra_x|part_hydra_y|part_hydra_z|part_dragoon_a|part_dragoon_b|part_dragoon_c"
+                    ]
                 ],
                 "map_locations": [
                     {
@@ -1193,7 +1210,10 @@
                     {
                         "name": "City Trial: In one game, break 10 or more red boxes!",
                         "access_rules": [
-                            "$GATED|progression_boxes|box_red"
+                            [
+                                "$GATED|progression_boxes|box_red",
+                                "$GATED2_ANY|progression_ct_items|progression_abilities|ability_fire|ability_wheel|ability_sleep|ability_sword|ability_bomb|ability_plasma|ability_needle|ability_mike|ability_freeze|ability_tornado|ability_wing|part_hydra_x|part_hydra_y|part_hydra_z|part_dragoon_a|part_dragoon_b|part_dragoon_c"
+                            ]
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1217,6 +1237,68 @@
                     {
                         "name": "Air Ride: FANTASY MEADOWS Take the shortcut!",
                         "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: Collect all 6 spheres and assemble the Archipelago Star!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    [
+                        "$GOAL_GATED_ALL|progression_ct_items|goal_gated_ap_star_pieces|part_ap_sphere_rose|part_ap_sphere_green|part_ap_sphere_violet|part_ap_sphere_tan|part_ap_sphere_blue|part_ap_sphere_yellow"
+                    ]
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 228,
+                        "y": 191
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: Collect all 6 spheres and assemble the Archipelago Star!",
+                        "access_rules": [
+                            [
+                                "$GOAL_GATED_ALL|progression_ct_items|goal_gated_ap_star_pieces|part_ap_sphere_rose|part_ap_sphere_green|part_ap_sphere_violet|part_ap_sphere_tan|part_ap_sphere_blue|part_ap_sphere_yellow"
+                            ]
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Trial: In one game, assemble Dragoon, Hydra and Archipelago Star!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    [
+                        "$GOAL_GATED_ALL|progression_ct_items|goal_gated_ap_star_pieces|part_ap_sphere_rose|part_ap_sphere_green|part_ap_sphere_violet|part_ap_sphere_tan|part_ap_sphere_blue|part_ap_sphere_yellow",
+                        "$GOAL_GATED_ALL|progression_ct_items|goal_gated_legendary_pieces|part_hydra_x|part_hydra_y|part_hydra_z|part_dragoon_a|part_dragoon_b|part_dragoon_c"
+                    ]
+                ],
+                "map_locations": [
+                    {
+                        "map": "Archipelago Checklist",
+                        "x": 258,
+                        "y": 191
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "City Trial: In one game, assemble Dragoon, Hydra and Archipelago Star!",
+                        "access_rules": [
+                            [
+                                "$GOAL_GATED_ALL|progression_ct_items|goal_gated_ap_star_pieces|part_ap_sphere_rose|part_ap_sphere_green|part_ap_sphere_violet|part_ap_sphere_tan|part_ap_sphere_blue|part_ap_sphere_yellow",
+                                "$GOAL_GATED_ALL|progression_ct_items|goal_gated_legendary_pieces|part_hydra_x|part_hydra_y|part_hydra_z|part_dragoon_a|part_dragoon_b|part_dragoon_c"
+                            ]
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -1403,7 +1485,10 @@
             {
                 "name": "Stadium: SINGLE RACE 1 Finish in 1st place on Bulk Star!",
                 "access_rules": [
-                    "$GATED|progression_machines|machine_bulk_star"
+                    [
+                        "$GATED|progression_machines|machine_bulk_star",
+                        "$GATED|progression_base_abilities|base_ability_charge"
+                    ]
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1553,7 +1638,10 @@
             {
                 "name": "City Trial: In one game, break 20 or more blue boxes!",
                 "access_rules": [
-                    "$GATED|progression_boxes|box_blue"
+                    [
+                        "$GATED|progression_boxes|box_blue",
+                        "$GATED2_ANY|progression_ct_items|progression_patches|patch_unlock_weight|patch_unlock_boost|patch_unlock_top_speed|patch_unlock_turn|patch_unlock_charge|patch_unlock_glide|patch_unlock_offense|patch_unlock_defense|patch_unlock_hp|food_maxim_tomato|food_energy_drink|food_ice_cream_cone|food_rice_ball|food_roast_chicken|food_curry|food_ramen|food_omelet|food_hamburger|food_sushi|food_hotdog|food_apple"
+                    ]
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1561,7 +1649,10 @@
             {
                 "name": "City Trial: In one game, break 10 or more green boxes!",
                 "access_rules": [
-                    "$GATED|progression_boxes|box_green"
+                    [
+                        "$GATED|progression_boxes|box_green",
+                        "$GATED_ANY|progression_ct_items|special_offense_speed_up|special_offense_attack_up|special_offense_defense_up|special_offense_run_amok|special_offense_no_charge|special_offense_candy|special_offense_fireworks|special_offense_panic_spin|special_offense_sensor_bomb|special_offense_gold_spike"
+                    ]
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1569,7 +1660,10 @@
             {
                 "name": "City Trial: In one game, break 10 or more red boxes!",
                 "access_rules": [
-                    "$GATED|progression_boxes|box_red"
+                    [
+                        "$GATED|progression_boxes|box_red",
+                        "$GATED2_ANY|progression_ct_items|progression_abilities|ability_fire|ability_wheel|ability_sleep|ability_sword|ability_bomb|ability_plasma|ability_needle|ability_mike|ability_freeze|ability_tornado|ability_wing|part_hydra_x|part_hydra_y|part_hydra_z|part_dragoon_a|part_dragoon_b|part_dragoon_c"
+                    ]
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1577,6 +1671,27 @@
             {
                 "name": "Air Ride: FANTASY MEADOWS Take the shortcut!",
                 "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: Collect all 6 spheres and assemble the Archipelago Star!",
+                "access_rules": [
+                    [
+                        "$GOAL_GATED_ALL|progression_ct_items|goal_gated_ap_star_pieces|part_ap_sphere_rose|part_ap_sphere_green|part_ap_sphere_violet|part_ap_sphere_tan|part_ap_sphere_blue|part_ap_sphere_yellow"
+                    ]
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "City Trial: In one game, assemble Dragoon, Hydra and Archipelago Star!",
+                "access_rules": [
+                    [
+                        "$GOAL_GATED_ALL|progression_ct_items|goal_gated_ap_star_pieces|part_ap_sphere_rose|part_ap_sphere_green|part_ap_sphere_violet|part_ap_sphere_tan|part_ap_sphere_blue|part_ap_sphere_yellow",
+                        "$GOAL_GATED_ALL|progression_ct_items|goal_gated_legendary_pieces|part_hydra_x|part_hydra_y|part_hydra_z|part_dragoon_a|part_dragoon_b|part_dragoon_c"
+                    ]
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }
