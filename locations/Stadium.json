@@ -1259,7 +1259,7 @@
                 ],
                 "children": [
                     {
-                        "name": "KO enemies over 50 times!",
+                        "name": "DESTRUCTION DERBY (All) KO enemies over 50 times!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1279,7 +1279,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "KO enemies over 50 times!",
+                                "name": "DESTRUCTION DERBY (All) KO enemies over 50 times!",
                                 "access_rules": [
                                     "stadium_destruction_derby_1",
                                     "stadium_destruction_derby_2",
@@ -1293,7 +1293,7 @@
                         ]
                     },
                     {
-                        "name": "KO enemies over 150 times!",
+                        "name": "DESTRUCTION DERBY (All) KO enemies over 150 times!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1313,7 +1313,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "KO enemies over 150 times!",
+                                "name": "DESTRUCTION DERBY (All) KO enemies over 150 times!",
                                 "access_rules": [
                                     "stadium_destruction_derby_1",
                                     "stadium_destruction_derby_2",
@@ -1329,7 +1329,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "KO enemies over 50 times!",
+                        "name": "DESTRUCTION DERBY (All) KO enemies over 50 times!",
                         "access_rules": [
                             "stadium_destruction_derby_1",
                             "stadium_destruction_derby_2",
@@ -1341,7 +1341,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "KO enemies over 150 times!",
+                        "name": "DESTRUCTION DERBY (All) KO enemies over 150 times!",
                         "access_rules": [
                             "stadium_destruction_derby_1",
                             "stadium_destruction_derby_2",
@@ -1373,7 +1373,7 @@
                 ],
                 "children": [
                     {
-                        "name": "KO over 500 enemies!",
+                        "name": "KIRBY MELEE (All) KO over 500 enemies!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1390,7 +1390,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "KO over 500 enemies!",
+                                "name": "KIRBY MELEE (All) KO over 500 enemies!",
                                 "access_rules": [
                                     "stadium_kirby_melee_1",
                                     "stadium_kirby_melee_2"
@@ -1401,7 +1401,7 @@
                         ]
                     },
                     {
-                        "name": "KO over 1,500 enemies!",
+                        "name": "KIRBY MELEE (All) KO over 1,500 enemies!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1418,7 +1418,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "KO over 1,500 enemies!",
+                                "name": "KIRBY MELEE (All) KO over 1,500 enemies!",
                                 "access_rules": [
                                     "stadium_kirby_melee_1",
                                     "stadium_kirby_melee_2"
@@ -1431,7 +1431,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "KO over 500 enemies!",
+                        "name": "KIRBY MELEE (All) KO over 500 enemies!",
                         "access_rules": [
                             "stadium_kirby_melee_1",
                             "stadium_kirby_melee_2"
@@ -1440,7 +1440,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "KO over 1,500 enemies!",
+                        "name": "KIRBY MELEE (All) KO over 1,500 enemies!",
                         "access_rules": [
                             "stadium_kirby_melee_1",
                             "stadium_kirby_melee_2"

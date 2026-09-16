@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "package_version": "0.5.4",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.4/KAR-Poptracker-v0.5.4.zip",
+            "sha256": "59b8fdd49e8548b70370e3037e11764bb295a38fb9a8a0ce8b0730f0df890cef",
+            "changelog": [
+                "Every course-specific Top Ride check now shows its course, the same fix Air Ride got in v0.5.3 - all 93 of them",
+                "The 26 Top Ride checks not tied to a course (General, Free Run, High Effort, Multiplayer) keep their plain names",
+                "The four DESTRUCTION DERBY (All) and KIRBY MELEE (All) stadium checks now name their stadium, matching every other Stadium check",
+                "City Trial needed no change - it is one map, so its groups are categories rather than courses",
+                "No logic changes; names only"
+            ]
+        },
+        {
             "package_version": "0.5.3",
             "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.3/KAR-Poptracker-v0.5.3.zip",
             "sha256": "094ce796eebdaa69c10d348a32b6d062ac8037b7c04a3ea095889b8d85aa06f8",
