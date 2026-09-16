@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "package_version": "0.5.2",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.2/KAR-Poptracker-v0.5.2.zip",
+            "sha256": "0d0aae883ad28aba1ef470ce8897cfdd6a7738eb7a94a20e5bcb895a8bdc27dd",
+            "changelog": [
+                "Air Ride checks that shared a name across courses now show the course in front, so the checklist grid tells them apart - 23 checks across 10 duplicated names",
+                "No logic changes; names only"
+            ]
+        },
+        {
             "package_version": "0.5.1",
             "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.1/KAR-Poptracker-v0.5.1.zip",
             "sha256": "7c371ca5a6f1a29db54f00df4b6f99c5e3c300ab39fb8208043842e0796e8021",
