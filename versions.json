@@ -1,6 +1,16 @@
 {
     "versions": [
         {
+            "package_version": "0.5.3",
+            "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.3/KAR-Poptracker-v0.5.3.zip",
+            "sha256": "094ce796eebdaa69c10d348a32b6d062ac8037b7c04a3ea095889b8d85aa06f8",
+            "changelog": [
+                "Every course-specific Air Ride check now shows its course, so each checklist grid cell says which course it belongs to - all 90, not just the ones whose names collided",
+                "The 30 checks that are not tied to a course (High Effort, Swallow Challenges, Ability Challenges, General) keep their plain names",
+                "No logic changes; names only"
+            ]
+        },
+        {
             "package_version": "0.5.2",
             "download_url": "https://github.com/lighting8282/KAR-Poptracker/releases/download/v0.5.2/KAR-Poptracker-v0.5.2.zip",
             "sha256": "0d0aae883ad28aba1ef470ce8897cfdd6a7738eb7a94a20e5bcb895a8bdc27dd",

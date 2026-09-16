@@ -635,7 +635,7 @@
                 ],
                 "children": [
                     {
-                        "name": "Race over 4,800 feet in 2 minutes!",
+                        "name": "MAGMA FLOWS: Race over 4,800 feet in 2 minutes!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -649,7 +649,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Race over 4,800 feet in 2 minutes!",
+                                "name": "MAGMA FLOWS: Race over 4,800 feet in 2 minutes!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -657,7 +657,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 03:04:00!",
+                        "name": "MAGMA FLOWS: TA: Finish in under 03:04:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -671,7 +671,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 03:04:00!",
+                                "name": "MAGMA FLOWS: TA: Finish in under 03:04:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -684,7 +684,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 01:01:00!",
+                        "name": "MAGMA FLOWS: FR: Finish 1 lap in under 01:01:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -698,7 +698,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 01:01:00!",
+                                "name": "MAGMA FLOWS: FR: Finish 1 lap in under 01:01:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -711,7 +711,7 @@
                         ]
                     },
                     {
-                        "name": "Use all of the Boost Panels and finish in 1st place!",
+                        "name": "MAGMA FLOWS: Use all of the Boost Panels and finish in 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -725,7 +725,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Use all of the Boost Panels and finish in 1st place!",
+                                "name": "MAGMA FLOWS: Use all of the Boost Panels and finish in 1st place!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -755,7 +755,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
+                        "name": "MAGMA FLOWS: FR: Do 1 lap under 01:02:00 on Turbo Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -774,7 +774,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
+                                "name": "MAGMA FLOWS: FR: Do 1 lap under 01:02:00 on Turbo Star!",
                                 "access_rules": [
                                     [
                                         "$GATED|progression_base_abilities|base_ability_charge"
@@ -791,7 +791,7 @@
                         ]
                     },
                     {
-                        "name": "Use all the volcano rails and finish in 1st place!",
+                        "name": "MAGMA FLOWS: Use all the volcano rails and finish in 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -805,7 +805,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Use all the volcano rails and finish in 1st place!",
+                                "name": "MAGMA FLOWS: Use all the volcano rails and finish in 1st place!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -813,7 +813,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 2 laps in under 02:01:00!",
+                        "name": "MAGMA FLOWS: Finish 2 laps in under 02:01:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -827,7 +827,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 2 laps in under 02:01:00!",
+                                "name": "MAGMA FLOWS: Finish 2 laps in under 02:01:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -889,7 +889,7 @@
                         ]
                     },
                     {
-                        "name": "Bump into a flaming dragon!",
+                        "name": "MAGMA FLOWS: Bump into a flaming dragon!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -903,7 +903,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Bump into a flaming dragon!",
+                                "name": "MAGMA FLOWS: Bump into a flaming dragon!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -911,7 +911,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 03:15:00 on Shadow Star!",
+                        "name": "MAGMA FLOWS: TA: Finish in under 03:15:00 on Shadow Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -929,7 +929,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 03:15:00 on Shadow Star!",
+                                "name": "MAGMA FLOWS: TA: Finish in under 03:15:00 on Shadow Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -944,13 +944,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Race over 4,800 feet in 2 minutes!",
+                        "name": "MAGMA FLOWS: Race over 4,800 feet in 2 minutes!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 03:04:00!",
+                        "name": "MAGMA FLOWS: TA: Finish in under 03:04:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -958,7 +958,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 01:01:00!",
+                        "name": "MAGMA FLOWS: FR: Finish 1 lap in under 01:01:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -966,7 +966,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Use all of the Boost Panels and finish in 1st place!",
+                        "name": "MAGMA FLOWS: Use all of the Boost Panels and finish in 1st place!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -978,7 +978,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:02:00 on Turbo Star!",
+                        "name": "MAGMA FLOWS: FR: Do 1 lap under 01:02:00 on Turbo Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_turbo_star",
@@ -991,13 +991,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Use all the volcano rails and finish in 1st place!",
+                        "name": "MAGMA FLOWS: Use all the volcano rails and finish in 1st place!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 2 laps in under 02:01:00!",
+                        "name": "MAGMA FLOWS: Finish 2 laps in under 02:01:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1019,13 +1019,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Bump into a flaming dragon!",
+                        "name": "MAGMA FLOWS: Bump into a flaming dragon!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 03:15:00 on Shadow Star!",
+                        "name": "MAGMA FLOWS: TA: Finish in under 03:15:00 on Shadow Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_shadow_star"
@@ -1083,7 +1083,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 01:00:00!",
+                        "name": "FANTASY MEADOWS: TA: Finish in under 01:00:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1097,7 +1097,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 01:00:00!",
+                                "name": "FANTASY MEADOWS: TA: Finish in under 01:00:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -1110,7 +1110,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:21:00!",
+                        "name": "FANTASY MEADOWS: FR: Finish 1 lap in under 00:21:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1124,7 +1124,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 00:21:00!",
+                                "name": "FANTASY MEADOWS: FR: Finish 1 lap in under 00:21:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -1137,7 +1137,7 @@
                         ]
                     },
                     {
-                        "name": "Race 1 lap without dropping below 20 mph!",
+                        "name": "FANTASY MEADOWS: Race 1 lap without dropping below 20 mph!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1151,7 +1151,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Race 1 lap without dropping below 20 mph!",
+                                "name": "FANTASY MEADOWS: Race 1 lap without dropping below 20 mph!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -1159,7 +1159,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 3 laps in under 01:20:00!",
+                        "name": "FANTASY MEADOWS: Finish 3 laps in under 01:20:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1173,7 +1173,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 3 laps in under 01:20:00!",
+                                "name": "FANTASY MEADOWS: Finish 3 laps in under 01:20:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -1181,7 +1181,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Do 1 lap under 00:23:00 on Wagon Star!",
+                        "name": "FANTASY MEADOWS: FR: Do 1 lap under 00:23:00 on Wagon Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1199,7 +1199,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Do 1 lap under 00:23:00 on Wagon Star!",
+                                "name": "FANTASY MEADOWS: FR: Do 1 lap under 00:23:00 on Wagon Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -1212,7 +1212,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 01:05:00 on Slick Star!",
+                        "name": "FANTASY MEADOWS: TA: Finish in under 01:05:00 on Slick Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1231,7 +1231,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 01:05:00 on Slick Star!",
+                                "name": "FANTASY MEADOWS: TA: Finish in under 01:05:00 on Slick Star!",
                                 "access_rules": [
                                     [
                                         "$GATED|progression_base_abilities|base_ability_charge"
@@ -1248,7 +1248,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 3 laps in under 01:03:00!",
+                        "name": "FANTASY MEADOWS: Finish 3 laps in under 01:03:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1262,7 +1262,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 3 laps in under 01:03:00!",
+                                "name": "FANTASY MEADOWS: Finish 3 laps in under 01:03:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -1270,7 +1270,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 01:12:00!",
+                        "name": "FANTASY MEADOWS: TA: Finish in under 01:12:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1284,7 +1284,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 01:12:00!",
+                                "name": "FANTASY MEADOWS: TA: Finish in under 01:12:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -1297,7 +1297,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:24:00!",
+                        "name": "FANTASY MEADOWS: FR: Finish 1 lap in under 00:24:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1311,7 +1311,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 00:24:00!",
+                                "name": "FANTASY MEADOWS: FR: Finish 1 lap in under 00:24:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -1362,7 +1362,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 01:00:00!",
+                        "name": "FANTASY MEADOWS: TA: Finish in under 01:00:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -1370,7 +1370,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:21:00!",
+                        "name": "FANTASY MEADOWS: FR: Finish 1 lap in under 00:21:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -1378,19 +1378,19 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Race 1 lap without dropping below 20 mph!",
+                        "name": "FANTASY MEADOWS: Race 1 lap without dropping below 20 mph!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 3 laps in under 01:20:00!",
+                        "name": "FANTASY MEADOWS: Finish 3 laps in under 01:20:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Do 1 lap under 00:23:00 on Wagon Star!",
+                        "name": "FANTASY MEADOWS: FR: Do 1 lap under 00:23:00 on Wagon Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_wagon_star"
@@ -1402,7 +1402,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 01:05:00 on Slick Star!",
+                        "name": "FANTASY MEADOWS: TA: Finish in under 01:05:00 on Slick Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_slick_star",
@@ -1415,13 +1415,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 3 laps in under 01:03:00!",
+                        "name": "FANTASY MEADOWS: Finish 3 laps in under 01:03:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 01:12:00!",
+                        "name": "FANTASY MEADOWS: TA: Finish in under 01:12:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -1429,7 +1429,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:24:00!",
+                        "name": "FANTASY MEADOWS: FR: Finish 1 lap in under 00:24:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -2175,7 +2175,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
+                        "name": "CELESTIAL VALLEY: FR: Do 1 lap under 01:02:00 on Slick Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2194,7 +2194,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
+                                "name": "CELESTIAL VALLEY: FR: Do 1 lap under 01:02:00 on Slick Star!",
                                 "access_rules": [
                                     [
                                         "$GATED|progression_base_abilities|base_ability_charge"
@@ -2211,7 +2211,7 @@
                         ]
                     },
                     {
-                        "name": "Use the Copy Chance Wheel on top of the tree!",
+                        "name": "CELESTIAL VALLEY: Use the Copy Chance Wheel on top of the tree!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2225,7 +2225,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Use the Copy Chance Wheel on top of the tree!",
+                                "name": "CELESTIAL VALLEY: Use the Copy Chance Wheel on top of the tree!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -2233,7 +2233,7 @@
                         ]
                     },
                     {
-                        "name": "Race over 6,000 feet in 2 minutes!",
+                        "name": "CELESTIAL VALLEY: Race over 6,000 feet in 2 minutes!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2247,7 +2247,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Race over 6,000 feet in 2 minutes!",
+                                "name": "CELESTIAL VALLEY: Race over 6,000 feet in 2 minutes!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -2282,7 +2282,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 02:58:00 on Jet Star!",
+                        "name": "CELESTIAL VALLEY: TA: Finish in under 02:58:00 on Jet Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2300,7 +2300,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 02:58:00 on Jet Star!",
+                                "name": "CELESTIAL VALLEY: TA: Finish in under 02:58:00 on Jet Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -2335,7 +2335,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 02:56:00!",
+                        "name": "CELESTIAL VALLEY: TA: Finish in under 02:56:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2349,7 +2349,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 02:56:00!",
+                                "name": "CELESTIAL VALLEY: TA: Finish in under 02:56:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -2389,7 +2389,7 @@
                         ]
                     },
                     {
-                        "name": "Over one race, ride on both the left and right bridge railings!",
+                        "name": "CELESTIAL VALLEY: Over one race, ride on both the left and right bridge railings!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2403,7 +2403,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Over one race, ride on both the left and right bridge railings!",
+                                "name": "CELESTIAL VALLEY: Over one race, ride on both the left and right bridge railings!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -2411,7 +2411,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:57:00!",
+                        "name": "CELESTIAL VALLEY: FR: Finish 1 lap in under 00:57:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2425,7 +2425,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 00:57:00!",
+                                "name": "CELESTIAL VALLEY: FR: Finish 1 lap in under 00:57:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -2446,7 +2446,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:02:00 on Slick Star!",
+                        "name": "CELESTIAL VALLEY: FR: Do 1 lap under 01:02:00 on Slick Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_slick_star",
@@ -2459,13 +2459,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Use the Copy Chance Wheel on top of the tree!",
+                        "name": "CELESTIAL VALLEY: Use the Copy Chance Wheel on top of the tree!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Race over 6,000 feet in 2 minutes!",
+                        "name": "CELESTIAL VALLEY: Race over 6,000 feet in 2 minutes!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -2479,7 +2479,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 02:58:00 on Jet Star!",
+                        "name": "CELESTIAL VALLEY: TA: Finish in under 02:58:00 on Jet Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_jet_star"
@@ -2497,7 +2497,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 02:56:00!",
+                        "name": "CELESTIAL VALLEY: TA: Finish in under 02:56:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -2513,13 +2513,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Over one race, ride on both the left and right bridge railings!",
+                        "name": "CELESTIAL VALLEY: Over one race, ride on both the left and right bridge railings!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:57:00!",
+                        "name": "CELESTIAL VALLEY: FR: Finish 1 lap in under 00:57:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -2572,7 +2572,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Do 1 lap under 00:58:00 on Winged Star!",
+                        "name": "BEANSTALK PARK: FR: Do 1 lap under 00:58:00 on Winged Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2590,7 +2590,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Do 1 lap under 00:58:00 on Winged Star!",
+                                "name": "BEANSTALK PARK: FR: Do 1 lap under 00:58:00 on Winged Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -2603,7 +2603,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 2 laps in under 02:18:00!",
+                        "name": "BEANSTALK PARK: Finish 2 laps in under 02:18:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2617,7 +2617,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 2 laps in under 02:18:00!",
+                                "name": "BEANSTALK PARK: Finish 2 laps in under 02:18:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -2652,7 +2652,7 @@
                         ]
                     },
                     {
-                        "name": "Race over 3 laps without riding the Ferris wheel!",
+                        "name": "BEANSTALK PARK: Race over 3 laps without riding the Ferris wheel!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2666,7 +2666,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Race over 3 laps without riding the Ferris wheel!",
+                                "name": "BEANSTALK PARK: Race over 3 laps without riding the Ferris wheel!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -2674,7 +2674,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 03:00:00 on Rocket Star!",
+                        "name": "BEANSTALK PARK: TA: Finish in under 03:00:00 on Rocket Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2692,7 +2692,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 03:00:00 on Rocket Star!",
+                                "name": "BEANSTALK PARK: TA: Finish in under 03:00:00 on Rocket Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -2727,7 +2727,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 02:55:00!",
+                        "name": "BEANSTALK PARK: TA: Finish in under 02:55:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2741,7 +2741,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 02:55:00!",
+                                "name": "BEANSTALK PARK: TA: Finish in under 02:55:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -2754,7 +2754,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 01:07:00!",
+                        "name": "BEANSTALK PARK: FR: Finish 1 lap in under 01:07:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2768,7 +2768,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 01:07:00!",
+                                "name": "BEANSTALK PARK: FR: Finish 1 lap in under 01:07:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -2846,7 +2846,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Do 1 lap under 00:58:00 on Winged Star!",
+                        "name": "BEANSTALK PARK: FR: Do 1 lap under 00:58:00 on Winged Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_winged_star"
@@ -2858,7 +2858,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 2 laps in under 02:18:00!",
+                        "name": "BEANSTALK PARK: Finish 2 laps in under 02:18:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -2872,13 +2872,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Race over 3 laps without riding the Ferris wheel!",
+                        "name": "BEANSTALK PARK: Race over 3 laps without riding the Ferris wheel!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 03:00:00 on Rocket Star!",
+                        "name": "BEANSTALK PARK: TA: Finish in under 03:00:00 on Rocket Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_rocket_star"
@@ -2896,7 +2896,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 02:55:00!",
+                        "name": "BEANSTALK PARK: TA: Finish in under 02:55:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -2904,7 +2904,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 01:07:00!",
+                        "name": "BEANSTALK PARK: FR: Finish 1 lap in under 01:07:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -2950,7 +2950,7 @@
                 ],
                 "children": [
                     {
-                        "name": "TA: Finish in under 02:40:00!",
+                        "name": "SKY SANDS: TA: Finish in under 02:40:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2964,7 +2964,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 02:40:00!",
+                                "name": "SKY SANDS: TA: Finish in under 02:40:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -2977,7 +2977,7 @@
                         ]
                     },
                     {
-                        "name": "Enter the quicksand 3 times and finish in 1st place!",
+                        "name": "SKY SANDS: Enter the quicksand 3 times and finish in 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -2991,7 +2991,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Enter the quicksand 3 times and finish in 1st place!",
+                                "name": "SKY SANDS: Enter the quicksand 3 times and finish in 1st place!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -2999,7 +2999,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 02:40:00 on Wagon Star!",
+                        "name": "SKY SANDS: TA: Finish in under 02:40:00 on Wagon Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3017,7 +3017,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 02:40:00 on Wagon Star!",
+                                "name": "SKY SANDS: TA: Finish in under 02:40:00 on Wagon Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -3030,7 +3030,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 2 laps in under 01:45:00!",
+                        "name": "SKY SANDS: Finish 2 laps in under 01:45:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3044,7 +3044,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 2 laps in under 01:45:00!",
+                                "name": "SKY SANDS: Finish 2 laps in under 01:45:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3079,7 +3079,7 @@
                         ]
                     },
                     {
-                        "name": "Race over 4,000 feet in 2 minutes!",
+                        "name": "SKY SANDS: Race over 4,000 feet in 2 minutes!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3093,7 +3093,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Race over 4,000 feet in 2 minutes!",
+                                "name": "SKY SANDS: Race over 4,000 feet in 2 minutes!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3101,7 +3101,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:53:00!",
+                        "name": "SKY SANDS: FR: Finish 1 lap in under 00:53:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3115,7 +3115,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 00:53:00!",
+                                "name": "SKY SANDS: FR: Finish 1 lap in under 00:53:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -3128,7 +3128,7 @@
                         ]
                     },
                     {
-                        "name": "Open the trapdoor exactly 3 times and finish in 1st place!",
+                        "name": "SKY SANDS: Open the trapdoor exactly 3 times and finish in 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3142,7 +3142,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Open the trapdoor exactly 3 times and finish in 1st place!",
+                                "name": "SKY SANDS: Open the trapdoor exactly 3 times and finish in 1st place!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3150,7 +3150,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 2 laps in under 02:05:00!",
+                        "name": "SKY SANDS: Finish 2 laps in under 02:05:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3164,7 +3164,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 2 laps in under 02:05:00!",
+                                "name": "SKY SANDS: Finish 2 laps in under 02:05:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3199,7 +3199,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
+                        "name": "SKY SANDS: FR: Do 1 lap under 01:05:00 on Bulk Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3218,7 +3218,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
+                                "name": "SKY SANDS: FR: Do 1 lap under 01:05:00 on Bulk Star!",
                                 "access_rules": [
                                     [
                                         "$GATED|progression_base_abilities|base_ability_charge"
@@ -3235,7 +3235,7 @@
                         ]
                     },
                     {
-                        "name": "Break all of the coral and finish in 1st place!",
+                        "name": "SKY SANDS: Break all of the coral and finish in 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3249,7 +3249,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Break all of the coral and finish in 1st place!",
+                                "name": "SKY SANDS: Break all of the coral and finish in 1st place!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3259,7 +3259,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "TA: Finish in under 02:40:00!",
+                        "name": "SKY SANDS: TA: Finish in under 02:40:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -3267,13 +3267,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Enter the quicksand 3 times and finish in 1st place!",
+                        "name": "SKY SANDS: Enter the quicksand 3 times and finish in 1st place!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 02:40:00 on Wagon Star!",
+                        "name": "SKY SANDS: TA: Finish in under 02:40:00 on Wagon Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_wagon_star"
@@ -3285,7 +3285,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 2 laps in under 01:45:00!",
+                        "name": "SKY SANDS: Finish 2 laps in under 01:45:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -3299,13 +3299,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Race over 4,000 feet in 2 minutes!",
+                        "name": "SKY SANDS: Race over 4,000 feet in 2 minutes!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:53:00!",
+                        "name": "SKY SANDS: FR: Finish 1 lap in under 00:53:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -3313,13 +3313,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Open the trapdoor exactly 3 times and finish in 1st place!",
+                        "name": "SKY SANDS: Open the trapdoor exactly 3 times and finish in 1st place!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 2 laps in under 02:05:00!",
+                        "name": "SKY SANDS: Finish 2 laps in under 02:05:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -3333,7 +3333,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:05:00 on Bulk Star!",
+                        "name": "SKY SANDS: FR: Do 1 lap under 01:05:00 on Bulk Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_bulk_star",
@@ -3346,7 +3346,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Break all of the coral and finish in 1st place!",
+                        "name": "SKY SANDS: Break all of the coral and finish in 1st place!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -3372,7 +3372,7 @@
                 ],
                 "children": [
                     {
-                        "name": "TA: Finish in under 02:48:00!",
+                        "name": "MACHINE PASSAGE: TA: Finish in under 02:48:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3386,7 +3386,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 02:48:00!",
+                                "name": "MACHINE PASSAGE: TA: Finish in under 02:48:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -3421,7 +3421,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 2 laps in under 01:48:00!",
+                        "name": "MACHINE PASSAGE: Finish 2 laps in under 01:48:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3435,7 +3435,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 2 laps in under 01:48:00!",
+                                "name": "MACHINE PASSAGE: Finish 2 laps in under 01:48:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3470,7 +3470,7 @@
                         ]
                     },
                     {
-                        "name": "Finish in 1st place without touching the walls even once!",
+                        "name": "MACHINE PASSAGE: Finish in 1st place without touching the walls even once!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3484,7 +3484,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish in 1st place without touching the walls even once!",
+                                "name": "MACHINE PASSAGE: Finish in 1st place without touching the walls even once!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3492,7 +3492,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 2 laps in under 02:10:00!",
+                        "name": "MACHINE PASSAGE: Finish 2 laps in under 02:10:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3506,7 +3506,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 2 laps in under 02:10:00!",
+                                "name": "MACHINE PASSAGE: Finish 2 laps in under 02:10:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3514,7 +3514,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:56:00!",
+                        "name": "MACHINE PASSAGE: FR: Finish 1 lap in under 00:56:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3528,7 +3528,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 00:56:00!",
+                                "name": "MACHINE PASSAGE: FR: Finish 1 lap in under 00:56:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -3541,7 +3541,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 02:50:00 on Rex Wheelie!",
+                        "name": "MACHINE PASSAGE: TA: Finish in under 02:50:00 on Rex Wheelie!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3557,7 +3557,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 02:50:00 on Rex Wheelie!",
+                                "name": "MACHINE PASSAGE: TA: Finish in under 02:50:00 on Rex Wheelie!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -3597,7 +3597,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Do 1 lap under 00:57:00 on Swerve Star!",
+                        "name": "MACHINE PASSAGE: FR: Do 1 lap under 00:57:00 on Swerve Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3615,7 +3615,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Do 1 lap under 00:57:00 on Swerve Star!",
+                                "name": "MACHINE PASSAGE: FR: Do 1 lap under 00:57:00 on Swerve Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -3628,7 +3628,7 @@
                         ]
                     },
                     {
-                        "name": "Shoot 3 characters out of the cannon at one time!",
+                        "name": "MACHINE PASSAGE: Shoot 3 characters out of the cannon at one time!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3642,7 +3642,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Shoot 3 characters out of the cannon at one time!",
+                                "name": "MACHINE PASSAGE: Shoot 3 characters out of the cannon at one time!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3652,7 +3652,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "TA: Finish in under 02:48:00!",
+                        "name": "MACHINE PASSAGE: TA: Finish in under 02:48:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -3666,7 +3666,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 2 laps in under 01:48:00!",
+                        "name": "MACHINE PASSAGE: Finish 2 laps in under 01:48:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -3680,19 +3680,19 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Finish in 1st place without touching the walls even once!",
+                        "name": "MACHINE PASSAGE: Finish in 1st place without touching the walls even once!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 2 laps in under 02:10:00!",
+                        "name": "MACHINE PASSAGE: Finish 2 laps in under 02:10:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 00:56:00!",
+                        "name": "MACHINE PASSAGE: FR: Finish 1 lap in under 00:56:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -3700,7 +3700,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 02:50:00 on Rex Wheelie!",
+                        "name": "MACHINE PASSAGE: TA: Finish in under 02:50:00 on Rex Wheelie!",
                         "access_rules": [
                             "$GATED|progression_machines|machine_rex_wheelie"
                         ],
@@ -3718,7 +3718,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Do 1 lap under 00:57:00 on Swerve Star!",
+                        "name": "MACHINE PASSAGE: FR: Do 1 lap under 00:57:00 on Swerve Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_swerve_star"
@@ -3730,7 +3730,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Shoot 3 characters out of the cannon at one time!",
+                        "name": "MACHINE PASSAGE: Shoot 3 characters out of the cannon at one time!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -3786,7 +3786,7 @@
                         ]
                     },
                     {
-                        "name": "Race 2 laps in under 02:20:00!",
+                        "name": "FROZEN HILLSIDE: Race 2 laps in under 02:20:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3800,7 +3800,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Race 2 laps in under 02:20:00!",
+                                "name": "FROZEN HILLSIDE: Race 2 laps in under 02:20:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -3808,7 +3808,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 03:14:00!",
+                        "name": "FROZEN HILLSIDE: TA: Finish in under 03:14:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3822,7 +3822,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 03:14:00!",
+                                "name": "FROZEN HILLSIDE: TA: Finish in under 03:14:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -3862,7 +3862,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 03:10:00 on Turbo Star!",
+                        "name": "FROZEN HILLSIDE: TA: Finish in under 03:10:00 on Turbo Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3881,7 +3881,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 03:10:00 on Turbo Star!",
+                                "name": "FROZEN HILLSIDE: TA: Finish in under 03:10:00 on Turbo Star!",
                                 "access_rules": [
                                     [
                                         "$GATED|progression_base_abilities|base_ability_charge"
@@ -3920,7 +3920,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 02:50:00!",
+                        "name": "FROZEN HILLSIDE: TA: Finish in under 02:50:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3934,7 +3934,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 02:50:00!",
+                                "name": "FROZEN HILLSIDE: TA: Finish in under 02:50:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -3947,7 +3947,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:10:00 on Formula Star!",
+                        "name": "FROZEN HILLSIDE: FR: Do 1 lap under 01:10:00 on Formula Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3965,7 +3965,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Do 1 lap under 01:10:00 on Formula Star!",
+                                "name": "FROZEN HILLSIDE: FR: Do 1 lap under 01:10:00 on Formula Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -3978,7 +3978,7 @@
                         ]
                     },
                     {
-                        "name": "Split at least 20 ice platforms and finish in 1st place!",
+                        "name": "FROZEN HILLSIDE: Split at least 20 ice platforms and finish in 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -3992,7 +3992,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Split at least 20 ice platforms and finish in 1st place!",
+                                "name": "FROZEN HILLSIDE: Split at least 20 ice platforms and finish in 1st place!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -4000,7 +4000,7 @@
                         ]
                     },
                     {
-                        "name": "Race over 5,300 feet in 2 minutes!",
+                        "name": "FROZEN HILLSIDE: Race over 5,300 feet in 2 minutes!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4014,7 +4014,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Race over 5,300 feet in 2 minutes!",
+                                "name": "FROZEN HILLSIDE: Race over 5,300 feet in 2 minutes!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -4032,13 +4032,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Race 2 laps in under 02:20:00!",
+                        "name": "FROZEN HILLSIDE: Race 2 laps in under 02:20:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 03:14:00!",
+                        "name": "FROZEN HILLSIDE: TA: Finish in under 03:14:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -4054,7 +4054,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 03:10:00 on Turbo Star!",
+                        "name": "FROZEN HILLSIDE: TA: Finish in under 03:10:00 on Turbo Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_turbo_star",
@@ -4073,7 +4073,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 02:50:00!",
+                        "name": "FROZEN HILLSIDE: TA: Finish in under 02:50:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -4081,7 +4081,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:10:00 on Formula Star!",
+                        "name": "FROZEN HILLSIDE: FR: Do 1 lap under 01:10:00 on Formula Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_formula_star"
@@ -4093,13 +4093,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Split at least 20 ice platforms and finish in 1st place!",
+                        "name": "FROZEN HILLSIDE: Split at least 20 ice platforms and finish in 1st place!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Race over 5,300 feet in 2 minutes!",
+                        "name": "FROZEN HILLSIDE: Race over 5,300 feet in 2 minutes!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -4128,7 +4128,7 @@
                 ],
                 "children": [
                     {
-                        "name": "FR: Finish 1 lap in under 01:35:00!",
+                        "name": "CHECKER KNIGHTS: FR: Finish 1 lap in under 01:35:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4142,7 +4142,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 01:35:00!",
+                                "name": "CHECKER KNIGHTS: FR: Finish 1 lap in under 01:35:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -4155,7 +4155,7 @@
                         ]
                     },
                     {
-                        "name": "Break at least 2 walls and finish in 1st place!",
+                        "name": "CHECKER KNIGHTS: Break at least 2 walls and finish in 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4169,7 +4169,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Break at least 2 walls and finish in 1st place!",
+                                "name": "CHECKER KNIGHTS: Break at least 2 walls and finish in 1st place!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -4177,7 +4177,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 04:30:00!",
+                        "name": "CHECKER KNIGHTS: TA: Finish in under 04:30:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4191,7 +4191,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 04:30:00!",
+                                "name": "CHECKER KNIGHTS: TA: Finish in under 04:30:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -4204,7 +4204,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 01:20:00!",
+                        "name": "CHECKER KNIGHTS: FR: Finish 1 lap in under 01:20:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4218,7 +4218,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Finish 1 lap in under 01:20:00!",
+                                "name": "CHECKER KNIGHTS: FR: Finish 1 lap in under 01:20:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -4231,7 +4231,7 @@
                         ]
                     },
                     {
-                        "name": "Swallow over 20 enemies and finish in 1st place!",
+                        "name": "CHECKER KNIGHTS: Swallow over 20 enemies and finish in 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4249,7 +4249,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Swallow over 20 enemies and finish in 1st place!",
+                                "name": "CHECKER KNIGHTS: Swallow over 20 enemies and finish in 1st place!",
                                 "access_rules": [
                                     [
                                         "$GATED|progression_base_abilities|base_ability_inhale"
@@ -4261,7 +4261,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 2 laps in under 02:40:00!",
+                        "name": "CHECKER KNIGHTS: Finish 2 laps in under 02:40:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4275,7 +4275,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 2 laps in under 02:40:00!",
+                                "name": "CHECKER KNIGHTS: Finish 2 laps in under 02:40:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -4283,7 +4283,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 04:00:00!",
+                        "name": "CHECKER KNIGHTS: TA: Finish in under 04:00:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4297,7 +4297,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 04:00:00!",
+                                "name": "CHECKER KNIGHTS: TA: Finish in under 04:00:00!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -4310,7 +4310,7 @@
                         ]
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:25:00 on Rocket Star!",
+                        "name": "CHECKER KNIGHTS: FR: Do 1 lap under 01:25:00 on Rocket Star!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4328,7 +4328,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "FR: Do 1 lap under 01:25:00 on Rocket Star!",
+                                "name": "CHECKER KNIGHTS: FR: Do 1 lap under 01:25:00 on Rocket Star!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_free_run"
@@ -4363,7 +4363,7 @@
                         ]
                     },
                     {
-                        "name": "Finish 2 laps in under 03:05:00!",
+                        "name": "CHECKER KNIGHTS: Finish 2 laps in under 03:05:00!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4377,7 +4377,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Finish 2 laps in under 03:05:00!",
+                                "name": "CHECKER KNIGHTS: Finish 2 laps in under 03:05:00!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -4385,7 +4385,7 @@
                         ]
                     },
                     {
-                        "name": "Use spin panels 7 times or more and take 1st place!",
+                        "name": "CHECKER KNIGHTS: Use spin panels 7 times or more and take 1st place!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4399,7 +4399,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Use spin panels 7 times or more and take 1st place!",
+                                "name": "CHECKER KNIGHTS: Use spin panels 7 times or more and take 1st place!",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -4407,7 +4407,7 @@
                         ]
                     },
                     {
-                        "name": "TA: Finish in under 03:55:00 on Warpstar!",
+                        "name": "CHECKER KNIGHTS: TA: Finish in under 03:55:00 on Warpstar!",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4423,7 +4423,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "TA: Finish in under 03:55:00 on Warpstar!",
+                                "name": "CHECKER KNIGHTS: TA: Finish in under 03:55:00 on Warpstar!",
                                 "access_rules": [],
                                 "visibility_rules": [
                                     "air_ride_progression_time_attack"
@@ -4438,7 +4438,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "FR: Finish 1 lap in under 01:35:00!",
+                        "name": "CHECKER KNIGHTS: FR: Finish 1 lap in under 01:35:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -4446,13 +4446,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Break at least 2 walls and finish in 1st place!",
+                        "name": "CHECKER KNIGHTS: Break at least 2 walls and finish in 1st place!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 04:30:00!",
+                        "name": "CHECKER KNIGHTS: TA: Finish in under 04:30:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -4460,7 +4460,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Finish 1 lap in under 01:20:00!",
+                        "name": "CHECKER KNIGHTS: FR: Finish 1 lap in under 01:20:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_free_run"
@@ -4468,7 +4468,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Swallow over 20 enemies and finish in 1st place!",
+                        "name": "CHECKER KNIGHTS: Swallow over 20 enemies and finish in 1st place!",
                         "access_rules": [
                             [
                                 "$GATED|progression_base_abilities|base_ability_inhale"
@@ -4478,13 +4478,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 2 laps in under 02:40:00!",
+                        "name": "CHECKER KNIGHTS: Finish 2 laps in under 02:40:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 04:00:00!",
+                        "name": "CHECKER KNIGHTS: TA: Finish in under 04:00:00!",
                         "access_rules": [],
                         "visibility_rules": [
                             "air_ride_progression_time_attack"
@@ -4492,7 +4492,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "FR: Do 1 lap under 01:25:00 on Rocket Star!",
+                        "name": "CHECKER KNIGHTS: FR: Do 1 lap under 01:25:00 on Rocket Star!",
                         "access_rules": [
                             [
                                 "$GATED|progression_machines|machine_rocket_star"
@@ -4510,19 +4510,19 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Finish 2 laps in under 03:05:00!",
+                        "name": "CHECKER KNIGHTS: Finish 2 laps in under 03:05:00!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Use spin panels 7 times or more and take 1st place!",
+                        "name": "CHECKER KNIGHTS: Use spin panels 7 times or more and take 1st place!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "TA: Finish in under 03:55:00 on Warpstar!",
+                        "name": "CHECKER KNIGHTS: TA: Finish in under 03:55:00 on Warpstar!",
                         "access_rules": [
                             "$GATED|progression_machines|machine_warp_star"
                         ],
