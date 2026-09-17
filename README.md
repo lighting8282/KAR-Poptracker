@@ -11,7 +11,7 @@ all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks. (More 
 
 ## Features
 
-- **All 360 checks tracked**: 120 Air Ride, 120 Top Ride, 120 City Trial (incl. Stadium checks)
+- **All 360 checks tracked and more**: 120+ Air Ride, 120+ Top Ride, 120+ City Trial (incl. Stadium checks). 
 - **Dual map views per mode** — clickable course/category map dots *and* the in-game 12×10 checklist grid
 - **Autotracking** of received items: permanent stat patches, stadium unlocks, HP, etc.
 - **In-game style item icons** with colored labels matching the original sprite art
@@ -35,7 +35,7 @@ all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks. (More 
 
 - **PopTracker** 0.25+ (tested on 0.33.0)
 - **Kirby Air Ride** GameCube ROM (NTSC version) (Legal ROM needed)
-- The [Kirby Air Ride Archipelago world][https://github.com/DeDeDeK/KARchipelago/releases/tag/v0.6.0] installed in your AP setup
+- The latest [Kirby Air Ride Archipelago world](https://github.com/DeDeDeK/KARchipelago/releases)](https://github.com/DeDeDeK/KARchipelago/releases) installed in your AP setup
 - Dolphin emulator + the AP Dolphin client (for autotracking)
 
 ## Layout
@@ -46,26 +46,30 @@ The tracker is divided into:
 - **Patches** - Permament patches that stick throughout all modes
 - **Patches Unlock** - Unlocks the aiblity to start stacking permament patches
 - **Stadiums** (×2) — stadium unlock icons grouped by category
-- **Boxes** — stadium unlock icons grouped by category
+- **Boxes** — Boxes unlocked in CT (City Trial)
 - **Special Offense** - Unique and special offense items
-- **Machines** - Generic machiens
-- **CT Vehicles** - Vehciles only available in CT (City Trial)
-- **Characater Unlock** - Unique characteres you can unlock
-- **Kirby Colors** - Kirb colors you can unlock
+- **Machines** - Generic machines
+- **CT Vehicles** - Vehicles only available in CT (City Trial)
+- **Characater Unlock** - Unique characters you can unlock
+- **Kirby Colors** - Kirby colors you can unlock
 - **Copy Abilities** - Copy abilities
 - **City Trial Events** - Events that happen randomly in CT mode (City Trial)
 - **Utility** - List settings such as deathlink, traplink, energylink and so on
 - **Top Ride Items Only** - Items only found in top ride mode
 - **Top Ride Maps** - Maps just in TR mode. (Top Ride)
 - **Top Ride Machines** - Machines only in TR. (Top Ride)
-- **Air Ride Maps** - Maps just in AR mode. (Air Ride
+- **Air Ride Maps** - Maps just in AR mode. (Air Ride)
 - **Seed Settings** - Based on gating options in user YAML
 - **Legendary Parts** - Pieces of the legendary Dragoon and Hydra
+- **Archipelago Star Parts** - Pieces of the legendary Archipelago Star
+- **Base Abilities** - Base abilities also an YAML option. (Inhale, spin, charge)
+- **Food** - All food items
 
-**Map area** (three tabs)
+**Map area** (Four tabs)
 - **Air Ride** — course select map + checklist grid layer
 - **City Trial** — overworld map + checklist grid layer
 - **Top Ride** — course select map + checklist grid layer
+- **AP Custom** - Custom AP checklist grid layer
 
 Each tab has two map layers: switch by clicking the layer icon.
 
