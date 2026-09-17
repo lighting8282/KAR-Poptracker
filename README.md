@@ -35,7 +35,7 @@ all three modes (Air Ride, Top Ride, City Trial) plus the Stadium checks. (More 
 
 - **PopTracker** 0.25+ (tested on 0.33.0)
 - **Kirby Air Ride** GameCube ROM (NTSC version) (Legal ROM needed)
-- The latest [Kirby Air Ride Archipelago world](https://github.com/DeDeDeK/KARchipelago/releases)](https://github.com/DeDeDeK/KARchipelago/releases) installed in your AP setup
+- The latest [Kirby Air Ride Archipelago world](https://github.com/DeDeDeK/KARchipelago/releases)installed in your AP setup
 - Dolphin emulator + the AP Dolphin client (for autotracking)
 
 ## Layout
